@@ -9,7 +9,7 @@ def tokenize(string):
     return re.findall(r'\w+', string.lower())
 
 
-def count_ngrams(lines, min_length=2, max_length=4):
+def count_ngrams(lines, min_length=5, max_length=10):
     lengths = range(min_length, max_length + 1)
     ngrams = {length: collections.Counter() for length in lengths}
     queue = collections.deque(maxlen=max_length)
@@ -36,7 +36,7 @@ def count_ngrams(lines, min_length=2, max_length=4):
     return ngrams
 
 
-def print_most_frequent(ngrams, num=10):
+def print_most_frequent(ngrams, num=30):
     for n in sorted(ngrams):
         print('----- {} most common {}-grams -----'.format(num, n))
         for gram, count in ngrams[n].most_common(num):

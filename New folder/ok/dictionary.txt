@@ -1,8 +1,20 @@
-please have your i-94 forms filled out : ALLRIGHTASFHKASHFJKASDH
+nothing: *
 
-what is : tera
+nothin': *
 
-what's : tera
+but : *
+
+alot : *
+
+a lot : *
+
+what's the matter with you : *
+
+what are you talking about : *
+
+what is : tera a
+
+what's : tera a
 
 what do you: tera ae ko
 
@@ -12,19 +24,17 @@ i told you : i tuang ko
 
 i told : i tuanga
 
-they say that : *
+they say that : a taku bwa
 
-they told : a* 
+they told : a tuatua 
 
 told me: tuanga
 
 look at that : *
  
-take it easy : *
+take it easy : karaurau
 
-do you think : *
-
-i don't know : *
+do you think : ko iangoia
 
 do you know : ko ataia
 
@@ -96,13 +106,13 @@ new york: new york
 
 come on : *
 
-i don't : *
+i don't : i aki
 
-you got : *
+you got : iai iroum
 
-you have : *
+you have : iroum
 
-talk to : *
+talk to : taetae nakoina
 
 a : ta : the <a, an>
 
@@ -47795,9 +47805,9 @@ irritation : bononano : displeasure, irritation, anger
 
 is : a : affirmative particle much like am, are, is, etc
 
-is : iai : there is, there are (affirmative particle)
+there is : iai : there is, there are (affirmative particle)
 
-is : ua-ra? : e uara te buaka? how is the war going? what is happening? be how?>
+there are : iai
 
 island : aba-makoro : island
 
@@ -49402,7 +49412,7 @@ knotty : tungatunga : knotty, irregular and unsuitable as a log
 
 know : atatai : acquaintance, skill, familiar knowledge
 
-i don't know : ngkam
+i don't know : i aki ataia
 
 don't know : ngkam
 
@@ -82735,114 +82745,7 @@ spe : ikaraoi : spe babai
 
 spe : uteute-m'aane : spe grass
 
-speak : arara : to speak in soft monotone
-
-speak : bakatekea : to steer towards, to aim at, to head for, to point out, to speak directly to,
-to blame directly
-
-speak : b'anaab'ab'aki : speaking with a loud voice
-
-speak : b'anaab'angub'angu : speaking with a nasal voice
-
-speak : b'anaabuaka : speaking with a poor voice, speaking illy
-
-speak : b'anaake : speaking with a squeaking voice
-
-speak : b'anana : speaking angrily
-
-speak : banana : to speak with loud shrill voice
-
-speak : b'anaaraoi : speaking with a pleasant voice, speaking with kindness
-
-speak : b'anaarurururu : speaking with a trembling voice
-
-speak : b'anaataekeke : speaking with a clear, attractive voice
-
-speak : b'anaatakutaku : speaking with a stuttering voice
-
-speak : banatakutaku : to speak a foreign language, to speak with a foreign accent
-
-speak : b'anaatooto : speaking with a small feeble voice
-
-speak : banatoto : to speak with a weak, squeaky voice (like a mouse)
-
-speak : kabaikatekea : to speak of one's self as skilled in throwing
-
-speak : kakanangakia : to speak of one as not to be easily approached
-
-speak : kakauarereke : to speak with a small tone, to work slowly
-
-speak : kangongoa : to excite one to frequent chiding, to address, to speak to, to accost
-
-speak : kaongongo : to speak louder or more distinctly
-
-speak : karerua : (fig) to upset, to speak, to intervene wrongly. (kare-rua)
-
-speak : kauaen/ti : to speak of ghosts
-
-speak : kawiremwe : to speak slowly
-
-speak : kawitata : to speak rapidly
-
-speak : rai: : refusing to speak because offended
-
-speak : tabo n newe : (2) to make arrangements with ..., to agree to ..., to speak about 
-
-speak : taekana : to take for subject matter, theme, or discourse, conversation, discussion, to
-speak of, to mention in narrative
-
-speak : taekina : to speak of, to tell about, to narrate, to relate, to mention
-
-speak : taetae : to speak, to talk
-
 speak : taetae : to speak, to chat, to converse, to talk
-
-speak : taetae raoi : to speak nicely, kindly
-
-speak : tai tikabu : taitababu. don't speak! don't make a noise
-
-speak : takarara : mautakarara. to speak quickly in shrill voice which can't be understood
-
-speak : tae/rotuaa : to speak impatiently of, as of a troublesome child
-
-speak : tingo : tingo n taetae: loquacious, talkative, fluent; tingoraraoi: a good speaker,
-eloquent, interesting
-
-speak : waira : to disparage, to speak badly of ..., to speak disparagingly of 
-
-speak : wi uoua : to speak in doubtful terms
-
-speak : wibuaka : to speak ill
-
-speak : wi-kaukau : to speak in yapping, rude, disagreeable voice
-
-speak : wi-koa : (1) wikoa n taetae: to speak rapidly
-
-speak : wi-matoa : to speak firmly, forcibly, or obstinately, to persist in one's opinion, to be
-obstinate, stubborn in one's ideas, ... advice
-
-speak : winikamarane : to speak improperly to a woman
-
-speak : wi-o : to speak openly without fear, to use open, candid, <frank> unreserved
-language
-
-speak : wiraoi : to speak pleasantly and peacefully and properly
-
-speak : wiraoi : wiwiraoi: to speak well, to use nice language
-
-speak : wirereitina : to speak without bashfulness
-
-speak : wirikiriki : to eat with very small mouthfuls, to speak softly
-
-speak : witata : to speak rapidly
-
-speak : witata : (1) wiwitatata: to speak rapidly
-
-speak : witoka : to speak rapidly
-
-speak : witoka : wiwitoka, witokatoka. to speak, or eat with rapidity
-
-speak : witoka : wi-toka: to speak, or eat (something) quickly
 
 speak about : barantiko : barantikoa: to speak about
 
@@ -91024,42 +90927,9 @@ theology : taeka : taekan te Aro: religious instruction, theology
 
 there : aikai : there
 
-there : akea : iai? akea: is there any? there is none
+is there : iai? akea : iai? akea: is there any? there is none
 
 there : akekei : aine akakei: those women there ao akekei!: there they are over there!
-
-there : aan/ne : right there
-
-there : anne : anne! there (not very very far)
-
-there : arei : there, over there
-
-there : iai : there is, there are (affirmative particle)
-
-there : iai : there, here, on account of, because of, by (there is, or, to have, if it
-begins a sentence)
-
-there : ika : there where ... in
-
-there : ikan/ne : there but not far away
-
-there : ikanne : there, over there (not very far)
-
-there : ike : there, where 
-
-there : ikekei : there, over there, far
-
-there : ikoa : there, over there, thereabouts, far
-
-there : mai iai : from there, from that place
-
-there : maiai : thence, from there
-
-there : maikanne : from there (near)
-
-there : maikekei : from there (far)
-
-there : uatae/beai : occurring here and there as grey hairs
 
 thereabouts : ikoa : there, over there, thereabouts, far
 
@@ -92832,20 +92702,7 @@ title : atun taeka : title, heading
 
 tittle tattle : maninrongorongo : to spread false news, to exaggerate, to invent stories, tittle tattle
 
-to : n : in, at, to, by, with, of n
-
-to : nako : nakon, nakoni: to, towards, against, more than; nakoiu, nakoim, nakoina,
-nakoira, nakoimi, nakoia: towards me, etc
-
 to : nakon : to
-
-to : nakon : nakon Tauro: to Tauro; nakoni Petero: to Peter
-
-to : nakoni : to (nakon with the euphonic i)
-
-to : ni : in, at, to, by, with, of
-
-to : ni : euph. for n. at, in, for, to (used before b, k, m, ng, p, w)
 
 toad : biraoki : frog, toad
 
