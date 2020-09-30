@@ -9,7 +9,7 @@ def tokenize(string):
     return re.findall(r'\w+', string.lower())
 
 
-def count_ngrams(lines, min_length=3, max_length=10):
+def count_ngrams(lines, min_length=1, max_length=7):
     lengths = range(min_length, max_length + 1)
     ngrams = {length: collections.Counter() for length in lengths}
     queue = collections.deque(maxlen=max_length)
@@ -45,7 +45,7 @@ def print_most_frequent(ngrams, num=30):
 
 
 start_time = time.time()
-with open('Bean-English.srt') as f:
+with open('scarface.srt') as f:
     ngrams = count_ngrams(f)
 print_most_frequent(ngrams)
 elapsed_time = time.time() - start_time

@@ -54,37 +54,27 @@ def translate(words, num):
         #print(words)
         num_words = ' '.join(sub_words)
         try:
+            if dictionp[num_words]:
+                try:
+                    if sub_words[num+2] in ['it', 'he', 'she']:
+                        return num + 1, dictionp[num_words]
+                except IndexError:
+                    pass
             return num, dictionp[num_words]
         except KeyError:
             pass
         try:
             return num, diction[num_words]
         except KeyError:
-            num -= 1
-    #if num == 2:
-        ##print(words)
-        #words = list(itertools.islice(words, 0, 2))
-        #word2 = ' '.join(words)
-        #try:
-            #return 2, dictionp[word2]
-        #except KeyError:
-            #pass   
-        #except IndexError:
-            #return 1, words[0]      
-        #try:
-            #return 2, diction[word2]
-        #except KeyError:
-            #num -= 1  
-        #except IndexError:
-            #return 1, words[0]   
-        
-        
+            num -= 1 
     try:
         word1 = words[0]
         print(diction[word1])
         return 1, diction[word1]
     except KeyError:
         return 1, words[0]       
+
+
 
 def strip_word(word):
     word = word.replace('<i>', '')

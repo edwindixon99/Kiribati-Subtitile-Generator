@@ -8,9 +8,33 @@ alot : *
 
 a lot : *
 
+bye : tiabo
+
+good bye : tiabo
+
+bye-bye : tiabo
+
+see ya : tiabo
+
+see ya later: tiabo te oke
+
 what's the matter with you : *
 
 what are you talking about : *
+
+it's : e a
+
+its : e a
+
+it is : e a
+
+he's : e a
+
+she's : e a
+
+she is : e a
+
+he is : e a
 
 what is : tera a
 
@@ -77,6 +101,10 @@ this is: aio
 for you: ibukim 
 
 thank you: ko rabwa 
+
+thanks : ko rabwa 
+
+thanks alot : ko rabwa 
 
 are you: ko 
 
@@ -27019,134 +27047,9 @@ easy : maebwebu : in easy circumstances, comfortable, having sufficient
 
 easy : neiranraoi : easyily securing the thing desired
 
-eat : am'arake : eat
-
 eat : amarake : food, eatables, meals, victuals
 
 eat : amarake : to eat, take food, take meals
-
-eat : boria : boria te amarake: to eat a certain dish together
-
-eat : butona : 1\. to eat moderately, to economize on food
-
-eat : ewe : err by eating forbidden food
-
-eat : ingainga : impatientce in waiting for the time to eat or go
-
-eat : ino : be eaten of maggots
-
-eat : in/tibua : heavy or stupid after eating heartily, or with sickness
-
-eat : iria : food eaten or something done in remembrance of
-
-eat : itimareare : nearly all gone..., eaten, gone away, taken away, scattered, etc
-
-eat : kab'aub'au : to eat voraciously and noisily
-
-eat : kaikai : kai: to eat, to take a meal
-
-eat : kaikewi : to eat, to partake of food
-
-eat : kakimoa : to eat the first fish caught with new net or new canoe
-
-eat : kamangao : to eat without dieting, to eat unprepared food
-
-eat : kae/na : to eat, to consume
-
-eat : kana : irreg. to eat, to devour, to consume, to gnaw, to deteriorate;
-
-eat : kana : kanaki, kakanaki: edible, eatable
-
-eat : kanauti : to eat greedily, to seize food hastily
-
-eat : kanawaru : to eat or pull at bait, to be tricked
-
-eat : kang : to eat
-
-eat : kang : to eat, to consume
-
-eat : kangi tabu : to eat food forbidden to person or clan
-
-eat : katoua : to drink straight, without diluting, to eat fish without anything else besides
-(Butaritari)
-
-eat : kauaraa : to embarrass one about to eat, as a crowd of people
-
-eat : kauuka : to eat or drink one article without a mixture
-
-eat : kauka : to drink fresh toddy neat, to drink or eat a single dish without anything
-besides
-
-eat : kaukinana : to eat out the kernel of the coconut with teeth
-
-eat : m'akerukeru : make a crunching sound in eating, or a nibbling or gnawing sound as a rat
-
-eat : mamae/tam : frequentative of matam  eat
-
-eat : m'angainrang : eat voraciously
-
-eat : mange : to eat, to chew with 
-
-eat : mae/tam : partake of food, to eat
-
-eat : matam/tam : make a noise with the lips in eating
-
-eat : matamu : to eat
-
-eat : maukaen/na : keep eating food while one is preparing it
-
-eat : mtam/ta : the slobberings of a child in eating
-
-eat : naem/naem : eat up the remnant of soft or liquid food as molasses with the finger
-
-eat : nawawaki : stupid through overeating
-
-eat : ngae/ngau : unable to restrain one's desire, eating without waiting for others
-
-eat : ngaungau : to eat voraciously
-
-eat : oraa : eat raw as fish
-
-eat : oraora : eating fish raw
-
-eat : tab'aninia : to eat food in common to give unanimity to words or statements
-
-eat : tarawawa : indisposition to eat or work
-
-eat : taarika : a small portion of food set apart before beginning to eat, as a sort of first
-fruits
-
-eat : timinene : to eat with much relish
-
-eat : ub'aete : suffering with dyspepsia or a sense of fullness after eating
-
-eat : uka : kauka: to drink neat, to eat or swallow unadulterated
-
-eat : ukinaena : eating out the kernel of a coconut with the teeth, gnaw
-
-eat : ukinae/naa : eat out the kernel from a coconut with the front teeth
-
-eat : ung : chew and eat or suck pandanus fruit or bunia
-
-eat : ungira : chew and eat or suck as pandanus fruit or bunia
-
-eat : un/ra : eat or chew pandanus fruit, bunia husk, or sugar cane
-
-eat : wanimae/tang : to eat fish (just caught) in privacy
-
-eat : wi-amarake : always ready to eat
-
-eat : wi-koa : (2) wikoa n amarake: to eat quickly
-
-eat : wirikiriki : to eat with very small mouthfuls, to speak softly
-
-eat : wirikiriki : to speak softly, ... in low voice.(2) to eat, hardly moving jaws
-
-eat : witata : (2) to eat quickly
-
-eat : witoka : wiwitoka, witokatoka. to speak, or eat with rapidity
-
-eat : witoka : wi-toka: to speak, or eat (something) quickly
 
 eater : bua n rang : a glutton, a big eater
 
@@ -36254,240 +36157,6 @@ foo : maem : portion or part, esp of soft food <foo>
 
 food : amarake : food, eatables, meals, victuals
 
-food : areare : productivity, abundant harvest, sufficient food
-
-food : areare : e areare: sufficient food, in sufficient quantity, enough for each guest
-
-food : awaro : a kind of food taken from stalk of pandanus (used only in time of famine).
-(S.)
-
-food : baia : a coarse kind of food, tough and stringy
-
-food : bairaraoi : impartial in the distribution of food
-
-food : bakarawa : food distributed to donors in compensation
-
-food : bakawai : a variety of food, a delicacy made with taro
-
-food : bakotakarewena : suffering from the want of sufficient food
-
-food : betinoma : tough food removed from the mouth after having been chewed
-
-food : bua : balls of food as dough, rice shaped by hand
-
-food : buaoaomata : spoken of food not thoroughly cooked
-
-food : buatoro : a preparation of food made from taro and toddy
-
-food : burae/ngenge : somewhat covetous of food
-
-food : ewe : err by eating forbidden food
-
-food : ienikuri : prepareing food or a canoe in haste for a departure
-
-food : ika : pound as food with a pestle
-
-food : ikatoatoa : feast in which food is exchanged
-
-food : iooki : make exchange, esp of food in a maneaba
-
-food : iooki : exchangeing of food
-
-food : iria : food eaten or something done in remembrance of
-
-food : kabubu : preserved food made from pandanus fruit, a drink in which this food is mixed
-in water
-
-food : kabunnai : food, made to go farther by the addition of some other article
-
-food : kaewenako : 1\. the setting apart in advance of food (te ari) for the ancients
-
-food : kai ni marewe : specially chosen food or drink put aside
-
-food : kaikewi : to eat, to partake of food
-
-food : kainimae/rewe : food or drink set aside for a special time
-
-food : kakibae/kibaeki : causing a constant craving for food
-
-food : kaakoaki : to beg, especially for tobacco and food
-
-food : kamae/biao : causing sufficiency of food
-
-food : kamae/ri : making plenteous as food
-
-food : kamae/tam : a portion of food
-
-food : kae/na : food (followed by the suffix possessive pronoun)
-
-food : kana : kanan te food, nourishment, prey, fodder, etc
-
-food : kanangora : food set aside for a man or woman who is in love
-
-food : kannanun : kannanunia, kannanuniaia: to give a magic food to make fight, to give courage
-
-food : kanokunoku : causing sullenness especially about food
-
-food : kanuai : satisfying as food of good quality
-
-food : kaoti : food collected for the supply of stranger guests
-
-food : kaoti : food displayed in maneaba before distribution
-
-food : karara : our food
-
-food : kareb'e : a social meal among fishermen on the evening before the fishing excursion, the
-food itself
-
-food : karetabo : a certain distribution or exchange of food in which those who are just outside
-the maneaba are served first
-
-food : katae : food furnished or supplied to an assembly
-
-food : katio : (3) the food presented. (4) method of kamarin. a small quantity of kabubu is
-put in cup and a little water added and stirred, repeating until finished
-
-food : katio : katio, kakatio: to present food
-
-food : katorotib'a : to engage in distributing or dividing portions of food for one's neighbors
-
-food : kauarokoa : to start a person off with food for a chief
-
-food : kaubaeti : a pandanus fruit especially set aside for one's own food
-
-food : kauna : a kind of food (kabubu mixed with a, tabataba, tangauri)
-
-food : koring : a portion of food reserved for another
-
-food : korobun : choking with food, loss of appetite through pain
-
-food : korokoro : (1) a kind of food made from kabubu and kamaimai made into balls
-
-food : maebiao : well provided for as a family wirh food <soc>
-
-food : maem : portion or part, esp of soft food <foo>
-
-food : maki : food prepared for a dead person about to be buried
-
-food : mae/ma : food which has been masticated for an infant
-
-food : mae/maa : food which has been masticated for a little child
-
-food : manam : a dish, food, a mixture of taro and grated coconut rolled in balls
-
-food : m'aototo : food in many fragments
-
-food : mae/ribo : active, energetic, busy, as in procuring food
-
-food : mae/rike : refreshed with food
-
-food : m'aro : sink, founder, go down as food
-
-food : mae/roa : food, refreshment
-
-food : maroa : a part of food portioned out
-
-food : mae/tam : partake of food, to eat
-
-food : mataen/ria : sad faced because not sharing in food
-
-food : maetuao : food prepared to be eaten by a child in the night
-
-food : matuao : (dipth. ao) food, supper
-
-food : mweaeka : food eaten near the close of a voyage, no longer held in reserve
-
-food : naemaonga : swallow a portion of the food which is being masticated for a little child
-
-food : naem/naem : eat up the remnant of soft or liquid food as molasses with the finger
-
-food : naem/ta : taste of a liquid or soft food
-
-food : nana : food (a homely word used without article, employed to designate food for
-children),
-
-food : nanama : taste of, or test the taste of food
-
-food : nibaenene : food stored in a basket (esp. for children)
-
-food : nikarearea : any especially relishable food
-
-food : nikira : to engage in taking food to guests
-
-food : niniku : ashamed because of lack of sufficient clothing of food
-
-food : nnanna : te nanna. baby talk for food
-
-food : noku : offended, sullen, sulky, esp in reference to food
-
-food : ngabingabi : a mat used as a spread or container for food
-
-food : ngae/ngarake : suffering occasioned by food entering the nasal passage
-
-food : ng…nge : to beg for food by one's looks, to be covetous of food
-
-food : ng/ka : food to be chewed for the juice (used only with the suffix pronoun)
-
-food : rae/nea : faint, or languishing through want of food
-
-food : rawekai : the employment of securing food
-
-food : rekenibai : food for guests
-
-food : rekenibaia : to take along in the hand as food to be used during temporary absence
-
-food : rieta : food in readiness for one returning from fishing ( it take s the suffix
-pronoun)
-
-food : tabaa : choked with food
-
-food : tabeutaa : to break into small pieces as food
-
-food : tabonibaimaiu : skilled in procuring food
-
-food : taeneiairoro : to partake of food unceremoniously
-
-food : tae/re : too short to reach, not sufficient as food
-
-food : taarika : a small portion of food set apart before beginning to eat, as a sort of first
-fruits
-
-food : tianaki : lunch, food for the journey
-
-food : tikurere : a food or drink especially desired
-
-food : tim'a : a food specially relished
-
-food : timamwi : food (any kind) wrapped and cooked on coals
-
-food : titi : soft as food prepared for eating
-
-food : toka : to soften food with water and a puunder in a vessel, as tuae
-
-food : tooma : a taste of a liquid food
-
-food : tua : moderate in amount as food
-
-food : uaakana : engage repeatedly in taking food to a person
-
-food : uaakana : repeated carrying of food to a person
-
-food : uaakanaa : go to or visit a person for the purpose of giving him food repeatedly
-
-food : uakana : I uakana Ten Naewa: I am taking food to so and so
-
-food : uarokoa : present a chief with food
-
-food : ukebiri : be in a quandry, esp in reference to one's ability to supply guests with food
-
-food : ukebiri : state of doubt or perplexity as to the supply of food
-
-food : waitekea : to fork food, to lift food with a fork
-
-food : waneinei : too watery, mixed as food with too much water
-
-food : wikangkang : gourmet, gourmand, lover of good food
-
 fool : aibabaa : foolish, idiotic
 
 fool : aibabaa : foolish person, fool
@@ -42580,10 +42249,6 @@ health : kamaure : giving health, saluting
 health : marabe : glowing with health, flourishing, prosperous
 
 health : marurung : good health, robustness, vigour
-
-health : mauri : be in health
-
-health : mauri : good health, sound life, hail!
 
 healthy : kariki n aomata : healthy in body and mind, sociable, well proportioned
 
@@ -51519,8 +51184,6 @@ life : kiangang : full of fire, flame, full of life, quick, sharp
 life : maiu : life, salvation, a comfortable condition of mind or body
 
 life : maiu : life, existence, salvation, comfort
-
-life : mauri : good health, sound life, hail!
 
 life : tabarebare : full of life, ardour, for some work or other, active, enterprising or
 mischievous, meddling <meddle>
@@ -73937,7 +73600,7 @@ safe : ati : te ati ni mane: money safe te ati ni berita: Ark of the Covenant
 
 safe : baro : 1\. attic, provision box, hutch, silo, small box, safe
 
-safe : mauri : mauri, mamauri: to be alive and well, safe and sound
+safe : mamauri: to be alive and well, safe and sound
 
 safeguard : tan : protect, cover, defend, safeguard
 
@@ -74255,8 +73918,6 @@ salty : tutari : too salty
 salutation : kabo : a parting salutation, antiphonal ruoia
 
 salutation : kamauri : a salutation, a greeting
-
-salutation : mauri : te kamauri: salutation
 
 salute : arobairi : salute by touching noses and smelling
 
@@ -82306,102 +81967,8 @@ to lead, direct an enterprise, to be the soul of, ... to organize
 
 souls : wenei : (1) fleeting objects, souls, spirits of dead
 
-sound : aen/ti : sound or fresh as an egg
-
-sound : babababa : sound of escaping air or water
-
-sound : bakeke : a direct hit, sound of direct hit
-
-sound : bangu : bangu, bangubangu: hollow sound, nasal sound, empty
-
-sound : baru : a dull sound, hollow sound like breaking open a coconut
-
-sound : beku : bekubeku: hollow sound of box, drum, log, etc., noise of this kind
-
-sound : bekubeku : a resonant sound a wooden mould or cylinder used in making a container for
-kabubu
-
-sound : bengu : bengubengu. a sound, a hollow sound
-
-sound : bongubongu : 1\. hollow sound
-
-sound : ibengungu : low sound of voices in quiet discussion carried on nearby
-
-sound : ingu : ingu and u: movement with muffled sound
-
-sound : kareb'ea : to explode, to make something give forth a sharp sound
-
-sound : karu : to sound, to make a noise by collision
-
-sound : katangibu : tangin te bu: sound of musical instruments, of band
-
-sound : katangibwerei : harmonious sound of instrument
-
-sound : katiti : hissing sound, hissing between teeth, s sound before i and u (si, su for ti
-and tu)
-
-sound : koakoa : to give forth a harsh sound, as in sawing, or scraping coconut with a shell
-
-sound : kota : kotakota: gurgling <gurgle> sound
-
-sound : kung : kungkung: grunt, grunting sound
-
-sound : kunimaninganinga : to be inconvenienced by disagreeable noises, rasping sounds, to shudder
-
-sound : m'akerukeru : make a crunching sound in eating, or a nibbling or gnawing sound as a rat
-
-sound : makerukeru : a crunching sound
-
-sound : mae/ninga : distressed by grating sounds or the sight of wounds
-
-sound : maeningongo : sound of voices in low conversation
-
-sound : maningongo : indistinct sound of voices, a noise of distant voices, whispering
-
-sound : mauri : mauri, mamauri: to be alive and well, safe and sound
-
-sound : neaa : a sound as of wind
-
 sound : rebwe : bang, detonation, report of gun, crashing sound, cracking noise, crack,
 explosion
-
-sound : taekeke : tang n taekeke, banataekeke: a piercing cry, a shrill sound, hurling cry
-
-sound : takaneinei : covered with pools of water, have sound of liquid when shaken
-
-sound : takaruru : to give a muffled sound when rattled, to shake, to rattle
-
-sound : takiri : regular sound of repeated beats (footsteps, horse's gallop, beating of drum,
-etc.)
-
-sound : tang : tangitang: a cry, plaint, wail, complaint, reclamation, sound, siffle, peal,
-creak
-
-sound : tangi ni kimoa : giving little sound
-
-sound : tangibuaka : a disagreeable sound
-
-sound : tangibururu : to buzz, to roar as rigging, to sound loudly, as rain in a very heavy shower
-
-sound : tangibururu : e bururu tangina: sound of saw jerking, buzz, hum, whirr of aeroplane
-
-sound : tangimaka : powerful sound, loud peal, call, ring
-
-sound : tangimara : feeble sound
-
-sound : tangi-raoi : to give harmonious sound
-
-sound : te : tete: fizzing sound, bubbling, fermenting, seething, noise made by
-effervescence
-
-sound : tete : hissing sound, sound of liquid boiling
-
-sound : to : katoa: to make emit a weak sound, to squeak
-
-sound : wanawana : intelligence, reason, commonsense, sound judgement, wisdom, sagacity,
-perspicacity, clairvoyance, prudence
-
-sound : wiraraoi : having handsome, regular and sound teeth
 
 sour : babue : 1\. to have heartburn, sour stomach
 
@@ -82439,7 +82006,9 @@ south : ang : direction \-- angimeang, angimaiaki, angimaeao, angimainiku: north
 south... west... east wind quality of -- angkau, angobo, angtanaboabo,
 angtanene, ang tabataba, ang taururu
 
-south : Bore : te bore maiaki: South Pole
+south pole : Bore : te bore maiaki: South Pole
+
+antarctica : Bore : te bore maiaki: South Pole
 
 south : maiaki : south
 
@@ -94106,7 +93675,7 @@ tree : oitangere : tree the diameter of whose trunk varies suddenly
 
 tree : oitoro : tree or person of unusual circumference
 
-tree : oke : oak tree
+tree   : oak tree
 
 tree : onokai : six in counting trees, fish-hooks, and sections of land
 
@@ -100013,10 +99582,6 @@ whosoever : ane : who, that, which, whosoever
 
 whosoever : are : who, whom, that, which, what, whoever, whosoever, whomsoever, whichever (used
 for what is distant in time and space) past and future
-
-why : aao : why, wherefore
-
-why : ba : ao ba?: why? taua ba kanam: take as your food
 
 why : buki : i bukin tera: why? for what reason?
 
