@@ -7,7 +7,7 @@ import json
 diction = {}
 final = []
 alpha = list(string.ascii_lowercase)
-f = open("dictionary.txt", "r")
+f = open("dictionary.txt", encoding = "ISO-8859-1")
 lines = f.readlines()
 for line in lines:
     line = line.rstrip().split(':')
