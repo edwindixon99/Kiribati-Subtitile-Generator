@@ -1,8 +1,18 @@
+i'm : i
+
+i am : i
+
+hi : mauri
+
+hey : mauri
+
+sup : mauri
+
+what's up : mauri
+
 nothing: *
 
 nothin': *
-
-but : *
 
 alot : *
 
@@ -19,6 +29,12 @@ see ya : tiabo
 see ya later: tiabo te oke
 
 what's the matter with you : *
+
+what is the matter with you : *
+
+what is your problem : *
+
+what's your problem : *
 
 what are you talking about : *
 
@@ -42,7 +58,7 @@ what's : tera a
 
 what do you: tera ae ko
 
-want you to : 
+want you to : *
 
 i told you : i tuang ko
 
@@ -63,6 +79,7 @@ do you think : ko iangoia
 do you know : ko ataia
 
 i'm going to : nangi nako
+
 
 i want to: i tangiria ni
 
@@ -123,6 +140,8 @@ want to: tangiria ni
 all right: e raoiroi 
 
 okay: e raoiroi
+
+okey: e raoiroi
 
 ok: e raoiroi
 
@@ -2529,9 +2548,9 @@ ancient : kawai : old, ancient, antique
 
 ancient : tai : ten tai: three times te tai are rimoa: long ago, formerly, in ancient times
 
-and : ao : and
+#and : ao : and
 
-and : ao : and, with (takes the place of our commas in enumerations, stories), (idiom)
+#and : ao : and, with (takes the place of our commas in enumerations, stories), (idiom)
 
 and : ma : with, and, but
 
@@ -16336,41 +16355,9 @@ combine : kaboang : kaboangia: to do in unison, to combine effort
 
 combine : rengana : to season, to mix, to combine, to amalgamate, to blend
 
-come : bo : to go towards ... to come, to arrive
+come : nako mai: nakomai, nanakomai: to come, to approach
 
-come : bo : bo mai: come here ko bo maiia?: where do you come from? where have you been?
-
-come : iarake : come in as the tide, be on the flood
-
-come : ke : to come
-
-come : kemai : imp. come! come here! approach! come nearer!
-
-come : ki : to come
-
-come : ki:/mai : to come near
-
-come : mai : used imperatively, come here
-
-come : mai : nakomai: come here, come towards me
-
-come : mweau : arrive late, come slowly, move slowly
-
-come : nako : nakomai, nanakomai: to come, to approach
-
-come : oimwi : come too late for
-
-come : rere : to come and go rapidly
-
-come : roko : to come, to arrive
-
-come : roko : to arrive, to come, to come along, to happen, to attain, to reach
-
-come : tabataba : word used to call tame birds to eat <come here>
-
-come : touekanaa : to come frequently to, to visit frequently
-
-come : umaki : (imperative) come here
+come here : nako mai
 
 come back : touekana : to come back often to ..., to make frequent visits, trips to 
 
@@ -16385,14 +16372,12 @@ come forth : bu : to come out, to come forth, to emerge, to bud
 
 come from the south : aiaki : nako aiaki: go south nako maiaki: come from the south i maiaki: in the south
 
-come here : kemai : imp. come! come here! approach! come nearer!
-
 comely : moaraoi : (1) good looking. (2) amiable, comely, pleasing
 
 come off : ma : to disaggregate, to break up, to fall to pieces, to crumble away, to moult, to
 come off in scales (leaves, fruit, hair, food)
 
-come on : uota : uotiko! (barracking term) come on!
+come on : uotiko : uotiko! (barracking term) come on!
 
 come out : bu : to come out, to come forth, to emerge, to bud
 
@@ -34800,7 +34785,7 @@ fishing : roaroa : fishing with rod and line
 
 fishing : tabe : katabea te ika: to go fishing
 
-fishing : taboora : excellent fishing ground
+fishing spot: taboora : excellent fishing ground
 
 fishing : taboro : a mode of fishing with a line in deep water
 
@@ -37979,11 +37964,6 @@ gain : rawea : rawea, rawerawea: to catch, to seize, to take, to capture, to gai
 procure
 
 gain : reke : catch, gain, discovery, result, attainment
-
-gain : tokabora : katoka borana: to succeed, to win, to get out of difficulties, to gain the
-day, to get the better of
-
-gain : ua : te ua, uan te ...: fruit, product, result, gain, profit
 
 gait : waekiekie : a springhalt gait
 
@@ -42624,7 +42604,9 @@ hell : keen/na : gehenna , hell
 
 hell : mone : abyss, hell (no article)
 
-hello : kamauri : a greeting, good day (hail, hello)
+hello : mauri : a greeting, good day (hail, hello)
+
+hey : mauri
 
 helm : bwe : a rudder, helm, steering wheel, tiller, handle bar, fish tail
 
@@ -42775,38 +42757,7 @@ herd : nanai : herd, flock, clutch, flight, mob
 
 herding : ntaangaanga : a gathering or herding together, a company
 
-here : ae : here, used thus,"here,take it"
-
-here : ae : here, behold! look here!
-
-here : aei : here
-
-here : aei : here
-
-here : aiei : here
-
-here : aio : here
-
-here : iai : there, here, on account of, because of, by (there is, or, to have, if it
-begins a sentence)
-
 here : ikai : here
-
-here : ikai : here
-
-here : karemae/ranga : here and there one, not numerous
-
-here : mai : this way, here toward the speaker
-
-here : mai : mai: come here
-
-here : maikai : from here
-
-here : rikai : to pass by here, ... through here
-
-here : ua : uau aei i tari: the water was up to here (show) on me in the sea
-
-here : uatae/beai : occurring here and there as grey hairs
 
 here and there : ririaki : to go to and fro ..., here and there
 
@@ -43067,19 +43018,6 @@ hillock : toa : hill, elevation, bump, knoll, hillock
 hilly : aobuaka : rough, hilly, broken (ground), rocky
 
 hilly : aontabuki : rough, uneven, hilly
-
-him : a : him, her, it, a suffix pronoun following an active transitive verb, usually
-united to the root by i
-
-him : ina : him, her (used after nako)
-
-him : ina : suff. (or na preceeded by an i euph.) him, it
-
-him : rou : i rouna: by him, etc
-
-him : teuaei : he here, him here
-
-him : teuan/ne : he or him right there, i.e. somewhat near by
 
 him : teuarei : he yonder, him yonder
 
@@ -44648,7 +44586,7 @@ hypothesis : rereti : surmise, guess, suspicion, supposition, hypothesis, interp
 
 hyssop : 'utoba : hyssop [Biblical plant]
 
-I : i : I, me
+i : i : I, me
 
 I : I : I tiku: I stay
 
@@ -46619,8 +46557,6 @@ insist : tebomaurua : to be intent on, to set one's heart on, to insist in the h
 
 insist : tebona : (2) tebona, tetebona: to insist strongly with ..., to incite, to press, to
 push, to force, to compel ..., to 
-
-insist : ua : to wait until, have patience till, insist until, remain until 
 
 insistence : imanono : insistence
 
@@ -58055,38 +57991,15 @@ very mean, miserly
 
 niggardly : tautia : tatautia: to be niggardly ... towards, to refuse to give through meanness
 
-night : bong : night, a day of 24 hours
-
-night : bqng : being night, dark
-
 night : bong : night
 
-night : bongiro : dark night, dark, obscurity
+last night : ngkebong : last night
 
-night : bongiroro : very dark night
+yesterday night : ngkebong : last night
 
-night : kabonga : to wait or last till night
-
-night : kabongibonga : to wait till night
-
-night : ngkebong : last night
-
-night : ro : e ro: night, dark, gloomy, obscure, ignorant, without reason
-
-night : taira : the middle portion of the night
-
-night : taira : late at night, midnight, two or three hours before or after
+midnight : taira : late at night, midnight, two or three hours before or after
 
 night : tairo : end of twilight, beginning of night
-
-night : ua : await the night or sunset
-
-night : uma : a system of navigation for travelling at night
-
-night : waero : v.t. waeroa. to go by night, to travel about ..., to go to ..., stealthily
-<stealthy>, secretly (for good or bad end)
-
-night : wia bong : approaching night, nearly night
 
 nightfall : uabong : ua te bong, n ua te bong: until nightfall
 
@@ -59376,13 +59289,6 @@ odour : ueburoung : pandanus flower odour, fragrance of ..., odoriferous, smelli
 odyssey : kabutaba : to travel over country, to journey, to make rounds. n. odyssey
 
 oesophagus : ba ni kana : gizzard, crop, oesophagus, gullet
-
-of : irou : mairou, mairoum, mairouna, etc.: of, by (Latin ex) from me ... you ..., him,
-etc. (persons and animals)
-
-of : n : in, at, to, by, with, of n
-
-of : n : of, in, at, by, for, with, as
 
 of : ni : in, at, to, by, with, of
 
@@ -66894,8 +66800,6 @@ produce : uamari : productiveness, fertility, fecundity, produce in abundance
 product : kamaiti : te tia kamaiti: multiplier te tia kamaitaki: multiplicand.te reke: product
 
 product : maiti : te tia kamaiti: multiplier. reken te maiti: result, product
-
-product : ua : te ua, uan te ...: fruit, product, result, gain, profit
 
 productive : areare : fig. for productive pers. good provider, worker, fruitful worker
 
@@ -87506,10 +87410,6 @@ sunset : bung : bungin tai: sunset
 
 sunset : bungintai : sunset, western horizon
 
-sunset : tai : e oti tai (no article): sunrisee bung tai: sunset
-
-sunset : ua : await the night or sunset
-
 sunshine : kariringa : to wait for sunshine
 
 sunshine : riringa : clear sunlight, sunshine
@@ -90295,82 +90195,35 @@ pleasure
 
 thanking : aitau : kaitauan, kaitauakin: thanking
 
-thanks : aitatarika : thanks, thanks for a courtesy (an antique word, little used)
-
-thanks : aitau : to give thanks (S.)
-
-thanks : karaba : thanks
-
-thanks : tituararaoa : to give thanks, to give present, gift, etc
-
 thanksgiving : katituaraoi : thanksgiving, praise for liberality
 
-thank you" : rab'a : ko rab'a: you are kind, often used where we would say "thank you"
+that thing : baerei : adj. that thing there
 
-that : ae : who, which, whom, that
+#that : kangai : e taetae ni kangai: he said ... ni kanganne: like that
 
-that : aika : (pl. of ae) who, whom, of whom, that, which
+#that : naei : that little boy yonder
 
-that : ake : who, whom, that, which
+#that : naene : that little boy near by
 
-that : ane : who, that, which, whosoever
+#that : naerei : that little boy yonder
 
-that : ane : he who, she who, that which
-
-that : an/ne : that one, not far away
-
-that : anne : that (after the verb)
-
-that : aonga : in order that
-
-that : aonga : idiomatic ba I aonga n ..., ba ko aonga n ...: so that, in order that
-
-that : are : who, which, that (yonder)
-
-that : are : who, whom, that, which, what, whoever, whosoever, whomsoever, whichever (used
-for what is distant in time and space) past and future
-
-that : arei : that (yonder)
-
-that : arei : that
-
-that : ba : because, so that, as, for
-
-that : bae/ene : that thing which (nearby)
-
-that : baenne : dem. adj. te bai anne: that thing there
-
-that : bae/ere : that yonder thing which
-
-that : bae/erei : that thing yonder
-
-that : baerei : adj. that thing there
-
-that : kangai : e taetae ni kangai: he said ... ni kanganne: like that
-
-that : naei : that little boy yonder
-
-that : naene : that little boy near by
-
-that : naerei : that little boy yonder
-
-that : naake : that man and woman yonder who, that boy and girl yonder who, those girls
+#that : naake : that man and woman yonder who, that boy and girl yonder who, those girls
 yonder who, those men and women yonder who, those women yonder
 
-that : nei : neienne: that one who ...; neierei: that ..., there; neiere: that one there
+#that : nei : neienne: that one who ...; neierei: that ..., there; neiere: that one there
 who
 
 that : ngai : that this (when speaking of several things)
 
-that : ngaia : he, she, it, that
+#that : ngaia : he, she, it, that
 
-that : teuane : that one there who 
+#that : teuane : that one there who 
 
-that : teuanne : that one there (masculine)
+#that : teuanne : that one there (masculine)
 
-that : teuare : that one over there who 
+#that : teuare : that one over there who 
 
-that : teuarei : that one there
+#that : teuarei : that one there
 
 thatch : ata : ati-ato: to make thatch of coconut leaves
 
@@ -100107,15 +99960,15 @@ with : irou : with, by, on account of (in connection with persons and animals)
 with : irou : pron. irou, iroum, irouna, iroura, iroumi, irouia: by, with (me, you, him,
 etc.), it may be translated as verb to have
 
-with : ma : with
+#with : ma : with
 
-with : ma : with, and, but
+#with : ma : with, and, but
 
-with : n : in, at, to, by, with, of n
+#with : n : in, at, to, by, with, of n
 
-with : n : of, in, at, by, for, with, as
+#with : n : of, in, at, by, for, with, as
 
-with : naba : also, as well, included, inclusively, with, as well as
+#with : naba : also, as well, included, inclusively, with, as well as
 
 with : ni : in, at, to, by, with, of
 

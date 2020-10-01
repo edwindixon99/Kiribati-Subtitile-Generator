@@ -19,25 +19,24 @@ dictx = {}
     # Loop through all lines and words and add n-grams to dict
 for line in lines:
     for word in tokenize(line):
-        if d.check(word) and not word.isdigit():
+        if not word.isdigit() and len(word) > 1:
             try:
                 dictx[word] += 1
             except KeyError:
                 dictx[word] = 1
                 
+
                 
+sorteddict = sorted(dictx.items(), key=lambda x: x[1], reverse=True)                
 print(dictx)
+final = ''
+for i in sorteddict:
+    final += str(i[0]) + ' : ' + str(i[1]) +'\n'
 
 
-#def print_most_frequent(ngrams, num=30):
-    #for n in sorted(ngrams):
-        #print('----- {} most common {}-grams -----'.format(num, n))
-        #for gram, count in ngrams[n].most_common(num):
-            #print('{0}: {1}'.format(' '.join(gram), count))
-        #print('')
-
-
-start_time = time.time()
+w = open("all_count.txt", 'w')
+w.write(final)
+w.close()
 
     
 
