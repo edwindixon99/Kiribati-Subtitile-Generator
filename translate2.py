@@ -198,3 +198,5 @@ clear = Button(window, text="Enter", command=lambda: translate_file_attempt(titl
 clear.grid(row=5, column=0)
 
 window.mainloop()
+
+if __main__()
