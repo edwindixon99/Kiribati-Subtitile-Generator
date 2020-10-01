@@ -72,7 +72,7 @@ i kona watangaina
 
 19
 00:03:07,105 --> 00:03:09,816
-i uaraoi can't watangaina ke taebaatai ngai
+i uaraoi can't nakonako ke taebaatai ngai
 
 20
 00:03:09,899 --> 00:03:11,067
@@ -176,7 +176,7 @@ uaraoi
 
 45
 00:05:39,507 --> 00:05:41,342
-ko  tara to kids
+ko  tara to *
 
 46
 00:05:47,432 --> 00:05:49,434
@@ -188,15 +188,15 @@ i amity ko ba "yard."
 
 48
 00:05:53,021 --> 00:05:56,983
-they're inanon  "yard," tuai taomoa "far" mae/ni to "car."
+* inanon  "yard," tuai taomoa "far" mae/ni to "car."
 
 49
 00:05:59,819 --> 00:06:01,029
-how's ngai
+e uara 
 
 50
 00:06:01,112 --> 00:06:02,280
-kangaiakina you're mae/ni new york 
+te rain * mae/ni new york 
 
 51
 00:06:04,157 --> 00:06:07,452
@@ -224,7 +224,7 @@ weneakina nako akekei i ke utoa ngaia tuai
 
 57
 00:06:13,958 --> 00:06:15,501
-i taku you're nang  mweraoi
+i taku * nang  mweraoi
 
 58
 00:06:15,626 --> 00:06:18,212
@@ -400,7 +400,7 @@ brody: awaka jesus
 
 101
 00:08:59,624 --> 00:09:03,586
-wiraoi you're uti awful utimaka ls to urukau i akekei
+wiraoi * uti awful utimaka ls to urukau i akekei
 
 102
 00:09:05,004 --> 00:09:07,924
@@ -408,7 +408,7 @@ urukau tera uabai iai iroum  boati
 
 103
 00:09:08,007 --> 00:09:09,926
-ngkana teuaei waeai filing wabobo a nakon wakoro
+ngkana teuaei e boou filing wabobo a nakon wakoro
 
 104
 00:09:10,009 --> 00:09:11,928
@@ -460,7 +460,7 @@ ti wanga had any tiaki
 
 116
 00:09:51,592 --> 00:09:55,012
-there's to wenei ka ni waeai hampshire plates moa  ni u okaia
+there's to wenei ka ni e boou hampshire plates moa  ni u okaia
 
 117
 00:09:56,013 --> 00:09:59,684
@@ -484,7 +484,7 @@ uaraoi uabai teuarei ubaraa uramate to tokibaururua uaraoi ubaraa ngaia uramate
 
 122
 00:10:21,372 --> 00:10:24,834
-ukora tera to kids did nakon u riribono 8 ma 9-year-olds
+ukora tera to * did nakon u riribono 8 ma 9-year-olds
 
 123
 00:10:24,917 --> 00:10:26,627
@@ -504,7 +504,7 @@ to rimwimaata ginks batete  ikai i june
 
 127
 00:10:41,309 --> 00:10:43,936
-ko ke got teungina mena boati ikai i ordered
+ko ke got teuana  boati ikai i ordered
 
 128
 00:10:44,061 --> 00:10:48,274
@@ -584,7 +584,7 @@ scoutmaster: albert uotiko  ko kook tauraroa mi koto uti
 
 147
 00:11:42,119 --> 00:11:44,830
-brody: charlie urouronga rou uramate nakon uakekei kids winaine ko
+brody: charlie urouronga rou uramate nakon uakekei * winaine ko
 
 148
 00:11:46,582 --> 00:11:48,209
@@ -596,7 +596,7 @@ brody: charlie urouronga rou uramate nakon uakekei kids winaine ko
 
 150
 00:12:08,312 --> 00:12:11,607
-martin you're nang  maki tuka to beaches boati mi tabunimaete tautaekana
+martin * nang  maki tuka to beaches boati mi tabunimaete tautaekana
 
 151
 00:12:11,690 --> 00:12:13,401
@@ -620,7 +620,7 @@ we're koaua to uta takitaki
 
 156
 00:12:19,490 --> 00:12:22,243
-ngai you're rushing into something rawata ikai
+ngai * rushing into something rawata ikai
 
 157
 00:12:22,326 --> 00:12:24,370
@@ -752,7 +752,7 @@ uarongo rou tara mi tEn/ai
 
 189
 00:13:52,249 --> 00:13:54,418
-alex kintner they're tei nakon tiri-am
+alex kintner * tei nakon tiri-am
 
 190
 00:13:54,502 --> 00:13:56,420
@@ -780,7 +780,7 @@ e a uaraoi to wi warebwe tabare
 
 196
 00:14:05,054 --> 00:14:06,013
-mr taft: they're bringing i
+mr taft: * bringing i
 
 197
 00:14:06,096 --> 00:14:07,348
@@ -788,7 +788,7 @@ ellen: ni i tangiria ni   atatai
 
 198
 00:14:07,431 --> 00:14:09,475
-i uaraoi tangiria ni  atatai teungina ou mena
+i uaraoi tangiria ni  atatai teuana ou mena
 
 199
 00:14:09,558 --> 00:14:11,101
@@ -800,7 +800,7 @@ ellen wanga
 
 201
 00:14:13,395 --> 00:14:15,856
-you're tuai momoi ikai you're tuai to islander ngaiangaia 
+* tuai momoi ikai * tuai to islander ngaiangaia 
 
 202
 00:14:15,940 --> 00:14:17,024
@@ -852,7 +852,7 @@ ma i've got problems i to wari i tangira you'd arokana  ni
 
 214
 00:15:25,009 --> 00:15:26,594
-teungina i've got uta cats parking
+teuana i've got uta cats parking
 
 215
 00:15:26,677 --> 00:15:27,761
@@ -884,7 +884,7 @@ yeah i tua
 
 222
 00:15:46,363 --> 00:15:49,366
-taninga ni kauongo ngkana to kids e a nako inanon  uria ni bati a worrying ko
+taninga ni kauongo ngkana to * e a nako inanon  uria ni bati a worrying ko
 
 223
 00:15:49,491 --> 00:15:52,494
@@ -1020,7 +1020,7 @@ i uton ni tanoata safety ikai
 
 256
 00:18:35,532 --> 00:18:38,535
-rimwi otinako  ningan ma tara ngai tiaki teungina gets wi-ni-kanaeng
+rimwi otinako  ningan ma tara ngai tiaki teuana gets wi-ni-kanaeng
 
 257
 00:18:38,869 --> 00:18:41,371
@@ -1148,7 +1148,7 @@ tiri 24 hours
 
 288
 00:20:25,934 --> 00:20:28,770
-woman: twenty-four hours a kangaiakina uatao weeks
+woman: twenty-four hours a te rain uatao weeks
 
 289
 00:20:29,146 --> 00:20:31,440
@@ -1172,7 +1172,7 @@ ngaia ain't nang  uarea neiranraoi wibuaka wirikoi
 
 294
 00:21:02,304 --> 00:21:03,680
-tuai kangaiakina bung  nakon to neinibae/neawa
+tuai te rain bung  nakon to neinibae/neawa
 
 295
 00:21:03,764 --> 00:21:06,183
@@ -1284,7 +1284,7 @@ toamau
 
 322
 00:23:07,679 --> 00:23:09,473
-you're tuai nang  toara uarea kona nakon nna nako  wenekatoto tonight
+* tuai nang  toara uarea kona nakon nna nako  wenekatoto tonight
 
 323
 00:23:09,598 --> 00:23:11,808
@@ -1316,7 +1316,7 @@ mikey koaua loves na uarokoa
 
 330
 00:23:34,623 --> 00:23:36,124
-e ngaa  teuarei
+e ngaa  
 
 331
 00:23:36,208 --> 00:23:37,334
@@ -1540,7 +1540,7 @@ mrs kintner must've wene na ad i tawaana & wawa
 
 386
 00:28:02,807 --> 00:28:05,101
-taera tabun kangaiakina to national enquirer
+taera tabun te rain to national enquirer
 
 387
 00:28:05,185 --> 00:28:06,603
@@ -1560,7 +1560,7 @@ mauri wete waeai naei uarea ko
 
 391
 00:28:21,117 --> 00:28:24,454
-ba i ongea you're tuai e a nako uramate ni uakekei ruruai ko 
+ba i ongea * tuai e a nako uramate ni uakekei ruruai ko 
 
 392
 00:28:28,625 --> 00:28:30,585
@@ -1572,7 +1572,7 @@ iroum  nakon wawaeakina uramate ke teuarei can't katutu  i ni
 
 394
 00:28:33,963 --> 00:28:36,925
-tikabu waboboa win/rine you're nang  tewearake ngaia iai iroum  to uruba
+tikabu waboboa win/rine * nang  tewearake ngaia iai iroum  to uruba
 
 395
 00:28:37,008 --> 00:28:38,760
@@ -1624,7 +1624,7 @@ nei to meti asked rou nakon taekina ko
 
 407
 00:29:03,326 --> 00:29:04,577
-ngai you're overloading ngai wa
+ngai * overloading ngai wa
 
 408
 00:29:05,495 --> 00:29:07,080
@@ -1640,7 +1640,7 @@ kona ko tuangai  ngkana there's to wiraraoi restaurant ke hotel boati to uum'a
 
 411
 00:29:12,836 --> 00:29:14,087
-yeah ko watangaina tiki ananau ahead
+yeah ko nakonako tiki ananau ahead
 
 412
 00:29:14,170 --> 00:29:15,505
@@ -1648,7 +1648,7 @@ yeah ko watangaina tiki ananau ahead
 
 413
 00:29:15,839 --> 00:29:17,924
-they're ni nang  uramate
+* ni nang  uramate
 
 414
 00:29:18,508 --> 00:29:21,594
@@ -1672,7 +1672,7 @@ what're ko wa akekei uakai ua-ra? mi maungatabu nakonako taetae nakoina  ngaia
 
 419
 00:29:33,523 --> 00:29:35,442
-ngaia aren't u maungatabu they're mae/ni ni tabun
+ngaia aren't u maungatabu * mae/ni ni tabun
 
 420
 00:29:35,525 --> 00:29:37,402
@@ -1680,7 +1680,7 @@ ko tara ni to license plates
 
 421
 00:29:37,527 --> 00:29:40,905
-connecticut rhode uum'a waeai jersey i ni i ngai uramate akekei
+connecticut rhode uum'a e boou jersey i ni i ngai uramate akekei
 
 422
 00:29:40,989 --> 00:29:42,490
@@ -1736,7 +1736,7 @@ matt hooper i mae/ni to oceanographic tei
 
 435
 00:30:05,430 --> 00:30:08,725
-awaka ni christ's sakes you're to guy ti moana i brody
+awaka ni christ's sakes * to guy ti moana i brody
 
 436
 00:30:08,850 --> 00:30:10,852
@@ -1808,7 +1808,7 @@ tera ua-ra? ngaia wa wete akekei
 
 453
 00:30:46,387 --> 00:30:47,847
-they're chumming uaraoi tiba
+* chumming uaraoi tiba
 
 454
 00:30:47,931 --> 00:30:49,057
@@ -1816,7 +1816,7 @@ tera to mone a ngai
 
 455
 00:30:49,140 --> 00:30:50,642
-they're tracking to wakaniba
+* tracking to wakaniba
 
 456
 00:30:50,767 --> 00:30:53,686
@@ -2032,11 +2032,11 @@ kona ti ana to torara taiaoka
 
 509
 00:33:48,152 --> 00:33:50,530
-katorobubua tuka uaraoi kangaiakina i wi uma n reirei
+katorobubua tuka uaraoi te rain i wi uma n reirei
 
 510
 00:33:50,613 --> 00:33:52,573
-teungina wairin&aelign; kneeling teungina wairin&aelign; teretere
+teuana wairin&aelign; kneeling teuana wairin&aelign; teretere
 
 511
 00:33:52,657 --> 00:33:54,409
@@ -2060,7 +2060,7 @@ kona ko ana ngai taiaoka (clicking)
 
 516
 00:34:04,085 --> 00:34:05,294
-how's ngai
+e uara 
 
 517
 00:34:11,968 --> 00:34:13,720
@@ -2372,7 +2372,7 @@ mi husband's unata eng
 
 594
 00:39:34,206 --> 00:39:35,833
-i'd koaua kangaiakina nakon taetae nakoina  teuarei
+i'd koaua te rain nakon taetae nakoina  teuarei
 
 595
 00:39:35,916 --> 00:39:37,501
@@ -2420,7 +2420,7 @@ tiaki
 
 606
 00:40:31,806 --> 00:40:34,517
-u winaine tells rou you're i wi ni bakoa
+u winaine tells rou * i wi ni bakoa
 
 607
 00:40:35,434 --> 00:40:36,560
@@ -2648,7 +2648,7 @@ e a uaraoi to theory ngai i uarea nakon tabo n newe ni
 
 663
 00:43:13,842 --> 00:43:15,427
-rimwi buki tikabu ti uabai teungina tabun wai n ang
+rimwi buki tikabu ti uabai teuana tabun wai n ang
 
 664
 00:43:15,511 --> 00:43:18,013
@@ -2688,7 +2688,7 @@ ma wi-o to digestive tract
 
 673
 00:44:11,066 --> 00:44:12,151
-uaraoi kangaiakina i nae/no
+uaraoi te rain i nae/no
 
 674
 00:44:12,234 --> 00:44:13,235
@@ -2708,7 +2708,7 @@ tiaki
 
 678
 00:44:25,706 --> 00:44:28,459
-ta-ka shark's kangaiakina to garbage kona it'll amarake anything
+ta-ka shark's te rain to garbage kona it'll amarake anything
 
 679
 00:44:28,542 --> 00:44:31,503
@@ -2796,7 +2796,7 @@ i tutua ko to kamarua rate i new york  winaine tiringa ko
 
 700
 00:45:30,813 --> 00:45:34,733
-there's teuana uaano problems ko wanga ri kangaiakina you're accomplishing anything
+there's teuana uaano problems ko wanga ri te rain * accomplishing anything
 
 701
 00:45:34,817 --> 00:45:37,820
@@ -2804,15 +2804,15 @@ un rip-offs muggings
 
 702
 00:45:37,986 --> 00:45:39,071
-to kids can't naako to wari
+to * can't naako to wari
 
 703
 00:45:39,154 --> 00:45:41,281
-you've got nakon watangaina ngaia nakon uma n reirei
+you've got nakon nakonako ngaia nakon uma n reirei
 
 704
 00:45:41,365 --> 00:45:44,368
-ma i amity teungina unimane kona u to taunari
+ma i amity teuana unimane kona u to taunari
 
 705
 00:45:44,868 --> 00:45:47,079
@@ -2864,7 +2864,7 @@ i paid ni teuaei mostly ngai actually
 
 717
 00:46:15,858 --> 00:46:17,651
-you're kidding tiaki
+* kidding tiaki
 
 718
 00:46:18,318 --> 00:46:19,987
@@ -2880,7 +2880,7 @@ personally ke to tabanin wari
 
 721
 00:46:25,200 --> 00:46:29,329
-keng u any tangaroa ngaia tua to guy kangaiakina ngkoe bwa kona  wati wi ni bakoa
+keng u any tangaroa ngaia tua to guy te rain ngkoe bwa kona  wati wi ni bakoa
 
 722
 00:46:29,746 --> 00:46:33,208
@@ -2992,7 +2992,7 @@ tikabu wanga martin nothing's nang  uarea
 
 749
 00:48:44,214 --> 00:48:46,383
-tera a i supposed nakon uareke while you're tarao
+tera a i supposed nakon uareke while * tarao
 
 750
 00:48:46,466 --> 00:48:49,011
@@ -3024,7 +3024,7 @@ i'll uarea wete i uoua minutes
 
 757
 00:50:22,646 --> 00:50:24,731
-aio  to wari white larry to wi warebwe teungina
+aio  to wari white larry to wi warebwe teuana
 
 758
 00:50:24,815 --> 00:50:27,693
@@ -3060,7 +3060,7 @@ ngaia happened wia to jersey win te bike 1916
 
 766
 00:50:44,126 --> 00:50:46,044
-nimaung maungatabu were killed i teungina wiki
+nimaung maungatabu were killed i teuana wiki
 
 767
 00:50:46,128 --> 00:50:47,379
@@ -3076,7 +3076,7 @@ ngai occurs whenever aonteaba beings watangaina ko can't kakaro ngaia
 
 770
 00:50:53,719 --> 00:50:57,389
-warawara to beaches boati to namakaina ni july a kangaiakina ningoningo to amarake katangitang
+warawara to beaches boati to namakaina ni july a te rain ningoningo to amarake katangitang
 
 771
 00:50:57,472 --> 00:50:58,849
@@ -3104,7 +3104,7 @@ i helped uakina ngaia i ko should've tae/rere ngaia
 
 777
 00:51:09,067 --> 00:51:11,820
-e ngaa  ngai wiraraoi did ko tara ngaia brody
+e ngaa   wiraraoi did ko tara ngaia brody
 
 778
 00:51:12,195 --> 00:51:13,822
@@ -3152,7 +3152,7 @@ you'll nna  tubaroro teuaei tabanin rawa
 
 789
 00:51:43,602 --> 00:51:45,312
-i aki  taku either teungina ni ko
+i aki  taku either teuana ni ko
 
 790
 00:51:45,395 --> 00:51:47,105
@@ -3276,7 +3276,7 @@ ti winaine uarea wi-o ni taua
 
 820
 00:53:14,276 --> 00:53:16,194
-it'll uarea teungina ni to taberanikai summers we've ever had
+it'll uarea teuana ni to taberanikai summers we've ever had
 
 821
 00:53:16,278 --> 00:53:18,238
@@ -3304,7 +3304,7 @@ ma uakekei beaches winaine uarea wi-o ni teuaei weekend
 
 827
 00:53:46,224 --> 00:53:48,810
-i tangiria ni   atatai uarea uaano uaakekei you're nang  uaereti
+i tangiria ni   atatai uarea uaano uaakekei * nang  uaereti
 
 828
 00:53:48,894 --> 00:53:51,104
@@ -3428,7 +3428,7 @@ sportscaster boati radio: ngai a tutu shocking inanon  outfield
 
 858
 00:55:50,682 --> 00:55:54,519
-uoua nikaaraarai teungina unikaikai runners moa  ma tenua
+uoua nikaaraarai teuana unikaikai runners moa  ma tenua
 
 859
 00:55:56,271 --> 00:55:58,440
@@ -3532,7 +3532,7 @@ michael tainga
 
 884
 00:58:04,566 --> 00:58:06,734
-michael i aki  kangaiakina ko tiaki tabun
+michael i aki  te rain ko tiaki tabun
 
 885
 00:58:16,494 --> 00:58:18,538
@@ -3596,7 +3596,7 @@ guard: ana i akekei nika wenei nika ko kona
 
 900
 00:59:43,081 --> 00:59:44,290
-uraura teungina
+uraura teuana
 
 901
 00:59:44,791 --> 00:59:47,335
@@ -3660,7 +3660,7 @@ taiaoka makerikaki
 
 916
 01:01:21,220 --> 01:01:25,600
-martin e a uaraoi to ieao iai  uoua kids ni to cardboard ingietanrabono
+martin e a uaraoi to ieao iai  uoua * ni to cardboard ingietanrabono
 
 917
 01:01:25,767 --> 01:01:29,395
@@ -3792,7 +3792,7 @@ ko rabwa
 
 949
 01:04:13,059 --> 01:04:14,101
-how's u wi warebwe kid
+e uara u wi warebwe kid
 
 950
 01:04:14,185 --> 01:04:15,186
@@ -3848,11 +3848,11 @@ yeah to raun ko ataia
 
 963
 01:05:12,660 --> 01:05:14,829
-'cause you're nang  uareke tera ko uareke taberanikai
+'cause * nang  uareke tera ko uareke taberanikai
 
 964
 01:05:14,912 --> 01:05:17,957
-you're nang  torara teuaei voucher teuana i kona bakao to contractor
+* nang  torara teuaei voucher teuana i kona bakao to contractor
 
 965
 01:05:18,040 --> 01:05:19,917
@@ -3872,7 +3872,7 @@ august tera
 
 969
 01:05:27,550 --> 01:05:29,969
-summer's tabun you're to mayor ni wakaniba taun
+summer's tabun * to mayor ni wakaniba taun
 
 970
 01:05:30,052 --> 01:05:31,887
@@ -3892,7 +3892,7 @@ nenei buki you'll uareke to uaraoi mena
 
 974
 01:05:39,979 --> 01:05:41,230
-nenei buki you're nang  torara teuaei
+nenei buki * nang  torara teuaei
 
 975
 01:05:41,314 --> 01:05:44,358
@@ -3900,7 +3900,7 @@ ma we'll tua ngai guy tera teuarei wants
 
 976
 01:05:48,446 --> 01:05:50,906
-u kids were boati ngai win te bike taomoa
+u * were boati ngai win te bike taomoa
 
 977
 01:06:01,751 --> 01:06:03,336
@@ -3928,7 +3928,7 @@ you've got ngai
 
 983
 01:06:22,980 --> 01:06:26,734
-teungina tao ni apricot brandy ma ko kabob'ai to tianaki
+teuana tao ni apricot brandy ma ko kabob'ai to tianaki
 
 984
 01:06:26,859 --> 01:06:30,071
@@ -3936,7 +3936,7 @@ uoua cases ma ko ana amarake tai ko ana wete
 
 985
 01:06:30,237 --> 01:06:32,406
-quint: champagne pÃ©te de foie gras
+quint: champagne pã©te de foie gras
 
 986
 01:06:32,490 --> 01:06:35,076
@@ -3976,7 +3976,7 @@ mr quint
 
 995
 01:07:23,791 --> 01:07:25,334
-you're gonna kai to tania ubouboa
+* gonna kai to tania ubouboa
 
 996
 01:07:25,459 --> 01:07:27,128
@@ -4040,7 +4040,7 @@ ko didn't ba uarea wibuni ko wanted ngaia
 
 1011
 01:08:08,669 --> 01:08:10,087
-how's ngai
+e uara 
 
 1012
 01:08:13,507 --> 01:08:15,009
@@ -4060,7 +4060,7 @@ along comes mr whitey ma tai e a tia ni ngai warawara
 
 1016
 01:08:24,852 --> 01:08:26,395
-ngaia taera kangaiakina to kiddies' tati wari
+ngaia taera te rain to kiddies' tati wari
 
 1017
 01:08:26,479 --> 01:08:28,773
@@ -4080,7 +4080,7 @@ i aki  kai teuaei i aki  kai teuaei working-class-hero crap
 
 1021
 01:08:38,365 --> 01:08:41,911
-you're tuai nang  uareke teuaei aboard to wari ko  mr quint
+* tuai nang  uareke teuaei aboard to wari ko  mr quint
 
 1022
 01:08:43,579 --> 01:08:45,539
@@ -4096,7 +4096,7 @@ yeah e a mi charter e a mi tabo-n-amarake e a u wanimae/tang
 
 1025
 01:08:54,215 --> 01:08:58,052
-you're boati tibae/ra u wanimae/tang i meti tabakea roro
+* boati tibae/ra u wanimae/tang i meti tabakea roro
 
 1026
 01:08:58,886 --> 01:09:00,387
@@ -4228,7 +4228,7 @@ waeai naakai uaraoi ain't quite wanawana
 
 1058
 01:11:00,424 --> 01:11:01,884
-kangaiakina ia grandmothers were
+te rain ia grandmothers were
 
 1059
 01:11:02,009 --> 01:11:03,844
@@ -4248,7 +4248,7 @@ tikabu uteanibaka to nenikanaiai inanon  kama
 
 1063
 01:11:11,477 --> 01:11:13,687
-tera a i nang  taekina to kids
+tera a i nang  taekina to *
 
 1064
 01:11:16,690 --> 01:11:18,859
@@ -4316,11 +4316,11 @@ i wanga ni ngai
 
 1080
 01:12:19,128 --> 01:12:20,838
-how's to missus urukau
+e uara to missus urukau
 
 1081
 01:12:21,922 --> 01:12:25,467
-ngkana ngaia tikabu kangaiakina ko e a nako uramate they'll wanimatea ko obaba i
+ngkana ngaia tikabu te rain ko e a nako uramate they'll wanimatea ko obaba i
 
 1082
 01:12:25,592 --> 01:12:27,428
@@ -4356,7 +4356,7 @@ ua to wi
 
 1090
 01:13:01,003 --> 01:13:03,547
-teungina wia raoi i ukinta to 16-footer nako montauk
+teuana wia raoi i ukinta to 16-footer nako montauk
 
 1091
 01:13:03,630 --> 01:13:05,049
@@ -4368,7 +4368,7 @@ uoua nakon ub'ana teuarei tuka ma uota teuarei uti
 
 1093
 01:13:08,343 --> 01:13:10,804
-nowadays uakai kids ngaia taebenu  tokikan
+nowadays uakai * ngaia taebenu  tokikan
 
 1094
 01:13:10,888 --> 01:13:14,725
@@ -4396,7 +4396,7 @@ tera to mone waaraoi ni to warona was ngai
 
 1100
 01:13:51,595 --> 01:13:53,263
-ko tiki ananau to unra teungina
+ko tiki ananau to unra teuana
 
 1101
 01:13:53,347 --> 01:13:54,598
@@ -4404,7 +4404,7 @@ ko tikuru namoa ni uakai tanks
 
 1102
 01:13:54,681 --> 01:13:56,767
-ma they're nang  ekea 
+ma * nang  ekea 
 
 1103
 01:13:56,850 --> 01:13:58,894
@@ -4424,7 +4424,7 @@ might amarake ngaia i taku
 
 1107
 01:14:06,068 --> 01:14:08,612
-tae/rere teungina amarake to bakaieie  teungina wia raoi
+tae/rere teuana amarake to bakaieie  teuana wia raoi
 
 1108
 01:14:12,533 --> 01:14:16,078
@@ -4448,7 +4448,7 @@ e a tuai taomoa wiraraoi a ngaia
 
 1113
 01:14:35,556 --> 01:14:38,225
-nothing's neiranraoi a ngaia teungina tabun wia raoi
+nothing's neiranraoi a ngaia teuana tabun wia raoi
 
 1114
 01:14:38,475 --> 01:14:40,185
@@ -4572,11 +4572,11 @@ quint uarongo ngaia nakonako
 
 1144
 01:17:56,465 --> 01:17:59,176
-tao you're to wi warebwe yahoo inanon  lab
+tao * to wi warebwe yahoo inanon  lab
 
 1145
 01:17:59,259 --> 01:18:00,552
-ma uramate ikai you're uaraoi supercargo
+ma uramate ikai * uaraoi supercargo
 
 1146
 01:18:00,635 --> 01:18:03,388
@@ -4656,7 +4656,7 @@ quint ngai keng taeka to damn mena
 
 1165
 01:19:02,864 --> 01:19:04,991
-ngaia proves teungina mena mr hooper
+ngaia proves teuana  mr hooper
 
 1166
 01:19:05,075 --> 01:19:08,245
@@ -4664,7 +4664,7 @@ ko koronga college uma n roronga tikabu uabai to reirei toamau
 
 1167
 01:19:08,328 --> 01:19:10,080
-nakon riai ngkana you're unra
+nakon riai ngkana * unra
 
 1168
 01:19:19,464 --> 01:19:22,217
@@ -4672,7 +4672,7 @@ tera a to winikibwi hooks ma lines
 
 1169
 01:19:24,678 --> 01:19:27,139
-ko tua teungina ko ienaoa teungina
+ko tua teuana ko ienaoa teuana
 
 1170
 01:19:27,931 --> 01:19:29,516
@@ -4696,7 +4696,7 @@ ma rimwi i jab i ngaia
 
 1175
 01:19:43,738 --> 01:19:47,200
-i tuai nang  tiki ngaia uti kangaiakina *  ni catfish
+i tuai nang  tiki ngaia uti te rain *  ni catfish
 
 1176
 01:19:47,492 --> 01:19:49,119
@@ -4748,7 +4748,7 @@ i kona nakonako waeremwe ahead uotiko  tuka ma tim'atim'a uta ni teuaei shit
 
 1188
 01:21:27,008 --> 01:21:29,594
-you're nang  kai to bigger wa
+* nang  kai to bigger wa
 
 1189
 01:21:44,734 --> 01:21:46,319
@@ -5012,7 +5012,7 @@ tera uareke ti uareke tiba we're quitting uaraoi
 
 1254
 01:26:09,457 --> 01:26:13,461
-ti got teungina matauai boati teuarei ti weneakina uramate ikai uabong ti uareke teuarei riki
+ti got teuana matauai boati teuarei ti weneakina uramate ikai uabong ti uareke teuarei riki
 
 1255
 01:26:13,586 --> 01:26:16,214
@@ -5124,7 +5124,7 @@ teuana ti wai n ang nakon ra waewae (laughs)
 
 1282
 01:28:25,259 --> 01:28:28,554
-i got to crÃ©me de la crÃ©me uaraoi ikai tikaabu 
+i got to crã©me de la crã©me uaraoi ikai tikaabu 
 
 1283
 01:28:29,597 --> 01:28:31,307
@@ -5132,7 +5132,7 @@ ikai ko tara ngai
 
 1284
 01:28:31,724 --> 01:28:33,434
-you're takuakua to sweater
+* takuakua to sweater
 
 1285
 01:28:34,227 --> 01:28:36,562
@@ -5144,7 +5144,7 @@ ngaia m'aotoua u tuai (laughing)
 
 1287
 01:28:49,742 --> 01:28:51,160
-tera a ngai teungina
+tera a teuarei 
 
 1288
 01:28:51,411 --> 01:28:52,662
@@ -5152,7 +5152,7 @@ quint: tera
 
 1289
 01:28:52,745 --> 01:28:54,205
-ngai teungina akekei boati mi uakai
+teuarei  akekei boati mi uakai
 
 1290
 01:28:55,581 --> 01:28:56,874
@@ -5216,7 +5216,7 @@ ta-ka 13-footer
 
 1305
 01:29:58,478 --> 01:30:01,355
-ko ataia  uarea ko ataia  ngai tai you're inanon  uria ni bati urukau
+ko ataia  uarea ko ataia  ngai tai * inanon  uria ni bati urukau
 
 1306
 01:30:01,439 --> 01:30:04,692
@@ -5252,15 +5252,15 @@ teuana ti formed ngaira into tikinono bakabwi
 
 1314
 01:30:33,805 --> 01:30:36,641
-ko ataia  waaraoi ni kangaiakina wewe squares
+ko ataia  waaraoi ni te rain wewe squares
 
 1315
 01:30:36,724 --> 01:30:38,309
-i to uniwaka kangaiakina ko tara boati to karentare
+i to uniwaka te rain ko tara boati to karentare
 
 1316
 01:30:38,392 --> 01:30:41,187
-kangaiakina to uniwaka ni waterloo to tabuaiaka was
+te rain to uniwaka ni waterloo to tabuaiaka was
 
 1317
 01:30:41,270 --> 01:30:42,897
@@ -5292,7 +5292,7 @@ ko ataia  to mena riaki to wakaniba e a got
 
 1324
 01:31:00,331 --> 01:31:04,335
-maen/nei wai-mata tangoingoi wai-mata kangaiakina to doll's wai-mata
+maen/nei wai-mata tangoingoi wai-mata te rain to doll's wai-mata
 
 1325
 01:31:05,962 --> 01:31:09,465
@@ -5356,7 +5356,7 @@ i nae/no teuarei was m'anionio tekeboti tabun nakon wenei teuarei uti
 
 1340
 01:32:05,271 --> 01:32:09,108
-teuarei bobbed uti ma tuka inanon  uria ni bati uaraoi kangaiakina to waaraoi ni uatao
+teuarei bobbed uti ma tuka inanon  uria ni bati uaraoi te rain to waaraoi ni uatao
 
 1341
 01:32:09,775 --> 01:32:11,068
@@ -5704,11 +5704,11 @@ tiba rikea to mone ua-ra? ti keng
 
 1427
 01:38:47,923 --> 01:38:51,677
-you're certifiable quint ko ataia  ngai you're certifiable
+* certifiable quint ko ataia  ngai * certifiable
 
 1428
 01:38:52,011 --> 01:38:53,804
-you're certifiable ma kakaraki  ko teuaei
+* certifiable ma kakaraki  ko teuaei
 
 1429
 01:38:53,887 --> 01:38:55,180
@@ -5804,7 +5804,7 @@ e a incredible
 
 1452
 01:41:50,397 --> 01:41:52,316
-they're uti riki tiba tera
+* uti riki tiba tera
 
 1453
 01:42:01,575 --> 01:42:03,952
@@ -5880,11 +5880,11 @@ tai teuarei sees tera i brought teuarei (laughs)
 
 1471
 01:43:40,632 --> 01:43:43,468
-throttle wete you're losing to cleat
+throttle wete * losing to cleat
 
 1472
 01:43:46,179 --> 01:43:48,849
-u toa ma aomata teuaei teungina taomoa they're uaia e a nako
+u toa ma aomata teuaei  taomoa * uaia e a nako
 
 1473
 01:43:49,099 --> 01:43:51,018
@@ -6008,7 +6008,7 @@ teuarei can't ni uatao tEn/ai boati teuarei tuai ni uatao teuarei can't
 
 1503
 01:46:26,757 --> 01:46:28,925
-ko ever uabai teungina uareke teuaei wia
+ko ever uabai teuana uareke teuaei wia
 
 1504
 01:46:31,136 --> 01:46:32,262
