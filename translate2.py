@@ -170,33 +170,33 @@ def translate_file(filename, film):
 from tkinter import *
 from tkinter.ttk import *  
 window = Tk()
+frame = Frame(window,width=600,height=400)
+frame.pack(expand=YES)
 filename = StringVar()
 title = StringVar()
 title.set("Enter english subtitle filename:")
 filename.set("")
-label = Label(window, textvariable=title)
-label.grid(row=0, column=0)
-entry = Entry(window, textvariable=filename)
-entry.grid(row=1, column=0)
+label = Label(frame, textvariable=title, width=100)
+label.pack()
+entry = Entry(frame, textvariable=filename, width=100)
+entry.pack()
 
 film_name = StringVar()
 title2 = StringVar()
 title2.set("Enter film name")
 film_name.set("")
-label2 = Label(window, textvariable=title2)
-label2.grid(row=2, column=0)
-entry2 = Entry(window, textvariable=film_name)
-entry2.grid(row=3, column=0)
+label2 = Label(frame, textvariable=title2, width=100)
+label2.pack()
+entry2 = Entry(frame, textvariable=film_name, width=100)
+entry2.pack()
 
 title3 = StringVar()
 title3.set("")
-label3 = Label(window, textvariable=title3)
-label3.grid(row=4, column=0)
+label3 = Label(frame, textvariable=title3, width=100)
+label3.pack()
 
 
-clear = Button(window, text="Enter", command=lambda: translate_file_attempt(title3, filename.get(), film_name.get()))
-clear.grid(row=5, column=0)
+clear = Button(frame, text="Enter", width=100, command=lambda: translate_file_attempt(title3, filename.get(), film_name.get()))
+clear.pack()
 
 window.mainloop()
-
-if __main__()
