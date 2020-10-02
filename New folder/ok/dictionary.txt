@@ -1,3 +1,5 @@
+
+
 i'm : i
 
 i am : i
@@ -8,7 +10,7 @@ hey : mauri
 
 sup : mauri
 
-what's up : mauri
+what's up : mauri ko uara
 
 nothing: *
 
@@ -42604,7 +42606,7 @@ hell : keen/na : gehenna , hell
 
 hell : mone : abyss, hell (no article)
 
-hello : mauri : a greeting, good day (hail, hello)
+hello : ko na mauri : a greeting, good day (hail, hello)
 
 hey : mauri
 

@@ -75,7 +75,7 @@ def get_dict():
 diction = get_dict()
 
 
-dictionp = {"where is": "e ngaa","who is": "antai", "how's": "e uara", "how is": "e uara", "why is": "Bukin tera bwa e"}
+dictionp = {"where is": "e ngaa","who is": "antai", "how's": "e uara", "how is": "e uara", "why is": "Bukin tera bwa e", "what's up with" : "??????????"}
 
 
 
