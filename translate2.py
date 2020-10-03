@@ -42,7 +42,12 @@ def translate(words, num):
         #print(diction[word1])
         return 1, diction[word1]
     except KeyError:
-        return 1, word1      
+        try:
+            wordsingle = remove_plural(word)
+            return 1, diction[word1]
+        except KeyError:        
+            pass
+    return 1, word1      
 
 
 
@@ -51,6 +56,11 @@ def strip_word(word):
     word = word.replace('</i>', '')
     word = word.strip('-?!.,') 
     #word = word.strip() 
+    return word
+
+def remove_plural(word):
+    word = word.rstrip('s')
+    word = word.rstrip("'")
     return word
 
 def get_dict():

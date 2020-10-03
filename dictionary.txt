@@ -1,4 +1,48 @@
-nice to meet you : E rab'a te kaitiboo
+have a safe trip : Tekeraoi te mwananga!
+
+have a good trip : Tekeraoi te mwananga!
+
+have a nice day : Tekeraoi am bong!
+
+have a great day : Tekeraoi am bong!
+
+have a good day : Tekeraoi am bong!
+
+police : bureitiman
+
+policeman : bureitiman
+
+cop : bureitiman
+
+cops : bureitiman
+
+police officer : bureitiman
+
+cheers : Marurung
+
+good morning : Ko kaman uuti?
+
+good night : Matiu raoi
+
+what's up : mauri ko uara
+
+greetings : mauri
+
+howdy : mauri
+
+welcome : mauri
+
+good luck : tekeraoi
+
+hello eveyone : Kam na bane ni Mauri
+
+hello eveybody : Kam na bane ni Mauri
+
+to meet you : E rab'a te kaitiboo
+
+to meet you : E rab'a te kaitiboo
+
+to meet you : E rab'a te kaitiboo
 
 where are you going : *
 
@@ -9,8 +53,6 @@ where you from : Kaain iia ngkoe?
 i am from : Ngai boni kaain
 
 i'm from : Ngai boni kaain
-
-what's up : mauri ko uara
 
 you are welcome : te raoi
 
@@ -42744,6 +42786,8 @@ help : kuangana : to have or take as place of refuge, to be helped, or served, b
 help : ribata : to help, aid, sustain
 
 help : toa : te tia katoa: the partner, counterpart, helper, assistant
+
+help me : Buokai!
 
 helper : buoka : te tia buoka, te tia buobuoki, te tia i buobuoki: helper, aid, collaborator,
 auxiliary, etc
@@ -98555,31 +98599,31 @@ weighty : tinebu : heavy, weighty
 
 wek : baru : a fish, wek cod
 
-welcome : akoa : to treat with care, look after, to be careful of, to welcome or receive well
+#welcome : akoa : to treat with care, look after, to be careful of, to welcome or receive well
 
-welcome : aorab'a : kaoraba: to find fortune, to profit, to esteem, welcome
+#welcome : aorab'a : kaoraba: to find fortune, to profit, to esteem, welcome
 
-welcome : b'akab'akanikoroa : a hastening to meet a coming guest, a welcome
+#welcome : b'akab'akanikoroa : a hastening to meet a coming guest, a welcome
 
-welcome : b'akab'akanikoroaa : to welcome a returning friend by hastening to meet him
+#welcome : b'akab'akanikoroaa : to welcome a returning friend by hastening to meet him
 
-welcome : bakako : a feigned welcome, false assiduousness
+#welcome : bakako : a feigned welcome, false assiduousness
 
-welcome : butimaea : (irregular) to go to meet, to welcome someone, to receive well
+#welcome : butimaea : (irregular) to go to meet, to welcome someone, to receive well
 
-welcome : inga : to welcome, to receive with marks of affection, esteem and respect
+#welcome : inga : to welcome, to receive with marks of affection, esteem and respect
 
-welcome : kaeaka : ka-eaka: to welcome, to take in a traveller, exile, or homeless person
+#welcome : kaeaka : ka-eaka: to welcome, to take in a traveller, exile, or homeless person
 
-welcome : kauram'aa : to await the arrival of, to welcome
+#welcome : kauram'aa : to await the arrival of, to welcome
 
-welcome : manea akoa : to welcome, to receive, to care for
+#welcome : manea akoa : to welcome, to receive, to care for
 
-welcome : mra : mramra: to converge on in crowd, to crowd around, to welcome, to acclaim
+#welcome : mra : mramra: to converge on in crowd, to crowd around, to welcome, to acclaim
 
-welcome : raoi : peace (in answer to thanks) welcome>
+#welcome : raoi : peace (in answer to thanks) welcome>
 
-welcome : tautata : tatautata: warm welcome, assiduous attention to guests
+#welcome : tautata : tatautata: warm welcome, assiduous attention to guests
 
 welcomed : aorab'a : lucky, fortunately placed, bringing good luck for fishing. Pers. welcomed for
 benefits they bring
