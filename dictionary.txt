@@ -8,15 +8,39 @@ have a great day : Tekeraoi am bong!
 
 have a good day : Tekeraoi am bong!
 
+love you : tangiriko
+
+miss you : ia rangi ni mitiniko
+
+call the cops : tareboonia bureitiman
+
+call the police : tareboonia bureitiman
+
 police : bureitiman
 
 policeman : bureitiman
+
+how much : Iraua boon aio?
+
+price : Iraua boon aio?
+
+cost : 	Iraua boon aio?
+
+write it : Ko kona n korobokia
+
+write this : Ko kona n korobokia
+
+yes a little : E eng, ti teutana
 
 cop : bureitiman
 
 cops : bureitiman
 
 police officer : bureitiman
+
+stop it : toki
+
+leave me alone : katiukuai
 
 cheers : Marurung
 
@@ -39034,7 +39058,9 @@ girdle : nuota : cord or girdle made of women's hair (worn by men at ruoia dance
 
 girdle : ro : a girdle, a cable, a warp
 
-girl : aine : te tei n aine, te ataei n aine: girl (little, young)
+#girl : aine : te tei n aine, te ataei n aine: girl (little, young)
+
+girl : neiei
 
 girls : ataei : ataei n aine: little girls
 
@@ -39433,6 +39459,10 @@ go : nakonako : walking, going
 go ahore : anna : waerake nako anna, nako eta, nako anna, nako eta: to go ahore
 
 goal : toko : a goal
+
+lady : neiei
+
+woman : neiei
 
 go around : bau : baua: to surround, to encircle, to go around, ... to catch, to take with a
 slip knot, a lasso, to crown
@@ -54573,7 +54603,9 @@ may : meei : month of may
 
 may : Mei : May (month of May)
 
-maybe : tao : perhaps, in case, <maybe>
+#maybe : tao : perhaps, in case, <maybe>
+
+maybe : I taku
 
 me : ai : e karineai: he respects me
 
