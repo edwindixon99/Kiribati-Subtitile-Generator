@@ -50,13 +50,35 @@ def translate(words, num):
     return 1, word1      
 
 
+def pre_adjust(word):
+    f = word[0]
+    r = word[len(word) -1]
+    tup = [False, False]
+    if f in ['-']:
+        word = word.replace(f, '')
+        tup[0] = f
+    if r in ['?', '!', ',', '.']:
+        word = word.replace(r, '')
+        tup[1] = r
+    return tup, word
 
-def strip_word(word):
-    word = word.replace('<i>', '')
-    word = word.replace('</i>', '')
-    word = word.strip('-?!.,') 
-    #word = word.strip() 
-    return word
+def post_adjust(tup, word):
+    f = tup[0]
+    r = tup[1]
+    if f:
+        word =  f + word
+    if r:
+        word = word + r
+    
+    return word    
+    
+    
+#def strip_word(word):
+    #word = word.replace('<i>', '')
+    #word = word.replace('</i>', '')
+    #word = word.strip('-?!.,') 
+    ##word = word.strip() 
+    #return word
 
 def remove_plural(word):
     word = word.rstrip('s')
@@ -136,6 +158,7 @@ def translate_file_attempt(title3, filename, film):
 
 def translate_file(filename, film):
     words = collections.deque()
+    f_r = collections.deque()
     f = open(filename, 'r')
     lines = f.read().lower().split('\n\n')
     for j in range(len(lines)):
@@ -148,21 +171,24 @@ def translate_file(filename, film):
         for word in line:
             #print(line)
             #print(word, i)
-            word1 = strip_word(word)
+            f_r_tup, word1 = pre_adjust(word)
             words.append(word1)
-            
+            f_r.append(f_r_tup)
         while 0 < len(words):
             if skips > 1:
                 line[i] = ''
                 skips -= 1
                 words.popleft()
+                f_r.popleft()
             else:
                 num = len(words)
                 skips, word = translate(words, num)
-        
+                tup = f_r.popleft()
+                word = post_adjust(tup, word)
                 #print(word)
                 line[i] = word
                 words.popleft()
+                #f_r.popleft()
             i += 1
             
         #print(line)
