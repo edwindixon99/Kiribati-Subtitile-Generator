@@ -1,3 +1,7 @@
+priest : mitinare
+
+let : *
+
 have a safe trip : Tekeraoi te mwananga!
 
 have a good trip : Tekeraoi te mwananga!
@@ -68,9 +72,9 @@ to meet you : E rab'a te kaitiboo
 
 to meet you : E rab'a te kaitiboo
 
-where are you going : *
+where are you going : ko na aera? 
 
-where are we going : *
+where are we going : ti na aera? 
 
 where are you from : Kaain iia ngkoe?
 
@@ -13921,99 +13925,101 @@ to lead, direct an enterprise, to be the soul of, ... to organize
 
 chief : urukau : head, chief, director, president, superior
 
-child : an/tinoia : child who persistently refuses to be separated from its mother
+#child : an/tinoia : child who persistently refuses to be separated from its mother
 
 child : ataei : child, children
 
-child : ataei : rorobuaka: young men te ataei (S.) te tei: child
+kid : ataei
 
-child : baba : te kanoa ni baba: the youngest, last child of family, youngest pig in litter
-(an insulting term)
+#child : ataei : rorobuaka: young men te ataei (S.) te tei: child
 
-child : b'ab'ako : a foster child
+#child : baba : te kanoa ni baba: the youngest, last child of family, youngest pig in litter
+#(an insulting term)
 
-child : babako : an adopted child
+#child : b'ab'ako : a foster child
 
-child : b'ainataei : an incantation over a child
+#child : babako : an adopted child
 
-child : b'ainataeia : to practice incantations over a child
+#child : b'ainataei : an incantation over a child
 
-child : bakanataei : to pretend to be, or to assume the airs of a child
+#child : b'ainataeia : to practice incantations over a child
 
-child : bina : the youngest child in a family
+#child : bakanataei : to pretend to be, or to assume the airs of a child
 
-child : bukinikoro : the last child
+#child : bina : the youngest child in a family
 
-child : iakiaki : struggleing and kicking as a child
+#child : bukinikoro : the last child
 
-child : inaito : child of backward growth
+#child : iakiaki : struggleing and kicking as a child
 
-child : kanaokoro : an only child, an animal or person walking along alone
+#child : inaito : child of backward growth
 
-child : kanoa n aine : child of a sister, or aunt, relative by female descent
+#child : kanaokoro : an only child, an animal or person walking along alone
 
-child : kanoanaine : a sister's child
+#child : kanoa n aine : child of a sister, or aunt, relative by female descent
 
-child : kanoanim'aane : a brother's child
+#child : kanoanaine : a sister's child
 
-child : kaobunang : an anti, dwarf or child
+#child : kanoanim'aane : a brother's child
 
-child : karikira : not well formed as a child
+#child : kaobunang : an anti, dwarf or child
 
-child : karimwi : a younger child
+#child : karikira : not well formed as a child
 
-child : karinuka : the second in a family of three, the middle child
+#child : karimwi : a younger child
 
-child : kim'ai : a child who is slow in learning to walk
+#child : karinuka : the second in a family of three, the middle child
 
-child : koro : the youngest child, last born
+#child : kim'ai : a child who is slow in learning to walk
 
-child : m'am'arake : express outward affection as a child
+#child : koro : the youngest child, last born
 
-child : maetuaoa : feed a child when half asleep, esp at night
+#child : m'am'arake : express outward affection as a child
 
-child : merimeri : a baby, a small child
+#child : maetuaoa : feed a child when half asleep, esp at night
 
-child : mtam/ta : the slobberings of a child in eating
+#child : merimeri : a baby, a small child
 
-child : nabea : nourish tenderly, as a child
+#child : mtam/ta : the slobberings of a child in eating
 
-child : nae/ti : a child, son, daughter, nephew, niece
+#child : nabea : nourish tenderly, as a child
 
-child : nati n ataei : a child born of young parents
+#child : nae/ti : a child, son, daughter, nephew, niece
 
-child : nati ni kara : a child born of elderly parents
+#child : nati n ataei : a child born of young parents
 
-child : nae/tinimae/rae : a child left to provide for himself, a bastard
+#child : nati ni kara : a child born of elderly parents
 
-child : nae/tinimae/rae : to be left as a child or bastard to care for itself
+#child : nae/tinimae/rae : a child left to provide for himself, a bastard
 
-child : neanea : to care for properly, as a child
+#child : nae/tinimae/rae : to be left as a child or bastard to care for itself
 
-child : nib'aeneene : to be provident for the wants of a child
+#child : neanea : to care for properly, as a child
 
-child : nib'aenenea : to treat a child with forethought by providing food for it in a basket to be
-used when required
+#child : nib'aeneene : to be provident for the wants of a child
 
-child : ngore : small in stature and weakly as a sickly child
+#child : nib'aenenea : to treat a child with forethought by providing food for it in a basket to be
+#used when required
 
-child : rikitemaen/na : an only child, an only begotten
+#child : ngore : small in stature and weakly as a sickly child
 
-child : tae/rotuaa : to speak impatiently of, as of a troublesome child
+#child : rikitemaen/na : an only child, an only begotten
 
-child : teei : a child
+#child : tae/rotuaa : to speak impatiently of, as of a troublesome child
 
-child : tei : child,
+#child : teei : a child
 
-child : teirara : youngest child in a group, in a family
+#child : tei : child,
 
-child : tinae/nikora : a child that grows slowly
+#child : teirara : youngest child in a group, in a family
 
-child : tob'a : to engage in nursing or caring for a little child
+#child : tinae/nikora : a child that grows slowly
 
-child : uan Nei Rara : the first child of a young mother, cherished, richly dressed, bedizened
+#child : tob'a : to engage in nursing or caring for a little child
 
-child : uoua : carrying a child
+#child : uan Nei Rara : the first child of a young mother, cherished, richly dressed, bedizened
+
+#child : uoua : carrying a child
 
 childbirth : ariri : pains of childbirth, effort of nerves and muscles,
 
@@ -39556,55 +39562,57 @@ goblin : beko : bogey man, goblin, ogre
 
 goby : uringabo : goby (sm)
 
-god : aen/ti : god, spirit, ghost
+god : atuau
 
-god : anti : God, spirit, ghost, phantom, spectre, demon, devil
+#god : aen/ti : god, spirit, ghost
 
-god : aen/tibuaka : evil spirit or god
+#god : anti : God, spirit, ghost, phantom, spectre, demon, devil
 
-god : an/tina : deify, hold or worship as a god
+#god : aen/tibuaka : evil spirit or god
 
-god : antina : to have, to take for one's anti, one's personal god
+#god : an/tina : deify, hold or worship as a god
 
-god : atua : god
+#god : antina : to have, to take for one's anti, one's personal god
 
-god : Atua : God
+#god : atua : god
 
-god : bakanatua : to aspire to deity, to pretend to be a god
+#god : Atua : God
 
-god : bakanatua : the assuming to be god
+#god : bakanatua : to aspire to deity, to pretend to be a god
 
-god : bebeti : the name of a god
+#god : bakanatua : the assuming to be god
 
-god : beiamatekaai : name of a male god
+#god : bebeti : the name of a god
 
-god : kaburorontoun : a Gilbertese god
+#god : beiamatekaai : name of a male god
 
-god : karerea : to call upon a god to inflict vengeance
+#god : kaburorontoun : a Gilbertese god
 
-god : kikitei : Na Areau te Kikitei or the Kikinto: name of a god
+#god : karerea : to call upon a god to inflict vengeance
 
-god : maraia : suffering supposed supernatural evil after disrespect to a god
+#god : kikitei : Na Areau te Kikitei or the Kikinto: name of a god
 
-god : naaibunaki : name of a false god
+#god : maraia : suffering supposed supernatural evil after disrespect to a god
 
-god : naikamawa : name of a false god
+#god : naaibunaki : name of a false god
 
-god : naatirea : name of a false god
+#god : naikamawa : name of a false god
 
-god : ri:/ki : the name of a certain Gilbertese god
+#god : naatirea : name of a false god
 
-god : tauan/tabo : an offering to a god
+#god : ri:/ki : the name of a certain Gilbertese god
 
-god : terakunene : the god of fragrant odors
+#god : tauan/tabo : an offering to a god
 
-god : teweia : the name of a male deity <god>
+#god : terakunene : the god of fragrant odors
 
-god : timuniman : a spirit, god of inspiration of poets, composers, musicians
+#god : teweia : the name of a male deity <god>
 
-god : tiriboua : to engage in makeing an offering to a god
+#god : timuniman : a spirit, god of inspiration of poets, composers, musicians
 
-god : toa ma aomata : te ...: a man of the race of giants. myth. of the demi gods
+#god : tiriboua : to engage in makeing an offering to a god
+
+#god : toa ma aomata : te ...: a man of the race of giants. myth. of the demi gods
 
 god child : tibu : tibu, tibum: grandfather, grandmother, grandchild, grandparents and their
 ancestors, grandchildren and their descendants, adopted child, adopter, god
@@ -47898,9 +47906,11 @@ humbug, jest
 
 jester : aokangare : joker, jester
 
-Jesus : Jetu : Jesus
+#jesus : Jetu : Jesus
 
-Jesus Christ : Kirito : Ietu-Kirito: Jesus Christ
+jesus : Iesu
+
+jesus Christ : Kirito : Ietu-Kirito: Jesus Christ
 
 jet : bakati : to jet, to spout, to gush, to spurt out, to squirt out
 
@@ -66037,13 +66047,15 @@ prattling : kabara ria : talkative, loquacious, prattling
 
 prawn : nika tebetebe : a small prawn (brangon lobster)
 
-pray : tatae/ro : to pray
+pray : tataro
 
-pray : tatae/roa : to pray to
+#pray : tatae/ro : to pray
 
-pray : wauna : to pray to death
+#pray : tatae/roa : to pray to
 
-pray : wawi : to pray to death (haw = anana)
+#pray : wauna : to pray to death
+
+#pray : wawi : to pray to death (haw = anana)
 
 prayer : bubuti : request, demand, petition, supplication, prayer
 
@@ -98580,7 +98592,7 @@ weed : tarai : (2) a weed
 
 weed : titania : tare (a weed), darnel. (Matthew 13-25)
 
-week : wi:/ki : a week
+#week : wi:/ki : a week
 
 week : wiki : (1) week
 
