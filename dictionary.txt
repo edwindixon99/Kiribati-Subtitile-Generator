@@ -14,7 +14,7 @@ have a good day : Tekeraoi am bong!
 
 love you : tangiriko
 
-miss you : ia rangi ni mitiniko
+miss you : rangi ni mitiniko
 
 call the cops : tareboonia bureitiman
 
@@ -234,7 +234,7 @@ do you know : ko ataia
 
 i'm going to : nangi nako
 
-i want to: i tangiria ni
+i want to : i tangiria ni
 
 what do you: tera ae ko
 
@@ -288,9 +288,9 @@ have to: nna
 
 go to: nna nako
 
-want to: tangiria ni 
+want to : tangiria ni
 
-all right: e raoiroi 
+all right: e raoiroi
 
 okay: e raoiroi
 
