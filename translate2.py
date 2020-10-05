@@ -178,37 +178,37 @@ def translate_file(filename, film):
 
 
 if __name__ == '__main__':
-    translate_file("red.txt", "red")
-    #from tkinter import *
-    #from tkinter.ttk import *  
-    #window = Tk()
-    #frame = Frame(window,width=600,height=400)
-    #frame.pack(expand=YES)
-    #filename = StringVar()
-    #title = StringVar()
-    #title.set("Enter english subtitle filename:")
-    #filename.set("")
-    #label = Label(frame, textvariable=title, width=100)
-    #label.pack()
-    #entry = Entry(frame, textvariable=filename, width=100)
-    #entry.pack()
+    #translate_file("red.txt", "red")
+    from tkinter import *
+    from tkinter.ttk import *  
+    window = Tk()
+    frame = Frame(window,width=600,height=400)
+    frame.pack(expand=YES)
+    filename = StringVar()
+    title = StringVar()
+    title.set("Enter english subtitle filename:")
+    filename.set("")
+    label = Label(frame, textvariable=title, width=100)
+    label.pack()
+    entry = Entry(frame, textvariable=filename, width=100)
+    entry.pack()
     
-    #film_name = StringVar()
-    #title2 = StringVar()
-    #title2.set("Enter film name")
-    #film_name.set("")
-    #label2 = Label(frame, textvariable=title2, width=100)
-    #label2.pack()
-    #entry2 = Entry(frame, textvariable=film_name, width=100)
-    #entry2.pack()
+    film_name = StringVar()
+    title2 = StringVar()
+    title2.set("Enter film name")
+    film_name.set("")
+    label2 = Label(frame, textvariable=title2, width=100)
+    label2.pack()
+    entry2 = Entry(frame, textvariable=film_name, width=100)
+    entry2.pack()
     
-    #title3 = StringVar()
-    #title3.set("")
-    #label3 = Label(frame, textvariable=title3, width=100)
-    #label3.pack()
+    title3 = StringVar()
+    title3.set("")
+    label3 = Label(frame, textvariable=title3, width=100)
+    label3.pack()
     
     
-    #clear = Button(frame, text="Enter", width=100, command=lambda: translate_file_attempt(title3, filename.get(), film_name.get()))
-    #clear.pack()
+    clear = Button(frame, text="Enter", width=100, command=lambda: translate_file_attempt(title3, filename.get(), film_name.get()))
+    clear.pack()
     
-    #window.mainloop()
+    window.mainloop()
