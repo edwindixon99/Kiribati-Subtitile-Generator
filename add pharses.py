@@ -44,6 +44,8 @@ def get_eng_phrases(filename):
                         #print(phrase)
                         phrases.append(phrase)
     #print(phrases)
+    set1 = set(phrases)
+    print(len(set1))
     f.close()  
     return phrases
     
@@ -76,18 +78,19 @@ def get_dict(filename):
     return diction
 
 
-def get_new_eng_pharse(filename, e, note):
+def get_new_eng_pharse():
     eng = get_eng_phrases(filename)[0]
     e.set(eng)
     note.set('')
 
         
-def add_to_file(filename, e, note):
-    text_file = open("new phrases.txt", "a")
+def add_to_file():
     if not len(note.get()) == 0:
+        text_file = open("new phrases.txt", "a")
         text_file.write(e.get() + ' : ' + note.get() + "\n\n")
-        get_new_eng_pharse(filename, e, note)
-    text_file.close()
+        text_file.close()
+        get_new_eng_pharse()
+    
 
 
 filename = "A Beautiful Mind 2001 720p BrRip x264 YIFY-English.srt"
@@ -104,7 +107,7 @@ e = StringVar()
 e.set("")  
 
 note = StringVar()
-get_new_eng_pharse(filename, e, note)
+get_new_eng_pharse()
 frame = Frame(window,width=600,height=400)
 frame.pack(expand=YES)
 
@@ -112,12 +115,12 @@ label = Label(frame, textvariable=e, width=100)
 label.config(font=("Arial", 40))
 label.pack()
 
-klabel = Label(frame, textvariable=e, width=100, wraplength=1000)
+klabel = Label(frame, textvariable=note, width=100, wraplength=1000)
 klabel.config(font=("Arial", 40))
 klabel.pack()
 
 
-label2 = Label(frame, text='note :', width=100)
+label2 = Label(frame, text='In Kiribati this means :', width=100)
 label2.config(font=("Arial", 20))
 label2.pack()
 entry2 = Entry(frame, text=note, width=100)
@@ -129,9 +132,11 @@ frame2.pack(side='bottom')
 
 ##clear = Button(frame2, text="Enter", width=100, command=lambda: translate_file_attempt(title3, filename.get(), film_name.get()))
 ##clear.pack(side='left')
-if not len(note.get()) == 0:
-    clear = Button(frame2, text="Correct", width=20, command=lambda: add_to_file(filename, e, note))
-    clear.pack(side='left')
+clear = Button(frame2, text="Correct", width=20, command=add_to_file)
+clear.pack(side='left')
+
+    
+window.bind("<Return>", (lambda event: add_to_file()))
 #else:
     
 
