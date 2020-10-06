@@ -10,7 +10,7 @@ def get_eng_phrases(filename):
     dict2 = get_dict("new phrases.txt")    
     phrases = []
     f = open(filename, 'r')
-    lines = f.read().lower().split('\n\n')
+    lines = f.read().split('\n\n')
     for j in range(len(lines)):
         line1 = lines[j].split()
         #print(line1)
@@ -49,8 +49,47 @@ def get_eng_phrases(filename):
     f.close()  
     return phrases
     
+
+
+def collect_nouns(phrases):
     
     
+     
+    
+    
+
+    
+    for phrase in phrases:
+        t = re.findall('([A-Z][a-z]+)', phrase)
+        #print(t)
+        print(t, phrase)        
+        for word in t:
+            
+            #phrase = phrase.replace(word, '__noun__')
+            n_word = word + '\n'
+            
+            blacklist_file = open('blacklist.txt', 'r')
+            names_file = open('names.txt', 'r')
+            blacklist = blacklist_file.read()
+            names = names_file.read()  
+            blacklist_file.close()
+            names_file.close()
+            
+            if n_word not in blacklist and n_word not in names:
+                print(word)
+                names_file = open("names.txt", "a")
+                blacklist_file = open("blacklist.txt", "a")
+                if not input('noun? ') == '':
+                    names_file.write(n_word)
+                else:
+                    blacklist_file.write(n_word)
+                    
+                blacklist_file.close()
+                names_file.close()
+                
+        #words = phrase.split()
+    
+        
 
 def strip_word(word):
     word = word.replace('<i>', '')
@@ -130,14 +169,11 @@ frame2 = Frame(window)
 frame2.pack(side='bottom')
 
 
-##clear = Button(frame2, text="Enter", width=100, command=lambda: translate_file_attempt(title3, filename.get(), film_name.get()))
-##clear.pack(side='left')
 clear = Button(frame2, text="Correct", width=20, command=add_to_file)
 clear.pack(side='left')
 
     
 window.bind("<Return>", (lambda event: add_to_file()))
-#else:
     
 
 #new = Button(frame2, text="New Word", width=20, command=lambda: get_random_word(words, e, k, note))
@@ -147,3 +183,12 @@ window.bind("<Return>", (lambda event: add_to_file()))
 #clear2.pack(side='right')
 
 window.mainloop()
+
+
+
+
+
+
+#phrases = phrases = get_eng_phrases(filename)
+#nouns = collect_nouns(phrases)
+#print(nouns)
