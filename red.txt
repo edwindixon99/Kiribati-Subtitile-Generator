@@ -1,6 +1,6 @@
 7
 00:02:27,899 --> 00:02:29,108
-I Have eaten. Let’s go eat. do you want to eat
+I Have eaten, Let's go eat. do you want to eat, how much?
 
 7
 00:02:27,899 --> 00:02:29,108

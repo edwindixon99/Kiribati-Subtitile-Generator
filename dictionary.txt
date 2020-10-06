@@ -14,7 +14,9 @@ have a good day : Tekeraoi am bong!
 
 love you : tangiriko
 
-miss you : rangi ni mitiniko
+miss you : i rangi ni mitiniko
+
+#miss you : i rangi ni mitiniko : miss you very much
 
 call the cops : tareboonia bureitiman
 
@@ -24,7 +26,7 @@ police : bureitiman
 
 policeman : bureitiman
 
-how much : Iraua boon aio?
+how much : Iraua
 
 price : Iraua boon aio?
 
