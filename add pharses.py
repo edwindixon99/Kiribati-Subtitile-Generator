@@ -49,7 +49,7 @@ def get_eng_phrases(filename):
     f.close()  
     return phrases
     
-
+from nltk.corpus import wordnet as wn
 
 def collect_nouns(phrases):
     
@@ -57,12 +57,15 @@ def collect_nouns(phrases):
      
     
     
-
-    
+    nouns = {x.name().split('.', 1)[0] for x in wn.all_synsets('n')}
+    verbs = {x.name().split('.', 1)[0] for x in wn.all_synsets('v')}
+    adjs = {x.name().split('.', 1)[0] for x in wn.all_synsets('a')}
+    advs = {x.name().split('.', 1)[0] for x in wn.all_synsets('r')}
+    print('japanese' in adjs)
     for phrase in phrases:
         t = re.findall('([A-Z][a-z]+)', phrase)
         #print(t)
-        print(t, phrase)        
+        #print(t, phrase)        
         for word in t:
             
             #phrase = phrase.replace(word, '__noun__')
@@ -76,13 +79,20 @@ def collect_nouns(phrases):
             names_file.close()
             
             if n_word not in blacklist and n_word not in names:
-                print(word)
+                
                 names_file = open("names.txt", "a")
                 blacklist_file = open("blacklist.txt", "a")
-                if not input('noun? ') == '':
+                lword = word.lower()
+                if (lword in verbs or lword in adjs or lword in advs):
+                    blacklist_file.write(n_word)
+                elif lword in nouns:
                     names_file.write(n_word)
                 else:
-                    blacklist_file.write(n_word)
+                    #print(word)
+                    if not input('noun? ') == '':
+                        names_file.write(n_word)
+                    else:
+                        blacklist_file.write(n_word)
                     
                 blacklist_file.close()
                 names_file.close()
@@ -137,58 +147,58 @@ filename = "A Beautiful Mind 2001 720p BrRip x264 YIFY-English.srt"
 #phrases = get_eng_phrases(filename)
 #get_new_eng_pharse(phrases)
 
-from tkinter import *
-from tkinter.ttk import *
+#from tkinter import *
+#from tkinter.ttk import *
 
 
-window = Tk()
-e = StringVar()
-e.set("")  
+#window = Tk()
+#e = StringVar()
+#e.set("")  
 
-note = StringVar()
-get_new_eng_pharse()
-frame = Frame(window,width=600,height=400)
-frame.pack(expand=YES)
+#note = StringVar()
+#get_new_eng_pharse()
+#frame = Frame(window,width=600,height=400)
+#frame.pack(expand=YES)
 
-label = Label(frame, textvariable=e, width=100)
-label.config(font=("Arial", 40))
-label.pack()
+#label = Label(frame, textvariable=e, width=100)
+#label.config(font=("Arial", 40))
+#label.pack()
 
-klabel = Label(frame, textvariable=note, width=100, wraplength=1000)
-klabel.config(font=("Arial", 40))
-klabel.pack()
-
-
-label2 = Label(frame, text='In Kiribati this means :', width=100)
-label2.config(font=("Arial", 20))
-label2.pack()
-entry2 = Entry(frame, text=note, width=100)
-entry2.pack()
-
-frame2 = Frame(window)
-frame2.pack(side='bottom')
+#klabel = Label(frame, textvariable=note, width=100, wraplength=1000)
+#klabel.config(font=("Arial", 40))
+#klabel.pack()
 
 
-clear = Button(frame2, text="Correct", width=20, command=add_to_file)
-clear.pack(side='left')
+#label2 = Label(frame, text='In Kiribati this means :', width=100)
+#label2.config(font=("Arial", 20))
+#label2.pack()
+#entry2 = Entry(frame, text=note, width=100)
+#entry2.pack()
+
+#frame2 = Frame(window)
+#frame2.pack(side='bottom')
+
+
+#clear = Button(frame2, text="Correct", width=20, command=add_to_file)
+#clear.pack(side='left')
 
     
-window.bind("<Return>", (lambda event: add_to_file()))
+#window.bind("<Return>", (lambda event: add_to_file()))
     
 
-#new = Button(frame2, text="New Word", width=20, command=lambda: get_random_word(words, e, k, note))
-#new.pack(side='left')
+##new = Button(frame2, text="New Word", width=20, command=lambda: get_random_word(words, e, k, note))
+##new.pack(side='left')
 
-#clear2 = Button(frame2, text="Wrong", width=20, command=lambda: add_to_file(False, e, k, note))
-#clear2.pack(side='right')
+##clear2 = Button(frame2, text="Wrong", width=20, command=lambda: add_to_file(False, e, k, note))
+##clear2.pack(side='right')
 
-window.mainloop()
-
-
+#window.mainloop()
 
 
 
 
-#phrases = phrases = get_eng_phrases(filename)
-#nouns = collect_nouns(phrases)
-#print(nouns)
+
+
+phrases = phrases = get_eng_phrases(filename)
+nouns = collect_nouns(phrases)
+print(nouns)

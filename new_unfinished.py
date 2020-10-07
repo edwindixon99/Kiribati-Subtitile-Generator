@@ -281,7 +281,7 @@ def translate_file(filename, film):
 
 
 if __name__ == '__main__':
-    translate_file("Jaws-English.srt", "Jaws")
+    translate_file("E.T. the Extra-Terrestrial-English.srt", "ET")
     #from tkinter import *
     #from tkinter.ttk import *  
     #window = Tk()
