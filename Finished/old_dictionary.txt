@@ -1,153 +1,3 @@
-mathematicians won the war : bwakuakun te numera a moanna n te buaka n te aonnaba
-
-mathematicians broke the japanese codes : taan numera e reke irouia aia taetae ni karaba i Tiabaan
-
-and built the a : ao a karaoa te boom
-
-priest : mitinare
-
-let : *
-
-have a safe trip : Tekeraoi te mwananga!
-
-have a good trip : Tekeraoi te mwananga!
-
-have a nice day : Tekeraoi am bong!
-
-have a great day : Tekeraoi am bong!
-
-have a good day : Tekeraoi am bong!
-
-love you : tangiriko
-
-miss you : i rangi ni mitiniko
-
-#miss you : i rangi ni mitiniko : miss you very much
-
-call the cops : tareboonia bureitiman
-
-call the police : tareboonia bureitiman
-
-police : bureitiman
-
-policeman : bureitiman
-
-how much : Iraua
-
-price : Iraua boon aio?
-
-cost : 	Iraua boon aio?
-
-write it : Ko kona n korobokia
-
-write this : Ko kona n korobokia
-
-yes a little : E eng, ti teutana
-
-cop : bureitiman
-
-cops : bureitiman
-
-police officer : bureitiman
-
-stop it : toki
-
-leave me alone : katiukuai
-
-cheers : Marurung
-
-good morning : Ko kaman uuti?
-
-good night : Matiu raoi
-
-what's up : mauri ko uara
-
-greetings : mauri
-
-howdy : mauri
-
-welcome : mauri
-
-good luck : tekeraoi
-
-hello eveyone : Kam na bane ni Mauri
-
-hello eveybody : Kam na bane ni Mauri
-
-to meet you : E rab'a te kaitiboo
-
-to meet you : E rab'a te kaitiboo
-
-to meet you : E rab'a te kaitiboo
-
-where are you going : ko na aera? 
-
-where are we going : ti na aera? 
-
-where are you from : Kaain iia ngkoe?
-
-where you from : Kaain iia ngkoe?
-
-i am from : Ngai boni kaain
-
-i'm from : Ngai boni kaain
-
-you are welcome : te raoi
-
-your welcome : te raoi
-
-how are you : ko uara
-
-how are ya : ko uara
-
-how are you doing : Ko uara?
-
-how's it going : Ko uara?
-
-hows it going : Ko uara?
-
-how is it going : Ko uara?
-
-how you doing : Ko uara?
-
-how are ya doing : Ko uara?
-
-how ya doing : Ko uara?
-
-how've you been : Ko uara?
-
-how have you been : Ko uara?
-
-how's everything : Ko uara?
-
-how is everything : Ko uara?
-
-how are things : Ko uara?
-
-how are things going : Ko uara?
-
-how's it hanging : Ko uara?
-
-what's new : Ko uara?
-
-what's up : Ko uara?
-
-long time no see : ituai man nonooriko n taai aikai
-
-what's your name : antai aram?
-
-what is your name : antai aram?
-
-who are you : antai aram?
-
-who're you : antai aram?
-
-my name is : arau
-
-my name's : arau
-
-the name's : arau
-
 i'm : i
 
 i am : i
@@ -242,7 +92,7 @@ do you know : ko ataia
 
 i'm going to : nangi nako
 
-i want to : i tangiria ni
+i want to: i tangiria ni
 
 what do you: tera ae ko
 
@@ -296,9 +146,9 @@ have to: nna
 
 go to: nna nako
 
-want to : tangiria ni
+want to: tangiria ni 
 
-all right: e raoiroi
+all right: e raoiroi 
 
 okay: e raoiroi
 
@@ -5440,11 +5290,11 @@ bad : kabuakakaa : to pronounce bad, to speak evil of, to condemn
 
 bad : kabureti : bad, evil, unwholesome
 
-bad : kurï¿½be : bad, disarranged, not skilled in fishing
+bad : kurÉbe : bad, disarranged, not skilled in fishing
 
-bad : kurï¿½benaen/ti : very bad
+bad : kurÉbenaen/ti : very bad
 
-bad : kurï¿½berEbe : abounding in knobs or ridges, rough, bad
+bad : kurÉberEbe : abounding in knobs or ridges, rough, bad
 
 bad : manibuaka : bad conduct, bad manner
 
@@ -6261,7 +6111,7 @@ bathe : uani karau : to stay out in the rain, to bathe, play, work
 
 bathing : rautaeri : water for rinsing after bathing in salt-water
 
-bathing suit : kakï¿½kekEke : a riri not oiled, used as a bathing suit
+bathing suit : kakÉkekEke : a riri not oiled, used as a bathing suit
 
 bathroom : roki : closed in place, closed with screen, bathroom
 
@@ -6325,7 +6175,7 @@ bayonet : kawete : point, summit, top of, point of, bayonet, dart, sharp pointed
 
 bayonet : wete : te kawete: bayonet
 
-bdellium : tï¿½riam : bdellium
+bdellium : tÉriam : bdellium
 
 be : iakiaki : be in spasms
 
@@ -6844,7 +6694,7 @@ beg : maungenge : to beg for food or tobacco
 
 beg : mautorotoro : song or chant used in begging
 
-beg : ngï¿½nge : to beg for food by one's looks, to be covetous of food
+beg : ngÉnge : to beg for food by one's looks, to be covetous of food
 
 beg : ngenge : ngengeroroko: irresistible envy of food, inveterate habit of begging
 
@@ -7277,7 +7127,7 @@ bent : batoko : batokotoko to go or walk while stooped or bent over, to stoop to
 
 bent : beneuanging : bent over under a heavy load
 
-bent : bï¿½nono : curved, bent
+bent : bÉnono : curved, bent
 
 bent : benono : bebenono: curved, bent
 
@@ -9557,7 +9407,7 @@ to bow down
 
 bowel : b'akakurae/be : protruding as the lower bowel
 
-bowels : kabï¿½ka : causing looseness of the bowels
+bowels : kabÉka : causing looseness of the bowels
 
 bowels : kanoa n nano : bowels, intestines
 
@@ -9908,7 +9758,7 @@ of bicycle wheel
 
 branch : obotata : broken off as several branches of a tree
 
-branch : rï¿½ngerEnge : long or extending as a branch
+branch : rÉngerEnge : long or extending as a branch
 
 branch : taborengerenge : the exreme end of a branch or stick
 
@@ -9985,7 +9835,7 @@ brazenfaced : kaumata : brazenfaced, shameless, impudent, free, familiar (much l
 
 brazier : taukaro : taukarokaro: glitter, glimmer and sparks of brazier, fire, furnace
 
-brazil : tï¿½rewati : silvas in brazil
+brazil : tÉrewati : silvas in brazil
 
 breach : bangabanga : nibangabanga, kibangabanga: a hole, an opening, orifice, breach, aperture,
 perforation
@@ -11194,7 +11044,7 @@ butter : bata : butter
 
 butter fingers : baimaran : letting things slip from hand, butter fingers
 
-butterfly : bwï¿½bwE : a butterfly
+butterfly : bwÉbwE : a butterfly
 
 butterfly : bwebwe : butterfly
 
@@ -13933,101 +13783,99 @@ to lead, direct an enterprise, to be the soul of, ... to organize
 
 chief : urukau : head, chief, director, president, superior
 
-#child : an/tinoia : child who persistently refuses to be separated from its mother
+child : an/tinoia : child who persistently refuses to be separated from its mother
 
 child : ataei : child, children
 
-kid : ataei
+child : ataei : rorobuaka: young men te ataei (S.) te tei: child
 
-#child : ataei : rorobuaka: young men te ataei (S.) te tei: child
+child : baba : te kanoa ni baba: the youngest, last child of family, youngest pig in litter
+(an insulting term)
 
-#child : baba : te kanoa ni baba: the youngest, last child of family, youngest pig in litter
-#(an insulting term)
+child : b'ab'ako : a foster child
 
-#child : b'ab'ako : a foster child
+child : babako : an adopted child
 
-#child : babako : an adopted child
+child : b'ainataei : an incantation over a child
 
-#child : b'ainataei : an incantation over a child
+child : b'ainataeia : to practice incantations over a child
 
-#child : b'ainataeia : to practice incantations over a child
+child : bakanataei : to pretend to be, or to assume the airs of a child
 
-#child : bakanataei : to pretend to be, or to assume the airs of a child
+child : bina : the youngest child in a family
 
-#child : bina : the youngest child in a family
+child : bukinikoro : the last child
 
-#child : bukinikoro : the last child
+child : iakiaki : struggleing and kicking as a child
 
-#child : iakiaki : struggleing and kicking as a child
+child : inaito : child of backward growth
 
-#child : inaito : child of backward growth
+child : kanaokoro : an only child, an animal or person walking along alone
 
-#child : kanaokoro : an only child, an animal or person walking along alone
+child : kanoa n aine : child of a sister, or aunt, relative by female descent
 
-#child : kanoa n aine : child of a sister, or aunt, relative by female descent
+child : kanoanaine : a sister's child
 
-#child : kanoanaine : a sister's child
+child : kanoanim'aane : a brother's child
 
-#child : kanoanim'aane : a brother's child
+child : kaobunang : an anti, dwarf or child
 
-#child : kaobunang : an anti, dwarf or child
+child : karikira : not well formed as a child
 
-#child : karikira : not well formed as a child
+child : karimwi : a younger child
 
-#child : karimwi : a younger child
+child : karinuka : the second in a family of three, the middle child
 
-#child : karinuka : the second in a family of three, the middle child
+child : kim'ai : a child who is slow in learning to walk
 
-#child : kim'ai : a child who is slow in learning to walk
+child : koro : the youngest child, last born
 
-#child : koro : the youngest child, last born
+child : m'am'arake : express outward affection as a child
 
-#child : m'am'arake : express outward affection as a child
+child : maetuaoa : feed a child when half asleep, esp at night
 
-#child : maetuaoa : feed a child when half asleep, esp at night
+child : merimeri : a baby, a small child
 
-#child : merimeri : a baby, a small child
+child : mtam/ta : the slobberings of a child in eating
 
-#child : mtam/ta : the slobberings of a child in eating
+child : nabea : nourish tenderly, as a child
 
-#child : nabea : nourish tenderly, as a child
+child : nae/ti : a child, son, daughter, nephew, niece
 
-#child : nae/ti : a child, son, daughter, nephew, niece
+child : nati n ataei : a child born of young parents
 
-#child : nati n ataei : a child born of young parents
+child : nati ni kara : a child born of elderly parents
 
-#child : nati ni kara : a child born of elderly parents
+child : nae/tinimae/rae : a child left to provide for himself, a bastard
 
-#child : nae/tinimae/rae : a child left to provide for himself, a bastard
+child : nae/tinimae/rae : to be left as a child or bastard to care for itself
 
-#child : nae/tinimae/rae : to be left as a child or bastard to care for itself
+child : neanea : to care for properly, as a child
 
-#child : neanea : to care for properly, as a child
+child : nib'aeneene : to be provident for the wants of a child
 
-#child : nib'aeneene : to be provident for the wants of a child
+child : nib'aenenea : to treat a child with forethought by providing food for it in a basket to be
+used when required
 
-#child : nib'aenenea : to treat a child with forethought by providing food for it in a basket to be
-#used when required
+child : ngore : small in stature and weakly as a sickly child
 
-#child : ngore : small in stature and weakly as a sickly child
+child : rikitemaen/na : an only child, an only begotten
 
-#child : rikitemaen/na : an only child, an only begotten
+child : tae/rotuaa : to speak impatiently of, as of a troublesome child
 
-#child : tae/rotuaa : to speak impatiently of, as of a troublesome child
+child : teei : a child
 
-#child : teei : a child
+child : tei : child,
 
-#child : tei : child,
+child : teirara : youngest child in a group, in a family
 
-#child : teirara : youngest child in a group, in a family
+child : tinae/nikora : a child that grows slowly
 
-#child : tinae/nikora : a child that grows slowly
+child : tob'a : to engage in nursing or caring for a little child
 
-#child : tob'a : to engage in nursing or caring for a little child
+child : uan Nei Rara : the first child of a young mother, cherished, richly dressed, bedizened
 
-#child : uan Nei Rara : the first child of a young mother, cherished, richly dressed, bedizened
-
-#child : uoua : carrying a child
+child : uoua : carrying a child
 
 childbirth : ariri : pains of childbirth, effort of nerves and muscles,
 
@@ -14966,7 +14814,7 @@ cloth : raereke : very narrow, as cloth
 
 cloth : reme : cloth of narrow width
 
-cloth : rï¿½nga : red cloth
+cloth : rÉnga : red cloth
 
 cloth : tangkiri : dungaree, cloth
 
@@ -15369,7 +15217,7 @@ coconut : b'angu : a fallen young coconut, eaten by a rat
 
 coconut : banikimaimai : a young coconut leaf, leaflets not yet separated
 
-coconut : bï¿½be : the germ sprout, the soft contents of a sprouting coconut
+coconut : bÉbe : the germ sprout, the soft contents of a sprouting coconut
 
 coconut : bebe : sponge-like formation inside a germinated coconut (te riki), spongy ball
 
@@ -15381,9 +15229,9 @@ coconut : bEn : a general term for a ripe coconut
 
 coconut : ben : ripe coconut, coconuts
 
-coconut : bï¿½nibEn : abounding in ripe coconut
+coconut : bÉnibEn : abounding in ripe coconut
 
-coconut : bï¿½nibEn : a ripe coconut whose kernel is unusually hard
+coconut : bÉnibEn : a ripe coconut whose kernel is unusually hard
 
 coconut : benikai : ripe coconut with very hard kernel
 
@@ -15391,7 +15239,7 @@ coconut : benikang/kang : a very relishable ripe coconut
 
 coconut : benikangkang : a delicious coconut
 
-coconut : bï¿½nimai : nearly fully ripe as a coconut
+coconut : bÉnimai : nearly fully ripe as a coconut
 
 coconut : ben/imaai : a bitter or unpleasant tasting ripe coconut
 
@@ -20961,7 +20809,7 @@ meandering
 
 curved : bari : slightly curved, puffed out, unequal
 
-curved : bï¿½nono : curved, bent
+curved : bÉnono : curved, bent
 
 curved : benono : bebenono: curved, bent
 
@@ -24310,7 +24158,7 @@ disarranged : buako : disarranged as fiber for braiding
 
 disarranged : burimaaiai : disarranged or mussed up as a wreath
 
-disarranged : kurï¿½be : bad, disarranged, not skilled in fishing
+disarranged : kurÉbe : bad, disarranged, not skilled in fishing
 
 disarranged : raea : in disorder, disarranged, promiscuously placed
 
@@ -25450,7 +25298,7 @@ divide : bwenaa : to divide in two parts as wood, to split
 divide : bwena : bwenabwena: to split, to divide lengthwise, to separate by hollowing out
 between
 
-divide : bwenatï¿½nia : to divide into three portions
+divide : bwenatÉnia : to divide into three portions
 
 divide : bwenauaa : to divide into two portions
 
@@ -26263,7 +26111,7 @@ dress : bakantamaaroa : to dress up, to try to look fine
 
 dress : etete : trimming with a fringe as a house or dress
 
-dress : kabï¿½kaa : to dress as fish, to remove the entrails
+dress : kabÉkaa : to dress as fish, to remove the entrails
 
 dress : kamarai : a dress, a soutane, a cassock
 
@@ -28709,7 +28557,7 @@ entirely : bane : ni bane ni kabanea: totally, entirely, completely
 
 entirely : kati : to certain words to show superlative (very, entirely)
 
-entrails : kabï¿½kaa : to dress as fish, to remove the entrails
+entrails : kabÉkaa : to dress as fish, to remove the entrails
 
 entrails : kurikuri : a portion of the entrails of a shark
 
@@ -30060,7 +29908,7 @@ extend : tanga : to spread, to extend, to develop (wings, etc.), to spread out, 
 
 extend : taotira : superabundant, in abundance, spreading, extending on all sides
 
-extending : rï¿½ngerEnge : long or extending as a branch
+extending : rÉngerEnge : long or extending as a branch
 
 extending : taorababa : spread out on all sides, extending, spreading, covering space all around
 
@@ -30229,7 +30077,7 @@ eye : ataeinimata : pupil of the eye
 
 eye : ae/tinim/ata : prominence of the skull over the eyes
 
-eye : bï¿½kabEka : matter in the eye
+eye : bÉkabEka : matter in the eye
 
 eye : bukinimae/ta : the part of the face very near to the outer corner of the eye
 
@@ -30308,7 +30156,7 @@ eye : niba ni mata : the hollow at the corner of the eye nearest the nose
 
 eye : nib'animaeta : the side of the nose very near to the inner corner of the eye
 
-eye : rï¿½be : the lid of the eye
+eye : rÉbe : the lid of the eye
 
 eye : taobura : tataobura: to keep an eye on, to watch someone's behaviour before taking
 action
@@ -30375,7 +30223,7 @@ eye lid : maetabatutu : having the eyelids nearly closed permanently
 
 eye lid : raurau ni mata : eyelid
 
-eye lid : rï¿½be : having a sty as the eyelid
+eye lid : rÉbe : having a sty as the eyelid
 
 eye lid : rebenimaeta : an eyelid
 
@@ -31467,11 +31315,11 @@ features : bura : aspect, air, appearance, features, looks
 features : ina : physical appearance, distinctive features, deportment, particularities
 <particularity>
 
-February : bï¿½beruare : February
+February : bÉberuare : February
 
 February : Beberuare : February
 
-feces : bï¿½ka : to pass feces
+feces : bÉka : to pass feces
 
 feces : butaio : passing compact feces temporarily paralyzed as the legs
 
@@ -32637,7 +32485,7 @@ firm : maetoatoa : firmness, hardness
 
 firm : nanomaka : energy, firmness, tenacity
 
-firm : nï¿½ne : firm, immovable, fixed, stiff, steady as the wind
+firm : nÉne : firm, immovable, fixed, stiff, steady as the wind
 
 firm : nene : persisting, stable, firm
 
@@ -33482,7 +33330,7 @@ fish : kabata : to dry leaves, to fish with
 
 fish : kab'aweaeta : to send a person to fish for baweata
 
-fish : kabï¿½kaa : to dress as fish, to remove the entrails
+fish : kabÉkaa : to dress as fish, to remove the entrails
 
 fish : kabimaramara : the largest fish in a catch or haul
 
@@ -34884,7 +34732,7 @@ fishing : konakona : habitually successful, as in fishing
 
 fishing : korona : (1) fishing around a bank of stones (na)
 
-fishing : kurï¿½be : bad, disarranged, not skilled in fishing
+fishing : kurÉbe : bad, disarranged, not skilled in fishing
 
 fishing : maabono : stationary trap for fish <fishing>
 
@@ -35237,7 +35085,7 @@ fixed : ba : hard, solid, firm as a rock, fixed
 
 fixed : maotoua : e maotoua te bong: the day is fixed
 
-fixed : nï¿½ne : firm, immovable, fixed, stiff, steady as the wind
+fixed : nÉne : firm, immovable, fixed, stiff, steady as the wind
 
 fixed : newe : ae newe ma: joined on to, touching, adhering to ..., fixed to, caught on to
 ..., hanging from 
@@ -38712,7 +38560,7 @@ gecko : beru : all small geckos
 
 gecko : beru taburimai : all large geckos
 
-gecko : kï¿½ko : a gecko
+gecko : kÉko : a gecko
 
 gehenna : keen/na : gehenna , hell
 
@@ -39074,9 +38922,7 @@ girdle : nuota : cord or girdle made of women's hair (worn by men at ruoia dance
 
 girdle : ro : a girdle, a cable, a warp
 
-#girl : aine : te tei n aine, te ataei n aine: girl (little, young)
-
-girl : neiei
+girl : aine : te tei n aine, te ataei n aine: girl (little, young)
 
 girls : ataei : ataei n aine: little girls
 
@@ -39476,10 +39322,6 @@ go ahore : anna : waerake nako anna, nako eta, nako anna, nako eta: to go ahore
 
 goal : toko : a goal
 
-lady : neiei
-
-woman : neiei
-
 go around : bau : baua: to surround, to encircle, to go around, ... to catch, to take with a
 slip knot, a lasso, to crown
 
@@ -39570,57 +39412,55 @@ goblin : beko : bogey man, goblin, ogre
 
 goby : uringabo : goby (sm)
 
-god : atuau
+god : aen/ti : god, spirit, ghost
 
-#god : aen/ti : god, spirit, ghost
+god : anti : God, spirit, ghost, phantom, spectre, demon, devil
 
-#god : anti : God, spirit, ghost, phantom, spectre, demon, devil
+god : aen/tibuaka : evil spirit or god
 
-#god : aen/tibuaka : evil spirit or god
+god : an/tina : deify, hold or worship as a god
 
-#god : an/tina : deify, hold or worship as a god
+god : antina : to have, to take for one's anti, one's personal god
 
-#god : antina : to have, to take for one's anti, one's personal god
+god : atua : god
 
-#god : atua : god
+god : Atua : God
 
-#god : Atua : God
+god : bakanatua : to aspire to deity, to pretend to be a god
 
-#god : bakanatua : to aspire to deity, to pretend to be a god
+god : bakanatua : the assuming to be god
 
-#god : bakanatua : the assuming to be god
+god : bebeti : the name of a god
 
-#god : bebeti : the name of a god
+god : beiamatekaai : name of a male god
 
-#god : beiamatekaai : name of a male god
+god : kaburorontoun : a Gilbertese god
 
-#god : kaburorontoun : a Gilbertese god
+god : karerea : to call upon a god to inflict vengeance
 
-#god : karerea : to call upon a god to inflict vengeance
+god : kikitei : Na Areau te Kikitei or the Kikinto: name of a god
 
-#god : kikitei : Na Areau te Kikitei or the Kikinto: name of a god
+god : maraia : suffering supposed supernatural evil after disrespect to a god
 
-#god : maraia : suffering supposed supernatural evil after disrespect to a god
+god : naaibunaki : name of a false god
 
-#god : naaibunaki : name of a false god
+god : naikamawa : name of a false god
 
-#god : naikamawa : name of a false god
+god : naatirea : name of a false god
 
-#god : naatirea : name of a false god
+god : ri:/ki : the name of a certain Gilbertese god
 
-#god : ri:/ki : the name of a certain Gilbertese god
+god : tauan/tabo : an offering to a god
 
-#god : tauan/tabo : an offering to a god
+god : terakunene : the god of fragrant odors
 
-#god : terakunene : the god of fragrant odors
+god : teweia : the name of a male deity <god>
 
-#god : teweia : the name of a male deity <god>
+god : timuniman : a spirit, god of inspiration of poets, composers, musicians
 
-#god : timuniman : a spirit, god of inspiration of poets, composers, musicians
+god : tiriboua : to engage in makeing an offering to a god
 
-#god : tiriboua : to engage in makeing an offering to a god
-
-#god : toa ma aomata : te ...: a man of the race of giants. myth. of the demi gods
+god : toa ma aomata : te ...: a man of the race of giants. myth. of the demi gods
 
 god child : tibu : tibu, tibum: grandfather, grandmother, grandchild, grandparents and their
 ancestors, grandchildren and their descendants, adopted child, adopter, god
@@ -42835,8 +42675,6 @@ help : ribata : to help, aid, sustain
 
 help : toa : te tia katoa: the partner, counterpart, helper, assistant
 
-help me : Buokai!
-
 helper : buoka : te tia buoka, te tia buobuoki, te tia i buobuoki: helper, aid, collaborator,
 auxiliary, etc
 
@@ -42979,7 +42817,7 @@ heron : kaai : <bird> reef heron (aa)
 
 heron : matuku : <bird> reef heron (aa)
 
-herring : 'ï¿½ring : herring
+herring : 'Éring : herring
 
 herring : ering : herring <fish>
 
@@ -45171,7 +45009,7 @@ immoral : kana : to live an immoral life
 
 immortal : mate : ae aki mamate: immortal, imperishable, inextinguishable, immortality
 
-immovable : nï¿½ne : firm, immovable, fixed, stiff, steady as the wind
+immovable : nÉne : firm, immovable, fixed, stiff, steady as the wind
 
 immune : kaina : e kainaki, bonotaki aona: he is immune from evil, immunized, preserved from
 
@@ -47914,11 +47752,9 @@ humbug, jest
 
 jester : aokangare : joker, jester
 
-#jesus : Jetu : Jesus
+Jesus : Jetu : Jesus
 
-jesus : Iesu
-
-jesus Christ : Kirito : Ietu-Kirito: Jesus Christ
+Jesus Christ : Kirito : Ietu-Kirito: Jesus Christ
 
 jet : bakati : to jet, to spout, to gush, to spurt out, to squirt out
 
@@ -48677,7 +48513,7 @@ kernel : tae/rin : taken out or removed unscraped, as the kernel from the shell
 
 kernel : ukinae/naa : eat out the kernel from a coconut with the front teeth
 
-kettle : kï¿½tere : a kettle
+kettle : kÉtere : a kettle
 
 key : ki:ng : a key
 
@@ -49092,7 +48928,7 @@ knives : biti : iron, metal, scrap iron, nails, knives
 
 knob : bia : growth, tumor, gland, knob, excrescence, fish ovaries. [labia majoris]
 
-knobs : kurï¿½berEbe : abounding in knobs or ridges, rough, bad
+knobs : kurÉberEbe : abounding in knobs or ridges, rough, bad
 
 knobs : nimoimoiniwae : the ankle knobs
 
@@ -50876,7 +50712,7 @@ legs : waewae : having stout legs
 
 lemon : kunikun : a species of wild lemon (Ocean Island)
 
-lemon : rï¿½man : a lemon
+lemon : rÉman : a lemon
 
 lemon : remon : lemon
 
@@ -50943,9 +50779,9 @@ Lent : Karemo : Lent
 
 lentil : rEn/tire : a lentil
 
-leopard : rï¿½bari : a leopard
+leopard : rÉbari : a leopard
 
-leper : rï¿½bera : a leper
+leper : rÉbera : a leper
 
 leper : rebera : to have leprosy, to be a leper
 
@@ -51192,7 +51028,7 @@ lid : karebea : to turn up or out the lid of the eye
 lid : mata : an opening, needle eye, opening of insects nest, etc., lid, entrance, facade,
 operculum, mesh of net, core of boil, eyelet hole
 
-lid : rï¿½be : the lid of the eye
+lid : rÉbe : the lid of the eye
 
 lie : ai : ai ko keve!: nonsense!, you are telling a lie!
 
@@ -52345,7 +52181,7 @@ long : raan/naenoa : to desire, to long for
 
 long : rarai : raraia, bararaia, nibararaia: to desire, to long for a certain food
 
-long : rï¿½ngerEnge : long or extending as a branch
+long : rÉngerEnge : long or extending as a branch
 
 long : ri : to pass, to pass along, to desire, to long
 
@@ -52629,7 +52465,7 @@ loosen : marau : kamaraua: to soften, to appease, to loosen
 loosen : marin : kamarina, kamarinrina: to loosen, to make move, to prepare a drink mixed with
 kabubu and water, to (stir)
 
-looseness : kabï¿½ka : causing looseness of the bowels
+looseness : kabÉka : causing looseness of the bowels
 
 loosening : moti ro : (fig.) loosening of reins
 
@@ -53798,7 +53634,7 @@ many : bati : much, many
 
 many : bekoko : ibe and ko; many and close together
 
-many : bï¿½roro : many, in great numbers, numerous as ants
+many : bÉroro : many, in great numbers, numerous as ants
 
 many : betanga : many, much, a quantity
 
@@ -54623,9 +54459,7 @@ may : meei : month of may
 
 may : Mei : May (month of May)
 
-#maybe : tao : perhaps, in case, <maybe>
-
-maybe : I taku
+maybe : tao : perhaps, in case, <maybe>
 
 me : ai : e karineai: he respects me
 
@@ -55350,7 +55184,7 @@ mild : inaaine : gentle in manner, soft and refined in manners, mild, meek
 
 mild : nimaamanei : gentle, meek, inoffensive, mild
 
-mildew : bwï¿½bwE : mildew, a sprout
+mildew : bwÉbwE : mildew, a sprout
 
 mildew : mae/nibineu : mildew
 
@@ -58738,7 +58572,7 @@ numerous : akikaen/teaba : much, many, great, numerous
 
 numerous : angi : much, numerous, abundant, the greater part
 
-numerous : bï¿½roro : many, in great numbers, numerous as ants
+numerous : bÉroro : many, in great numbers, numerous as ants
 
 numerous : buua : numerous, in great number
 
@@ -61189,7 +61023,7 @@ paint : rebu : whitewash, distemper (or even all kinds of paint)
 
 paint : renga : rengarenga: red, pink colour, paint
 
-paint : rï¿½ngarEnga : to paint red
+paint : rÉngarEnga : to paint red
 
 paint : ta : tar, paint
 
@@ -62940,7 +62774,7 @@ pebbles : taoatama : to put layer of coral pebbles on a tomb. repast and ceremon
 
 pebbles : tauororo : small coral pebbles (used for counting, lots)
 
-peck : bï¿½ke : a peck, one fourth of a bushel
+peck : bÉke : a peck, one fourth of a bushel
 
 peck : beke : 2\. peck (measure)
 
@@ -63032,7 +62866,7 @@ pejorative : wi-mari : good story teller in pejorative, braggart, harmless wag, 
 
 Pelamis : ati : Pelamis bonito
 
-pelican : bï¿½rikan : a pelican
+pelican : bÉrikan : a pelican
 
 pell mell : teibaba : pell mell, higgledy piggledy, in disorder
 
@@ -63124,7 +62958,7 @@ pennant : ratabito : flag, pennant, colours attached to mast of canoe
 
 pennant : tiekaokao : to stream out as a pennant
 
-penny : bï¿½ne : a penny
+penny : bÉne : a penny
 
 penny : bene : penny, pence (money)
 
@@ -66055,15 +65889,13 @@ prattling : kabara ria : talkative, loquacious, prattling
 
 prawn : nika tebetebe : a small prawn (brangon lobster)
 
-pray : tataro
+pray : tatae/ro : to pray
 
-#pray : tatae/ro : to pray
+pray : tatae/roa : to pray to
 
-#pray : tatae/roa : to pray to
+pray : wauna : to pray to death
 
-#pray : wauna : to pray to death
-
-#pray : wawi : to pray to death (haw = anana)
+pray : wawi : to pray to death (haw = anana)
 
 prayer : bubuti : request, demand, petition, supplication, prayer
 
@@ -69287,15 +69119,15 @@ ration : tikona : to measure, to portion out sparingly, to ration, to apply rest
 
 rats : kitoko : the droppings of rats
 
-rattle : kakï¿½kea : to rattle
+rattle : kakÉkea : to rattle
 
-rattle : kakï¿½rukEru : to rattle
+rattle : kakÉrukEru : to rattle
 
-rattle : kakï¿½rukErua : to rattle
+rattle : kakÉrukErua : to rattle
 
 rattle : katakarurua : to rattle
 
-rattle : kï¿½kE : to rattle, as iron with iron
+rattle : kÉkE : to rattle, as iron with iron
 
 rattle : kokoaa : to ramble, to rattle
 
@@ -69815,14 +69647,14 @@ red : nokom'aka : a stiff reddish midrib of a coconut leaflet
 
 red : n/ta : a reddish bivalvular shellfish, often used as a neck ornament
 
-red : rï¿½nga : red cloth
+red : rÉnga : red cloth
 
 red : renga : red or pink colour appearing on cooked taro after a few days (this red is
 covered with a mouldy dust)
 
 red : renga : red or pink colour
 
-red : rï¿½ngarEnga : to paint red
+red : rÉngarEnga : to paint red
 
 red : ruonamaiawa : an adjective descriptive of a person with a red face or clothed in a red
 garment
@@ -71772,7 +71604,7 @@ ridge-pole : taubuki : having a long ridgepole
 
 ridges : katabuka : to make into ridges or mounds
 
-ridges : kurï¿½berEbe : abounding in knobs or ridges, rough, bad
+ridges : kurÉberEbe : abounding in knobs or ridges, rough, bad
 
 ridges : tabatoatoa : having ridges or uneven places as a spot on which one is lying
 
@@ -71950,7 +71782,7 @@ ripe : bae/ka : fully ripe, as the pandanus fruit
 
 ripe : ben : ripe coconut, coconuts
 
-ripe : bï¿½nimai : nearly fully ripe as a coconut
+ripe : bÉnimai : nearly fully ripe as a coconut
 
 ripe : katawaea : to wait for fruit until ripe
 
@@ -72886,7 +72718,7 @@ rough : karou : rough as the sea
 
 rough : kiribeubeu : uneven, rough, covered with lumps and hollows (fruit, ground, floor)
 
-rough : kurï¿½berEbe : abounding in knobs or ridges, rough, bad
+rough : kurÉberEbe : abounding in knobs or ridges, rough, bad
 
 rough : makerekere : rough to the feel, rough, raspy
 
@@ -73405,7 +73237,7 @@ ruoia : kimaetoa : stiff jointed in the hips in ruoia hence unable to kabuti wel
 
 ruoia : moanikaura : stand first in the rank in the ruoia
 
-ruoia : titikubï¿½ka : to unskillfully settle a little in the ruoia
+ruoia : titikubÉka : to unskillfully settle a little in the ruoia
 
 ruoia : tutuku : to settle down a little as in ruoia
 
@@ -75474,7 +75306,7 @@ second : mwi n ai : second batch cooked in the same oven
 
 second : namakaina : 2nd <second> day: e buti n ika 3rd <third> day: e oti, e koran
 
-second : tï¿½kan : a second
+second : tÉkan : a second
 
 second : tekan : a second (time)
 
@@ -76185,7 +76017,7 @@ sequel : iria : following, suit, procession, sequel, consequence
 
 sequence : keru : (2) three consecutive cards (in game). <sequence>
 
-seraphim : tï¿½rabjm : seraphim
+seraphim : tÉrabjm : seraphim
 
 serene : mweraoi : peaceful, at peace, serene, quiet, secure
 
@@ -76360,7 +76192,7 @@ settle : mwenga : settle down in a permanent residence
 
 settle : titiku : to settle down by the knees
 
-settle : titikubï¿½ka : to unskillfully settle a little in the ruoia
+settle : titikubÉka : to unskillfully settle a little in the ruoia
 
 settle : tutuku : to settle down a little as in ruoia
 
@@ -77150,7 +76982,7 @@ sheet : ninira : any kind of covering, wrapping, veil, sheet, shroud, blanket, m
 
 sheet : titae/kite : a sheet of paper
 
-shekel : tiï¿½kera : a shekel
+shekel : tiÉkera : a shekel
 
 shelf : aontebora : very wide shelf or loft encircling the interior of a house [bora  a loft, an
 elevated platform in a bata]
@@ -77399,7 +77231,7 @@ shell fish : kabinea : a shell-fish, the
 
 shell fish : kabunrere : a shell-fish, the
 
-shell fish : kakï¿½rukEru : a shell-fish, the
+shell fish : kakÉrukEru : a shell-fish, the
 
 shell fish : katj : a bivalvular shell fish
 
@@ -78708,7 +78540,7 @@ silly : ou : silly, stupid, simple
 
 silo : baro : 1\. attic, provision box, hutch, silo, small box, safe
 
-silvas : tï¿½rewati : silvas in brazil
+silvas : tÉrewati : silvas in brazil
 
 silver : tj/reba : silver
 
@@ -83427,13 +83259,13 @@ sprite : temamang : (2) fire sprite
 sprout : aeto : a shoot or sprout of a shrub or young tree growing up straight , slender and
 pointed, a switch, rod
 
-sprout : bï¿½be : the germ sprout, the soft contents of a sprouting coconut
+sprout : bÉbe : the germ sprout, the soft contents of a sprouting coconut
 
 sprout : bukare : to sprout in great numbers
 
 sprout : bukare : to sprout, to bud, to grow thickly
 
-sprout : bwï¿½bwE : mildew, a sprout
+sprout : bwÉbwE : mildew, a sprout
 
 sprout : kabwebwea : to cause to sprout, to wait for sprouting
 
@@ -83803,7 +83635,7 @@ stage : kai n toka : a seat, a high seat, a platform, a stand, a stage
 
 stagger : baka : nibakabaka: to stumble, to stagger often
 
-stagger : bï¿½be : to stagger
+stagger : bÉbe : to stagger
 
 stagger : bebe : to stagger, to reel, to waver
 
@@ -84437,7 +84269,7 @@ stay at home : ninibanga : domestic, stay at home, hermit, keeps hidden in hole,
 
 steadily : tarataraa : frequentative of tara,  to look at steadily
 
-steady : nï¿½ne : firm, immovable, fixed, stiff, steady as the wind
+steady : nÉne : firm, immovable, fixed, stiff, steady as the wind
 
 steady : rarango : constant and steady, as the trade wind
 
@@ -84993,7 +84825,7 @@ stiff : koonin : stiff or drawn up through cold
 
 stiff : koro ni katei : fig stiff as a board (slang)
 
-stiff : nï¿½ne : firm, immovable, fixed, stiff, steady as the wind
+stiff : nÉne : firm, immovable, fixed, stiff, steady as the wind
 
 stiff : ngea : firm, stiff, hard as a wet rope
 
@@ -86864,7 +86696,7 @@ stuttering : b'anaarerarera : stuttering
 stuttering : rera : stuttering, lisping of children (for stuttering of adults pae newe, e bae
 newena is used)
 
-sty : rï¿½be : having a sty as the eyelid
+sty : rÉbe : having a sty as the eyelid
 
 sty : rebe : edge, bulging part, projecting, protuberance, sty, tip of lips, etc
 
@@ -88320,7 +88152,7 @@ swarm : bekoko : to swarm, to teem
 
 swarm : beroro : beroroa: to swarm on, to invade
 
-swarm : bï¿½roroa : to swarm over food as ants
+swarm : bÉroroa : to swarm over food as ants
 
 swarm : bua : a mass, a crowd, a swarm, a lot
 
@@ -90095,9 +89927,9 @@ tepid : angibue : hot (wind, air, or atmosphere), tepid (liquid)
 
 Teptarus : raku bakabane : Teptarus angustirostris
 
-terabinth : tï¿½rebjnta : a terabinth
+terabinth : tÉrebjnta : a terabinth
 
-teraphim : tï¿½rebjm : teraphim
+teraphim : tÉrebjm : teraphim
 
 tergiversate : tabara : to differ in opinion, to hesitate, misunderstand, to grope, tergiversate
 
@@ -90222,7 +90054,7 @@ terrifying : kamaaku : terrifying
 territorial : taritoa : limited water around an island, its territorial waters, inside boundary or
 dividing line between two islands
 
-territory : tï¿½ritori : a territory
+territory : tÉritori : a territory
 
 terror : kakamaaku : a terror
 
@@ -90272,7 +90104,7 @@ tether : ro : roa: to attach, to tie up, to put at end of rope, to tether, to an
 
 Tetrodon : kamanang : Tetrodon sp
 
-tetter : tï¿½ta : tetter
+tetter : tÉta : tetter
 
 Teuthis : nimunai : surgeon fish (Teuthis rostratus)
 
@@ -91180,7 +91012,7 @@ three : bwena : bwenatenia: to split in three
 
 three : bwenaten : food, or a drift-log, to be divided into three parts
 
-three : bwenatï¿½nia : to divide into three portions
+three : bwenatÉnia : to divide into three portions
 
 three : keru : (2) three consecutive cards (in game). <sequence>
 
@@ -94753,7 +94585,7 @@ twist : kaminoa : to twist
 
 twist : kano : kanoa, kakanoa te kora: to twist string
 
-twist : kanotï¿½nia : to twist three threads
+twist : kanotÉnia : to twist three threads
 
 twist : katabiro : katabiroa: to twist, to turn around
 
@@ -96664,7 +96496,7 @@ veins : uti ia : swelling veins, varicose
 
 velocity : birimaka : velocity, rapidity, swiftness
 
-velvet : wï¿½rewEti : velvet
+velvet : wÉrewEti : velvet
 
 venerable : mangoieta : venerable, superior
 
@@ -98600,7 +98432,7 @@ weed : tarai : (2) a weed
 
 weed : titania : tare (a weed), darnel. (Matthew 13-25)
 
-#week : wi:/ki : a week
+week : wi:/ki : a week
 
 week : wiki : (1) week
 
@@ -98653,31 +98485,31 @@ weighty : tinebu : heavy, weighty
 
 wek : baru : a fish, wek cod
 
-#welcome : akoa : to treat with care, look after, to be careful of, to welcome or receive well
+welcome : akoa : to treat with care, look after, to be careful of, to welcome or receive well
 
-#welcome : aorab'a : kaoraba: to find fortune, to profit, to esteem, welcome
+welcome : aorab'a : kaoraba: to find fortune, to profit, to esteem, welcome
 
-#welcome : b'akab'akanikoroa : a hastening to meet a coming guest, a welcome
+welcome : b'akab'akanikoroa : a hastening to meet a coming guest, a welcome
 
-#welcome : b'akab'akanikoroaa : to welcome a returning friend by hastening to meet him
+welcome : b'akab'akanikoroaa : to welcome a returning friend by hastening to meet him
 
-#welcome : bakako : a feigned welcome, false assiduousness
+welcome : bakako : a feigned welcome, false assiduousness
 
-#welcome : butimaea : (irregular) to go to meet, to welcome someone, to receive well
+welcome : butimaea : (irregular) to go to meet, to welcome someone, to receive well
 
-#welcome : inga : to welcome, to receive with marks of affection, esteem and respect
+welcome : inga : to welcome, to receive with marks of affection, esteem and respect
 
-#welcome : kaeaka : ka-eaka: to welcome, to take in a traveller, exile, or homeless person
+welcome : kaeaka : ka-eaka: to welcome, to take in a traveller, exile, or homeless person
 
-#welcome : kauram'aa : to await the arrival of, to welcome
+welcome : kauram'aa : to await the arrival of, to welcome
 
-#welcome : manea akoa : to welcome, to receive, to care for
+welcome : manea akoa : to welcome, to receive, to care for
 
-#welcome : mra : mramra: to converge on in crowd, to crowd around, to welcome, to acclaim
+welcome : mra : mramra: to converge on in crowd, to crowd around, to welcome, to acclaim
 
-#welcome : raoi : peace (in answer to thanks) welcome>
+welcome : raoi : peace (in answer to thanks) welcome>
 
-#welcome : tautata : tatautata: warm welcome, assiduous attention to guests
+welcome : tautata : tatautata: warm welcome, assiduous attention to guests
 
 welcomed : aorab'a : lucky, fortunately placed, bringing good luck for fishing. Pers. welcomed for
 benefits they bring
