@@ -86,7 +86,7 @@ contractions = {
 "they've": "they have",
 "to've": "to have",
 "wasn't": "was not",
-"we'd": "we had / we would",
+"we'd": "we would",
 "we'd've": "we would have",
 "we'll": "we will",
 "we'll've": "we will have",
@@ -96,9 +96,9 @@ contractions = {
 "what'll": "what will",
 "what'll've": "what will have",
 "what're": "what are",
-"what's": "what has / what is",
+"what's": "what is",
 "what've": "what have",
-"when's": "when has / when is",
+"when's": "when is",
 "when've": "when have",
 "where'd": "where did",
 "where's": "where is",
@@ -139,6 +139,7 @@ i_pronouns = {'myself', 'me', 'my', 'i'}
 
 def remove_pronouns(phrase):
     phrase = phrase.split()
+    r = False
     for i in range(len(phrase)):
         word = phrase[i]
         conjuct = False
@@ -146,6 +147,7 @@ def remove_pronouns(phrase):
             words = contractions[word].split()
             word = words[0]
             conjuct = True
+            print(phrase)
         except KeyError:
             pass
             
@@ -160,8 +162,12 @@ def remove_pronouns(phrase):
         if conjuct:
             words[0] = word
             word = ' '.join(words)
+            r = True
         phrase[i] = word
-    return ' '.join(phrase)
+    phrase = ' '.join(phrase)
+    if r:
+        print(phrase)
+    return phrase
     
     
 
@@ -202,7 +208,7 @@ def get_eng_phrases(filename):
                         pass  
                     
                     if not in_dict and phrase != '':
-                        print(phrase)
+                        #print(phrase)
                         phrases.append(phrase)
     #print(len(phrases))
     set1 = set(phrases)
@@ -288,7 +294,7 @@ def add_to_file():
     
 
 
-filename = "A Beautiful Mind 2001 720p BrRip x264 YIFY-English.srt"
+filename = "A space Odyssey-English.srt"
 
 #phrases = get_eng_phrases(filename)
 #get_new_eng_pharse(phrases)
