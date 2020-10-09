@@ -18,9 +18,9 @@ have a great day : Tekeraoi am bong!
 
 have a good day : Tekeraoi am bong!
 
-love you : tangiriko
+i love you : i tangiriko
 
-miss you : i rangi ni mitiniko
+i miss you : i rangi ni mitiniko
 
 #miss you : i rangi ni mitiniko : miss you very much
 
@@ -256,11 +256,11 @@ you know what: ko ataia bwa tera
 
 you are a: bon to maaku ngkoe
 
-where is: e ngaa
+where is he: e ngaa
 
-who is: antai
+who is he: antai
 
-how is: e uara
+how is he: e uara
 
 why is: Bukin tera bwa e
 

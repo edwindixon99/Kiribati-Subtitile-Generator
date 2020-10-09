@@ -29,7 +29,7 @@ contractions = {
 "he'd've": "he would have",
 "he'll": "he will",
 "he'll've": "he will have",
-"he's": "he has / he is",
+"he's": "he is",
 "how'd": "how did",
 "how'd'y": "how do you",
 "how'll": "how will",
@@ -207,7 +207,7 @@ def get_eng_phrases(filename):
                     except KeyError:
                         pass  
                     
-                    if not in_dict and phrase != '':
+                    if not in_dict and phrase != '' and len(phrase.split()) == 1:
                         #print(phrase)
                         phrases.append(phrase)
     #print(len(phrases))
@@ -294,7 +294,7 @@ def add_to_file():
     
 
 
-filename = "A space Odyssey-English.srt"
+filename = "The Good, the Bad and the Ugly-English.srt"
 
 #phrases = get_eng_phrases(filename)
 #get_new_eng_pharse(phrases)
