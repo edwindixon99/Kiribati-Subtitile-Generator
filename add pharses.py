@@ -147,7 +147,7 @@ def remove_pronouns(phrase):
             words = contractions[word].split()
             word = words[0]
             conjuct = True
-            print(phrase)
+            #print(phrase)
         except KeyError:
             pass
             
@@ -165,8 +165,8 @@ def remove_pronouns(phrase):
             r = True
         phrase[i] = word
     phrase = ' '.join(phrase)
-    if r:
-        print(phrase)
+    #if r:
+        #print(phrase)
     return phrase
     
     
@@ -207,7 +207,7 @@ def get_eng_phrases(filename):
                     except KeyError:
                         pass  
                     
-                    if not in_dict and phrase != '' and len(phrase.split()) == 1:
+                    if not in_dict and phrase != '' and len(phrase.split()) >= 10:
                         #print(phrase)
                         phrases.append(phrase)
     #print(len(phrases))
@@ -294,7 +294,7 @@ def add_to_file():
     
 
 
-filename = "The Good, the Bad and the Ugly-English.srt"
+filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
 
 #phrases = get_eng_phrases(filename)
 #get_new_eng_pharse(phrases)

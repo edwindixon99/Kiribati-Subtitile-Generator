@@ -178,7 +178,7 @@ def translate_file(filename, film):
 
 
 if __name__ == '__main__':
-    #translate_file("red.txt", "red")
+    #translate_file("Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt", "king")
     from tkinter import *
     from tkinter.ttk import *  
     window = Tk()
