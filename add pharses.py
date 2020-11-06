@@ -10,6 +10,7 @@ stop = stopwords.words('english')
 from nltk.corpus import wordnet
 from nltk.corpus import wordnet as wn
 
+filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
 
 contractions = { 
 "aren't": "are not",
@@ -139,9 +140,94 @@ you_pronouns = {'you','your''ya''yourself'}
 i_pronouns = {'myself', 'me', 'my', 'i'}
 
 
+    
+
+
+
+    #return pronouns
+
+
+    
+        
+
+def strip_word(word):
+    word = word.replace('<i>', '')
+    word = word.replace('</i>', '')
+    word = word.strip('-?!.,') 
+    #word = word.strip() 
+    return word
+
+def get_dict(filename):
+    diction = {}
+    alpha = list(string.ascii_lowercase)
+    f = open(filename, encoding = "ISO-8859-1")
+    lines = f.readlines()
+    for line in lines:
+        line = line.rstrip().split(':')
+        if len(line) >= 2:
+        
+            
+            #print(line)
+            eng_word = line[0].strip()
+            kir_word = line[1].strip()
+            diction[eng_word] = kir_word
+            
+    f.close()   
+    return diction
+
+
+
+def get_initial_eng_phrases(filename):
+    dict1 = get_dict('dictionary.txt')
+    dict2 = get_dict("new phrases.txt")  
+    phrases = []
+    f = open(filename, 'r')
+    lines = f.read().lower().split('\n\n')
+    for j in range(len(lines)):
+        line1 = lines[j].split()
+        #print(line1)
+        line = line1[4:]
+        #print(line)
+        line = " ".join(line)
+        
+        if not (line.startswith("(") or line.startswith('<')):
+            line = line.split('.')
+           
+            for sentence in line:
+                #print(sentence)
+                res = re.split(',|_|-|!', sentence)
+                in_dict = False
+                for phrase in res:
+                    phrase = phrase.strip()
+                    phrase = phrase.strip('!?,-')
+                    phrase = phrase.strip()
+                    #phrase = remove_pronouns_and_nouns(phrase)
+                    
+
+                    try:
+                        dict1[phrase]
+                        in_dict = True
+                    except KeyError:
+                        pass
+                    try:
+                        dict2[phrase]
+                        in_dict = True
+                    except KeyError:
+                        pass  
+                    
+                    if not in_dict and phrase != '' and len(phrase.split()) >= 10:
+                        
+                        #print(phrase)
+                        phrases.append(phrase)
+    #print(len(phrases))
+    set1 = set(phrases)
+    print(len(set1))
+    f.close()  
+    return phrases
+
 
 def collect_nouns(filename):
-    phrases = get_eng_phrases(filename, True)
+    phrases = get_initial_eng_phrases(filename)
     Tokens = []
     for Sent in phrases:
         Tokens.append(nltk.word_tokenize(Sent)) 
@@ -171,12 +257,13 @@ def collect_nouns(filename):
     return Names
 
 
-
+nouns = collect_nouns(filename)
 
 def remove_pronouns_and_nouns(phrase):
     phrase = phrase.split()
     r = False
     noun_counter = collections.defaultdict(list)
+    counter = 0
     for i in range(len(phrase)):
         word = phrase[i]
         conjuct = False
@@ -221,7 +308,7 @@ def remove_pronouns_and_nouns(phrase):
     
     
     
-def get_eng_phrases(filename, initial=False):
+def get_eng_phrases(filename):
     dict1 = get_dict('dictionary.txt')
     dict2 = get_dict("new phrases.txt")  
     phrases = []
@@ -245,10 +332,9 @@ def get_eng_phrases(filename, initial=False):
                     phrase = phrase.strip()
                     phrase = phrase.strip('!?,-')
                     phrase = phrase.strip()
-                    #phrase = remove_pronouns_and_nouns(phrase)
+                    phrase = remove_pronouns_and_nouns(phrase)
                     
-                    if not initial:
-                        phrase = remove_pronouns_and_nouns(phrase)
+
                     try:
                         dict1[phrase]
                         in_dict = True
@@ -269,46 +355,18 @@ def get_eng_phrases(filename, initial=False):
     print(len(set1))
     f.close()  
     return phrases
-    
 
-
-
-    #return pronouns
-
-
-    
-        
-
-def strip_word(word):
-    word = word.replace('<i>', '')
-    word = word.replace('</i>', '')
-    word = word.strip('-?!.,') 
-    #word = word.strip() 
-    return word
-
-def get_dict(filename):
-    diction = {}
-    alpha = list(string.ascii_lowercase)
-    f = open(filename, encoding = "ISO-8859-1")
-    lines = f.readlines()
-    for line in lines:
-        line = line.rstrip().split(':')
-        if len(line) >= 2:
-        
-            
-            #print(line)
-            eng_word = line[0].strip()
-            kir_word = line[1].strip()
-            diction[eng_word] = kir_word
-            
-    f.close()   
-    return diction
 
 
 def get_new_eng_pharse():
     eng = get_eng_phrases(filename)[0]
     e.set(eng)
     note.set('')
+    
+def print_new_eng_pharse2():
+    print(get_eng_phrases(filename)[0])
+    print(get_initial_eng_phrases(filename)[0])
+
 
         
 def add_to_file():
@@ -320,7 +378,7 @@ def add_to_file():
     
 
 
-filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
+#filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
 
 #phrases = get_eng_phrases(filename)
 #get_new_eng_pharse(phrases)
@@ -380,3 +438,5 @@ filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
 phrases = phrases = get_eng_phrases(filename)
 nouns = collect_nouns(filename)
 print(nouns)
+
+print_new_eng_pharse2()
