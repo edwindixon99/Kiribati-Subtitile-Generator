@@ -2,14 +2,187 @@ import collections
 import itertools
 import string
 import json
+import re
+import nltk
+from nltk.corpus import stopwords
+stop = stopwords.words('english')
+from nltk.corpus import wordnet
+from nltk.corpus import wordnet as wn
 
+
+
+contractions = { 
+"aren't": "are not",
+"can't": "cannot",
+"can't've": "cannot have",
+"'cause": "because",
+"could've": "could have",
+"couldn't": "could not",
+"couldn't've": "could not have",
+"didn't": "did not",
+"doesn't": "does not",
+"don't": "do not",
+"hadn't": "had not",
+"hadn't've": "had not have",
+"hasn't": "has not",
+"haven't": "have not",
+"he'd": "he would",
+"he'd've": "he would have",
+"he'll": "he will",
+"he'll've": "he will have",
+"he's": "he is",
+"how'd": "how did",
+"how'd'y": "how do you",
+"how'll": "how will",
+"how's": "how is",
+"I'd": "I would",
+"I'd've": "I would have",
+"I'll": "I will",
+"I'll've": "I will have",
+"I'm": "I am",
+"I've": "I have",
+"isn't": "is not",
+"it'd": "it would",
+"it'd've": "it would have",
+"it'll": "it will",
+"it'll've": "it will have",
+"it's": "it is",
+"let's": "let us",
+"ma'am": "madam",
+"mayn't": "may not",
+"might've": "might have",
+"mightn't": "might not",
+"mightn't've": "might not have",
+"must've": "must have",
+"mustn't": "must not",
+"mustn't've": "must not have",
+"needn't": "need not",
+"needn't've": "need not have",
+"oughtn't": "ought not",
+"oughtn't've": "ought not have",
+"shan't": "shall not",
+"sha'n't": "shall not",
+"shan't've": "shall not have",
+"she'd": "she would",
+"she'd've": "she would have",
+"she'll": "she will",
+"she'll've": "she will have",
+"she's": "she is",
+"should've": "should have",
+"shouldn't": "should not",
+"shouldn't've": "should not have",
+"so've": "so have",
+"so's": "so is",
+"that'd": "that would",
+"that'd've": "that would have",
+"that's": "that is",
+"there'd": "there would",
+"there'd've": "there would have",
+"there's": "there is",
+"they'd": "they would",
+"they'd've": "they would have",
+"they'll": "they will",
+"they'll've": "they will have",
+"they're": "they are",
+"they've": "they have",
+"to've": "to have",
+"wasn't": "was not",
+"we'd": "we would",
+"we'd've": "we would have",
+"we'll": "we will",
+"we'll've": "we will have",
+"we're": "we are",
+"we've": "we have",
+"weren't": "were not",
+"what'll": "what will",
+"what'll've": "what will have",
+"what're": "what are",
+"what's": "what is",
+"what've": "what have",
+"when's": "when is",
+"when've": "when have",
+"where'd": "where did",
+"where's": "where is",
+"where've": "where have",
+"who'll": "who will",
+"who'll've": "who will have",
+"who's": "who is",
+"who've": "who have",
+"why's": "why is",
+"why've": "why have",
+"will've": "will have",
+"won't": "will not",
+"won't've": "will not have",
+"would've": "would have",
+"wouldn't": "would not",
+"wouldn't've": "would not have",
+"y'all": "you all",
+"y'all'd": "you all would",
+"y'all'd've": "you all would have",
+"y'all're": "you all are",
+"y'all've": "you all have",
+"you'd": "you would",
+"you'd've": "you would have",
+"you'll": "you will",
+"you'll've": "you will have",
+"you're": "you are",
+"you've": "you have"
+}
+
+
+
+
+def sub_nouns(words, num):
+    phrase = ' '.join(words)
+    Tokens = []
+
+    Tokens.append(nltk.word_tokenize(phrase)) 
+    Words_List = [nltk.pos_tag(Token) for Token in Tokens]
+    
+    Nouns = {}
+    pronouns = {}
+    num = {}
+    i = 0
+    pr = "__PRONOUN!!!{}___"
+    noun = "__NOUN!!!{}___"
+    number = "__NUM!!!{}___"
+    for List in Words_List:
+        for Word in List:
+            
+            if re.match('PRP', Word[1]) or Word[0] == 'i':
+                #print('ok')
+                Nouns[pr.format(i)] = Word[0]
+                words[i] = pr.format(i)
+                         
+            
+            elif re.match('NUM', Word[1]):
+                Nouns[number.format(i)] = Word[0]
+                words[i] = num.format(i)
+                
+            elif Word[1] == 'NN':
+                Nouns[noun.format(i)] = Word[0]
+                words[i] = noun.format(i)
+            i += 1
+    
+    return list(itertools.islice(words, 0, num))
+
+                
+
+
+#nouns, pronouns = collect_nouns(filename)
+
+ 
 
 def translate(words, num):
+    words_alter = sub_nouns(words, num)
     words = list(itertools.islice(words, 0, num))
+    
     while num > 1:
         sub_words = list(itertools.islice(words, 0, num))
+        sub_A_words = list(itertools.islice(words_alter, 0, num))
         #print(words)
         num_words = ' '.join(sub_words)
+        num_A_words = ' '.join(sub_A_words)
         try:
             if dictionp[num_words]:
                 try:
@@ -18,13 +191,32 @@ def translate(words, num):
                 except IndexError:
                     pass
             return num, dictionp[num_words]
+        
         except KeyError:
             pass
+        
+        try:
+            if dictionp[num_A_words]:
+                try:
+                    if words[2] in ['it', 'he', 'she', 'that']:
+                        return num + 1, dictionp[num_A_words]
+                except IndexError:
+                    pass
+            return num, dictionp[num_A_words]
+        
+        except KeyError:
+            pass
+        #############################################################
         try:
             return num, diction[num_words]
         except KeyError:
             num -= 1 
-            
+        try:
+            if diction[num_A_words]:
+                
+            return num, diction[num_A_words]
+        except KeyError:
+            num -= 1         
             
     word1 = words[0]
     try:
@@ -117,7 +309,11 @@ def translate_file_attempt(title3, filename, film):
     except:
         title3.set("Something went wrong!?! Maybe wrong filename")
         
-
+def contraction(word):
+    try:
+        return contractions[word]
+    except KeyError:
+        return word
     
 def translate_file(filename, film):
     words = collections.deque()
@@ -135,7 +331,11 @@ def translate_file(filename, film):
             #print(line)
             #print(word, i)
             f_r_tup, word1 = pre_adjust(word)
-            words.append(word1)
+            word1 = contraction(word1)
+            if type(word1) == list:
+                words = words + word1
+            else:
+                words.append(word1)
             f_r.append(f_r_tup)
         while 0 < len(words):
             if skips > 1:

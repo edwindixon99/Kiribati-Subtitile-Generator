@@ -237,6 +237,7 @@ def collect_nouns(filename, conjuction=False):
     Nouns = set()
     pronouns = set('i')
     conjuction_set = set()
+    num = set()
     for List in Words_List:
         for Word in List:
             if re.match('CC', Word[1]):
@@ -247,7 +248,7 @@ def collect_nouns(filename, conjuction=False):
                 pronouns.add(Word[0].lower())            
             
             elif re.match('NUM', Word[1]):
-                pronouns.add(Word[0].lower())
+                num.add(Word[0].lower())
                 
             elif Word[1] == 'NN':
                 #print('ol')
@@ -392,8 +393,8 @@ def get_new_eng_pharse():
     note.set('')
     
 def print_new_eng_pharse2():
-    print(get_eng_phrases(filename))
-    #print(get_initial_eng_phrases(filename)[0])
+    print(len(set(get_eng_phrases(filename))))
+    print(len(set(get_initial_eng_phrases(filename))))
 
 
         
