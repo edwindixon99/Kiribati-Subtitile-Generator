@@ -10,7 +10,7 @@ stop = stopwords.words('english')
 from nltk.corpus import wordnet
 from nltk.corpus import wordnet as wn
 
-filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
+filename = "WALL E.srt"
 
 contractions = { 
 "aren't": "are not",
@@ -233,37 +233,38 @@ def collect_nouns(filename):
         Tokens.append(nltk.word_tokenize(Sent)) 
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
     #print(Words_List)
-    Nouns_List = []
-    pronouns = set()
+    Nouns = set()
+    pronouns = set('i')
     
     for List in Words_List:
         for Word in List:
             #if Word[0] == 'Dance':
                 #print(Word)
             if Word[1] == 'NN':
-                Nouns_List.append(Word[0])
+                print('ol')
+                Nouns.add(Word[0])
             if re.match('PRP', Word[1]):
                 pronouns.add(Word[0].lower())
-    print(pronouns)
+    #print(pronouns)
     
-    Names = set()
-    for Nouns in Nouns_List:
-        #if Nouns[0].isupper() and wordnet.synsets(Nouns):
-            Names.add(Nouns)
+    #Names = set()
+    #for Nouns in Nouns_List:
+        ##if Nouns[0].isupper() and wordnet.synsets(Nouns):
+            #Names.add(Nouns)
     
-    print (len(Names)  )
-    for i in Names:
-        print(i)
-    return Names
+
+    return Nouns, pronouns
 
 
-nouns = collect_nouns(filename)
+nouns, pronouns = collect_nouns(filename)
 
 def remove_pronouns_and_nouns(phrase):
     phrase = phrase.split()
     r = False
     noun_counter = collections.defaultdict(list)
-    counter = 0
+    pronoun_counter = collections.defaultdict(list)
+    n_counter = 0
+    pr_counter = 0
     for i in range(len(phrase)):
         word = phrase[i]
         conjuct = False
@@ -287,11 +288,18 @@ def remove_pronouns_and_nouns(phrase):
             words[0] = word
             word = ' '.join(words)
             r = True
+            
+        elif word in pronouns:
+            pronoun_counter[word].append(pr_counter)
+            pr_counter += 1
+            word = "__PRONOUN!!!___"
+            
+            
         elif word in nouns:
-            noun_counter[word].append(counter)
-            counter += 1
+            noun_counter[word].append(n_counter)
+            n_counter += 1
             word = "__NOUN!!!___"
-            pass
+            
             
         phrase[i] = word
     phrase = ' '.join(phrase)
@@ -346,7 +354,7 @@ def get_eng_phrases(filename):
                     except KeyError:
                         pass  
                     
-                    if not in_dict and phrase != '' and len(phrase.split()) >= 10:
+                    if not in_dict and phrase != '' and len(phrase.split()) >= 1:
                         
                         #print(phrase)
                         phrases.append(phrase)
@@ -383,60 +391,60 @@ def add_to_file():
 #phrases = get_eng_phrases(filename)
 #get_new_eng_pharse(phrases)
 
-#from tkinter import *
-#from tkinter.ttk import *
+from tkinter import *
+from tkinter.ttk import *
 
 
-#window = Tk()
-#e = StringVar()
-#e.set("")  
+window = Tk()
+e = StringVar()
+e.set("")  
 
-#note = StringVar()
-#get_new_eng_pharse()
-#frame = Frame(window,width=600,height=400)
-#frame.pack(expand=YES)
+note = StringVar()
+get_new_eng_pharse()
+frame = Frame(window,width=600,height=400)
+frame.pack(expand=YES)
 
-#label = Label(frame, textvariable=e, width=100)
-#label.config(font=("Arial", 40))
-#label.pack()
+label = Label(frame, textvariable=e, width=100)
+label.config(font=("Arial", 60))
+label.pack()
 
-#klabel = Label(frame, textvariable=note, width=100, wraplength=1000)
-#klabel.config(font=("Arial", 40))
-#klabel.pack()
-
-
-#label2 = Label(frame, text='In Kiribati this means :', width=100)
-#label2.config(font=("Arial", 20))
-#label2.pack()
-#entry2 = Entry(frame, text=note, width=100)
-#entry2.pack()
-
-#frame2 = Frame(window)
-#frame2.pack(side='bottom')
+klabel = Label(frame, textvariable=note, width=100, wraplength=1000)
+klabel.config(font=("Arial", 60))
+klabel.pack()
 
 
-#clear = Button(frame2, text="Correct", width=20, command=add_to_file)
-#clear.pack(side='left')
+label2 = Label(frame, text='In Kiribati this means :', width=100)
+label2.config(font=("Arial", 20))
+label2.pack()
+entry2 = Entry(frame, text=note, width=100)
+entry2.pack()
+
+frame2 = Frame(window)
+frame2.pack(side='bottom')
+
+
+clear = Button(frame2, text="Correct", width=20, command=add_to_file)
+clear.pack(side='left')
 
     
-#window.bind("<Return>", (lambda event: add_to_file()))
+window.bind("<Return>", (lambda event: add_to_file()))
     
 
-##new = Button(frame2, text="New Word", width=20, command=lambda: get_random_word(words, e, k, note))
-##new.pack(side='left')
+#new = Button(frame2, text="New Word", width=20, command=lambda: get_random_word(words, e, k, note))
+#new.pack(side='left')
 
-##clear2 = Button(frame2, text="Wrong", width=20, command=lambda: add_to_file(False, e, k, note))
-##clear2.pack(side='right')
+#clear2 = Button(frame2, text="Wrong", width=20, command=lambda: add_to_file(False, e, k, note))
+#clear2.pack(side='right')
 
-#window.mainloop()
-
-
+window.mainloop()
 
 
 
 
-phrases = phrases = get_eng_phrases(filename)
-nouns = collect_nouns(filename)
-print(nouns)
+
+
+#phrases = phrases = get_eng_phrases(filename)
+#nouns = collect_nouns(filename)
+#print(nouns)
 
 print_new_eng_pharse2()
