@@ -182,6 +182,7 @@ def get_initial_eng_phrases(filename):
     dict2 = get_dict("new phrases.txt")  
     phrases = []
     f = open(filename, 'r')
+ 
     lines = f.read().lower().split('\n\n')
     for j in range(len(lines)):
         line1 = lines[j].split()
@@ -195,7 +196,7 @@ def get_initial_eng_phrases(filename):
            
             for sentence in line:
                 #print(sentence)
-                res = re.split(',|_|-|!', sentence)
+                res = re.split(',|_|-|!|', sentence)
                 in_dict = False
                 for phrase in res:
                     phrase = phrase.strip()
@@ -215,18 +216,18 @@ def get_initial_eng_phrases(filename):
                     except KeyError:
                         pass  
                     
-                    if not in_dict and phrase != '' and len(phrase.split()) >= 10:
+                    if not in_dict and phrase != '' and len(phrase.split()) >= 1:
                         
                         #print(phrase)
                         phrases.append(phrase)
     #print(len(phrases))
-    set1 = set(phrases)
-    print(len(set1))
+    #set1 = set(phrases)
+    #print(len(set1))
     f.close()  
     return phrases
 
 
-def collect_nouns(filename):
+def collect_nouns(filename, conjuction=False):
     phrases = get_initial_eng_phrases(filename)
     Tokens = []
     for Sent in phrases:
@@ -235,16 +236,25 @@ def collect_nouns(filename):
     #print(Words_List)
     Nouns = set()
     pronouns = set('i')
-    
+    conjuction_set = set()
     for List in Words_List:
         for Word in List:
-            #if Word[0] == 'Dance':
-                #print(Word)
-            if Word[1] == 'NN':
-                print('ol')
-                Nouns.add(Word[0])
+            if re.match('CC', Word[1]):
+                conjuction_set.add(Word[0].lower())
+
             if re.match('PRP', Word[1]):
+                print('ok')
+                pronouns.add(Word[0].lower())            
+            
+            elif re.match('NUM', Word[1]):
                 pronouns.add(Word[0].lower())
+                
+            elif Word[1] == 'NN':
+                #print('ol')
+                Nouns.add(Word[0])
+            
+                
+                        
     #print(pronouns)
     
     #Names = set()
@@ -252,7 +262,8 @@ def collect_nouns(filename):
         ##if Nouns[0].isupper() and wordnet.synsets(Nouns):
             #Names.add(Nouns)
     
-
+    if conjuction:
+        return conjuction_set
     return Nouns, pronouns
 
 
@@ -310,13 +321,19 @@ def remove_pronouns_and_nouns(phrase):
     
 
     
-    
-    
-    
+
     
     
     
 def get_eng_phrases(filename):
+    conjuncted = collect_nouns(filename, True)
+    conjuncts = ',|_|-|!'
+    print(conjuncted)
+    if len(conjuncted) > 0:
+        con = '|'.join(conjuncted)
+        print(con)
+        conjuncts = conjuncts + '|' + con
+    print(conjuncted)       
     dict1 = get_dict('dictionary.txt')
     dict2 = get_dict("new phrases.txt")  
     phrases = []
@@ -334,13 +351,15 @@ def get_eng_phrases(filename):
            
             for sentence in line:
                 #print(sentence)
-                res = re.split(',|_|-|!', sentence)
+                
+                res = re.split(conjuncts, sentence)
+                
                 in_dict = False
                 for phrase in res:
                     phrase = phrase.strip()
                     phrase = phrase.strip('!?,-')
                     phrase = phrase.strip()
-                    phrase = remove_pronouns_and_nouns(phrase)
+                    #phrase = remove_pronouns_and_nouns(phrase)
                     
 
                     try:
@@ -354,13 +373,14 @@ def get_eng_phrases(filename):
                     except KeyError:
                         pass  
                     
-                    if not in_dict and phrase != '' and len(phrase.split()) >= 1:
-                        
+                    if not in_dict and phrase != '' and len(phrase.split()) > 0:
+                        phrase = remove_pronouns_and_nouns(phrase)
                         #print(phrase)
                         phrases.append(phrase)
     #print(len(phrases))
     set1 = set(phrases)
     print(len(set1))
+    print(set1)
     f.close()  
     return phrases
 
@@ -372,8 +392,8 @@ def get_new_eng_pharse():
     note.set('')
     
 def print_new_eng_pharse2():
-    print(get_eng_phrases(filename)[0])
-    print(get_initial_eng_phrases(filename)[0])
+    print(get_eng_phrases(filename))
+    #print(get_initial_eng_phrases(filename)[0])
 
 
         
