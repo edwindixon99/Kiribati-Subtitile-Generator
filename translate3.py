@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 stop = stopwords.words('english')
 from nltk.corpus import wordnet
 from nltk.corpus import wordnet as wn
+import copy
 
 
 
@@ -139,42 +140,58 @@ def sub_nouns(words, num):
     Tokens.append(nltk.word_tokenize(phrase)) 
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
     
-    Nouns = {}
-    pronouns = {}
-    num = {}
+    changed = {}
+    
     i = 0
-    pr = "__PRONOUN!!!{}___"
-    noun = "__NOUN!!!{}___"
-    number = "__NUM!!!{}___"
+    pr = "__PRONOUN!!!___"
+    noun = "__NOUN!!!___"
+    number = "__NUM!!!___"
     for List in Words_List:
         for Word in List:
             
             if re.match('PRP', Word[1]) or Word[0] == 'i':
                 #print('ok')
-                Nouns[pr.format(i)] = Word[0]
-                words[i] = pr.format(i)
+                changed[i] = Word[0]
+                words[i] = pr
                          
             
             elif re.match('NUM', Word[1]):
-                Nouns[number.format(i)] = Word[0]
-                words[i] = num.format(i)
+                changed[i] = Word[0]
+                words[i] = num
                 
             elif Word[1] == 'NN':
-                Nouns[noun.format(i)] = Word[0]
-                words[i] = noun.format(i)
+                changed[i] = Word[0]
+                words[i] = noun
             i += 1
     
-    return list(itertools.islice(words, 0, num))
+    return list(itertools.islice(words, 0, num)), changed
 
                 
-
+def resub_nouns(num_A_words, changed):
+    pr = "__PRONOUN!!!___"
+    noun = "__NOUN!!!___"
+    number = "__NUM!!!___"    
+    words = num_A_words.split()
+    for word in words:
+        if word == pr or word == noun or word == num:
+            
+    for i in num_A_words:
+    num_A_words = diction[num_A_words]
+    for i in range(len(num_A_words)):
+        word = num_A_words[i]
+        if word in changed:
+            new_word = translate(changed[word], 1)
+            num_A_words[i] = new_word
+    return num_A_words
+            
+            
 
 #nouns, pronouns = collect_nouns(filename)
 
  
 
 def translate(words, num):
-    words_alter = sub_nouns(words, num)
+    words_alter, changed = sub_nouns(words, num)
     words = list(itertools.islice(words, 0, num))
     
     while num > 1:
@@ -213,7 +230,7 @@ def translate(words, num):
             num -= 1 
         try:
             if diction[num_A_words]:
-                
+                num_A_words = resub_nouns(num_A_words, changed)
             return num, diction[num_A_words]
         except KeyError:
             num -= 1         
