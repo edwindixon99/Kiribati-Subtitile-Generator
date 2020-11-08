@@ -136,11 +136,11 @@ contractions = {
 def sub_nouns(words, num):
     phrase = ' '.join(words)
     Tokens = []
-
+    n_words = copy.deepcopy(words)
     Tokens.append(nltk.word_tokenize(phrase)) 
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
     
-    changed = {}
+    changed = {'noun':[], 'pronoun':[], 'number':[]}
     
     i = 0
     pr = "__PRONOUN!!!___"
@@ -151,38 +151,53 @@ def sub_nouns(words, num):
             
             if re.match('PRP', Word[1]) or Word[0] == 'i':
                 #print('ok')
-                changed[i] = Word[0]
-                words[i] = pr
+                changed['pronoun'].append(Word[0])
+                n_words[i] = pr
                          
             
             elif re.match('NUM', Word[1]):
-                changed[i] = Word[0]
-                words[i] = num
+                changed['num'].append(Word[0])
+                n_words[i] = num
                 
             elif Word[1] == 'NN':
-                changed[i] = Word[0]
-                words[i] = noun
+                changed['noun'].append(Word[0])
+                n_words[i] = noun
+            print(i)
+            print(n_words)
             i += 1
     
-    return list(itertools.islice(words, 0, num)), changed
+    return list(itertools.islice(n_words, 0, num)), changed
 
                 
 def resub_nouns(num_A_words, changed):
     pr = "__PRONOUN!!!___"
     noun = "__NOUN!!!___"
     number = "__NUM!!!___"    
-    words = num_A_words.split()
-    for word in words:
-        if word == pr or word == noun or word == num:
-            
-    for i in num_A_words:
+    pr_count = 0
+    noun_count = 0
+    num_count = 0
+    
     num_A_words = diction[num_A_words]
-    for i in range(len(num_A_words)):
+    words = num_A_words.split()
+    for i in len(range(num_A_words)):
         word = num_A_words[i]
-        if word in changed:
+        itis = False
+        if word == pr:
+            changed['pronoun'][pr_count]
+            pr_count += 1
+            itis = True
+        elif word == noun:
+            changed['noun'][noun_count]
+            noun_count += 1            
+            itis = True
+        elif word == num:
+            changed['num'][num_count]
+            num_count += 1            
+            itis = True
+        if itis:
             new_word = translate(changed[word], 1)
             num_A_words[i] = new_word
-    return num_A_words
+    return ' '.join(num_A_words)
             
             
 
@@ -231,7 +246,7 @@ def translate(words, num):
         try:
             if diction[num_A_words]:
                 num_A_words = resub_nouns(num_A_words, changed)
-            return num, diction[num_A_words]
+            return num, num_A_words
         except KeyError:
             num -= 1         
             
@@ -350,7 +365,9 @@ def translate_file(filename, film):
             f_r_tup, word1 = pre_adjust(word)
             word1 = contraction(word1)
             if type(word1) == list:
+                print(words)
                 words = words + word1
+                print(words)
             else:
                 words.append(word1)
             f_r.append(f_r_tup)
