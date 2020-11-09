@@ -148,22 +148,22 @@ def sub_nouns(words, num):
     number = "__NUM!!!___"
     for List in Words_List:
         for Word in List:
-            
+            #print(List)
             if re.match('PRP', Word[1]) or Word[0] == 'i':
                 #print('ok')
                 changed['pronoun'].append(Word[0])
-                n_words[i] = pr
+                #n_words[i] = pr
                          
             
             elif re.match('NUM', Word[1]):
                 changed['num'].append(Word[0])
-                n_words[i] = num
+                #n_words[i] = num
                 
             elif Word[1] == 'NN':
                 changed['noun'].append(Word[0])
-                n_words[i] = noun
-            print(i)
-            print(n_words)
+                #n_words[i] = noun
+            #print(i)
+            #print(n_words)
             i += 1
     
     return list(itertools.islice(n_words, 0, num)), changed
@@ -297,12 +297,37 @@ def post_adjust(tup, word):
     return word    
     
     
-#def strip_word(word):
+def remove_words(words):
+    try:
+        words.remove('<i>#')
+    except ValueError:
+        pass
+    try:
+        words.remove('<i>')
+    except ValueError:
+        pass
+    try:
+        words.remove('#</i>')
+    except ValueError:
+        pass      
+    try:
+        words.remove('</i>')
+    except ValueError:
+        pass 
+    try:
+        words.remove('#')
+    except ValueError:
+        pass      
     #word = word.replace('<i>', '')
     #word = word.replace('</i>', '')
-    #word = word.strip('-?!.,') 
-    ##word = word.strip() 
-    #return word
+
+    return words
+
+def strip_word(word):
+    word = word.replace('<i>', '')
+    word = word.replace('</i>', '')
+    return word
+
 
 def remove_plural(word):
     word = word.rstrip('s')
@@ -341,11 +366,18 @@ def translate_file_attempt(title3, filename, film):
     except:
         title3.set("Something went wrong!?! Maybe wrong filename")
         
-def contraction(word):
+def contraction(word, words):
     try:
-        return contractions[word]
+        
+        con = contractions[word].split()
+        for i in con:
+            words.append(i)
+        
+        return words
+        
     except KeyError:
-        return word
+        words.append(word)
+        return words
     
 def translate_file(filename, film):
     words = collections.deque()
@@ -359,18 +391,22 @@ def translate_file(filename, film):
         #print(line)
         skips = 1
         i = 0
+        
         for word in line:
             #print(line)
             #print(word, i)
+            word = strip_word(word)
             f_r_tup, word1 = pre_adjust(word)
-            word1 = contraction(word1)
-            if type(word1) == list:
-                print(words)
-                words = words + word1
-                print(words)
-            else:
-                words.append(word1)
+            
+            words = contraction(word1, words)
+            #if type(word1) == list:
+                #print(words)
+                #words = words + word1
+                #print(words)
+            #else:
+                #words.append(word1)
             f_r.append(f_r_tup)
+            words = remove_words(words)
         while 0 < len(words):
             if skips > 1:
                 line[i] = ''
@@ -379,14 +415,19 @@ def translate_file(filename, film):
                 f_r.popleft()
             else:
                 num = len(words)
+                
                 skips, word = translate(words, num)
                 tup = f_r.popleft()
                 word = post_adjust(tup, word)
                 #print(word)
-                line[i] = word
+                if i >= len(line):
+                    line.append(word)
+                else:
+                    line[i] = word
                 words.popleft()
                 #f_r.popleft()
             i += 1
+        line = line[:i]
             
         #print(line)
         try:
@@ -410,7 +451,7 @@ def translate_file(filename, film):
     w.write(string)
     w.close()
 
-translate_file("Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt", "king")
+translate_file("WALL E.srt", "WALL-E")
 
 #if __name__ == '__main__':
     ##translate_file("Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt", "king")

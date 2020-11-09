@@ -32,3 +32,11 @@ eve : eve
 
 __NOUN!!!___ : __NOUN!!!___
 
+"eve : "eve
+
+" : "
+
+e : e
+
+ah : ah
+

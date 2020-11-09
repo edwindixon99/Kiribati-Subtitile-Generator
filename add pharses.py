@@ -244,7 +244,7 @@ def collect_nouns(filename, conjuction=False):
                 conjuction_set.add(Word[0].lower())
 
             if re.match('PRP', Word[1]):
-                print('ok')
+                #print('ok')
                 pronouns.add(Word[0].lower())            
             
             elif re.match('NUM', Word[1]):
@@ -270,7 +270,7 @@ def collect_nouns(filename, conjuction=False):
 
 nouns, pronouns = collect_nouns(filename)
 
-def remove_pronouns_and_nouns(phrase):
+def remove_pronouns_and_nouns(phrase, dict1, dict2, phrases):
     phrase = phrase.split()
     r = False
     noun_counter = collections.defaultdict(list)
@@ -296,6 +296,7 @@ def remove_pronouns_and_nouns(phrase):
             #word = '{our}'
         #elif word in they_pronouns:
             #word = '{they}' 
+        add_to_list = False
         if conjuct:
             words[0] = word
             word = ' '.join(words)
@@ -304,20 +305,38 @@ def remove_pronouns_and_nouns(phrase):
         elif word in pronouns:
             pronoun_counter[word].append(pr_counter)
             pr_counter += 1
+            subbed_word = word
             word = "__PRONOUN!!!___"
+            add_to_list = True
             
             
         elif word in nouns:
             noun_counter[word].append(n_counter)
             n_counter += 1
+            subbed_word = word
             word = "__NOUN!!!___"
+            add_to_list = True
             
             
         phrase[i] = word
+        in_dict = False
+        if add_to_list:
+            try:
+                dict1[subbed_word]
+                in_dict = True
+            except KeyError:
+                pass
+            try:
+                dict2[subbed_word]
+                in_dict = True
+            except KeyError:
+                pass     
+            if not in_dict and subbed_word != '':
+                phrases.append(subbed_word)
     phrase = ' '.join(phrase)
     #if r:
         #print(phrase)
-    return phrase
+    return phrase, phrases
     
     
 
@@ -375,9 +394,24 @@ def get_eng_phrases(filename):
                         pass  
                     
                     if not in_dict and phrase != '' and len(phrase.split()) > 0:
-                        phrase = remove_pronouns_and_nouns(phrase)
-                        #print(phrase)
-                        phrases.append(phrase)
+                        new_phrase, phrases = remove_pronouns_and_nouns(phrase, dict1, dict2, phrases)
+                        if new_phrase == phrase:
+                            phrases.append(phrase)
+                        else:
+                            in_dict2 = False
+                            try:
+                                dict1[new_phrase]
+                                in_dict2 = True
+                            except KeyError:
+                                pass
+                            try:
+                                dict2[new_phrase]
+                                in_dict2 = True
+                            except KeyError:
+                                pass 
+                            if not in_dict2:
+                                phrases.append(new_phrase)
+                                
     #print(len(phrases))
     set1 = set(phrases)
     print(len(set1))
@@ -393,7 +427,7 @@ def get_new_eng_pharse():
     note.set('')
     
 def print_new_eng_pharse2():
-    print(len(set(get_eng_phrases(filename))))
+    print(len(set(get_eng_phrases(filename)[0])))
     print(len(set(get_initial_eng_phrases(filename))))
 
 
