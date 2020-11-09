@@ -36,12 +36,12 @@ contractions = {
 "how'd'y": "how do you",
 "how'll": "how will",
 "how's": "how is",
-"I'd": "I would",
-"I'd've": "I would have",
-"I'll": "I will",
-"I'll've": "I will have",
-"I'm": "I am",
-"I've": "I have",
+"i'd": "i would",
+"i'd've": "i would have",
+"i'll": "i will",
+"i'll've": "i will have",
+"i'm": "i am",
+"i've": "i have",
 "isn't": "is not",
 "it'd": "it would",
 "it'd've": "it would have",
@@ -179,7 +179,8 @@ def get_dict(filename):
 
 def get_initial_eng_phrases(filename):
     dict1 = get_dict('dictionary.txt')
-    dict2 = get_dict("new phrases.txt")  
+    dict2 = get_dict("new phrases.txt") 
+    dictbl = get_dict("bl phrases.txt") 
     phrases = []
     f = open(filename, 'r')
  
@@ -214,7 +215,12 @@ def get_initial_eng_phrases(filename):
                         dict2[phrase]
                         in_dict = True
                     except KeyError:
-                        pass  
+                        pass
+                    try:
+                        dictbl[phrase]
+                        in_dict = True
+                    except KeyError:
+                        pass                     
                     
                     if not in_dict and phrase != '' and len(phrase.split()) >= 1:
                         
@@ -272,7 +278,7 @@ def collect_nouns(filename, conjuction=False):
 
 nouns, pronouns = collect_nouns(filename)
 
-def remove_pronouns_and_nouns(phrase, dict1, dict2, phrases):
+def remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases):
     phrase = phrase.split()
     r = False
     noun_counter = collections.defaultdict(list)
@@ -299,12 +305,9 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, phrases):
         #elif word in they_pronouns:
             #word = '{they}' 
         add_to_list = False
-        if conjuct:
-            words[0] = word
-            word = ' '.join(words)
-            r = True
+        
             
-        elif word in pronouns:
+        if word in pronouns:
             pronoun_counter[word].append(pr_counter)
             pr_counter += 1
             subbed_word = word
@@ -319,7 +322,12 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, phrases):
             word = "__NOUN!!!___"
             add_to_list = True
             
+        if conjuct:
+            words[0] = word
+            word = ' '.join(words)
+            r = True
             
+                
         phrase[i] = word
         in_dict = False
         if add_to_list:
@@ -332,7 +340,12 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, phrases):
                 dict2[subbed_word]
                 in_dict = True
             except KeyError:
-                pass     
+                pass    
+            try:
+                dictbl[subbed_word]
+                in_dict = True
+            except KeyError:
+                pass             
             if not in_dict and subbed_word != '':
                 phrases.append(subbed_word)
     phrase = ' '.join(phrase)
@@ -350,14 +363,15 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, phrases):
 def get_eng_phrases(filename):
     conjuncted = collect_nouns(filename, True)
     conjuncts = ',|_|-|!'
-    print(conjuncted)
+    #print(conjuncted)
     if len(conjuncted) > 0:
         con = '|'.join(conjuncted)
-        print(con)
+        #print(con)
         conjuncts = conjuncts + '|' + con
-    print(conjuncted)       
+    #print(conjuncted)       
     dict1 = get_dict('dictionary.txt')
     dict2 = get_dict("new phrases.txt")  
+    dictbl = get_dict("bl phrases.txt")  
     phrases = []
     f = open(filename, 'r')
     lines = f.read().lower().split('\n\n')
@@ -393,10 +407,15 @@ def get_eng_phrases(filename):
                         dict2[phrase]
                         in_dict = True
                     except KeyError:
-                        pass  
+                        pass 
+                    try:
+                        dictbl[phrase]
+                        in_dict = True
+                    except KeyError:
+                        pass                     
                     
                     if not in_dict and phrase != '' and len(phrase.split()) > 0:
-                        new_phrase, phrases = remove_pronouns_and_nouns(phrase, dict1, dict2, phrases)
+                        new_phrase, phrases = remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases)
                         if new_phrase == phrase:
                             phrases.append(phrase)
                         else:
@@ -411,13 +430,18 @@ def get_eng_phrases(filename):
                                 in_dict2 = True
                             except KeyError:
                                 pass 
+                            try:
+                                dictbl[new_phrase]
+                                in_dict2 = True
+                            except KeyError:
+                                pass                             
                             if not in_dict2:
                                 phrases.append(new_phrase)
                                 
     #print(len(phrases))
     set1 = set(phrases)
-    print(len(set1))
-    print(set1)
+    #print(len(set1))
+    #print(set1)
     f.close()  
     return phrases
 
@@ -429,7 +453,7 @@ def get_new_eng_pharse():
     note.set('')
     
 def print_new_eng_pharse2():
-    print(len(set(get_eng_phrases(filename)[0])))
+    print(len(set(get_eng_phrases(filename))))
     print(len(set(get_initial_eng_phrases(filename))))
 
 
@@ -440,7 +464,14 @@ def add_to_file():
         text_file.write(e.get() + ' : ' + note.get() + "\n\n")
         text_file.close()
         get_new_eng_pharse()
-    
+        
+        
+def add_to_blacklist():
+    #if not len(note.get()) == 0:
+    text_file = open("bl phrases.txt", "a")
+    text_file.write(e.get() + ' : ' + 'nothin' + "\n\n")
+    text_file.close()
+    get_new_eng_pharse()    
 
 
 #filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
@@ -461,7 +492,7 @@ get_new_eng_pharse()
 frame = Frame(window,width=600,height=400)
 frame.pack(expand=YES)
 
-label = Label(frame, textvariable=e, width=100)
+label = Label(frame, textvariable=e, width=100, wraplength=1000)
 label.config(font=("Arial", 60))
 label.pack()
 
@@ -482,6 +513,9 @@ frame2.pack(side='bottom')
 
 clear = Button(frame2, text="Correct", width=20, command=add_to_file)
 clear.pack(side='left')
+
+clear = Button(frame2, text="Blacklist", width=10, command=add_to_blacklist)
+clear.pack(side='right')
 
     
 window.bind("<Return>", (lambda event: add_to_file()))

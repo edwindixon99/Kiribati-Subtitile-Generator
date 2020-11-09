@@ -65572,9 +65572,9 @@ class. as antiphrase: an important person
 
 poor : toronrang : poor beggarly, destitute, wretched, poor as a church mouse
 
-pop : kareb'ereb'e : to pop
+pop : rebwe : to pop
 
-pop : tebe : (1) tetebe, tebetebe, teberake, teberio, tebenako: to dart, to pop, to jump by
+#pop : tebe : (1) tetebe, tebetebe, teberake, teberio, tebenako: to dart, to pop, to jump by
 projection, to burst out, to pop up, to break away, to come out of place
 (mechanism), to jump up, ... aside, ... away
 
