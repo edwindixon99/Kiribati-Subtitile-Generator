@@ -11348,12 +11348,7 @@ bypass : tao atu : kataoatu: to bypass, to pass beyond, end, term
 bypass : tao-ati : kataoati, kataoatia: to skirt along coast of island, to pass a halting place
 without stopping, to by pass it, to pass it
 
-cabin : bata : a small house, hut, cabin, hovel
-
-cabin : ru : compartment, cabin, cell
-
-cabin : uma : any kind of dwelling, anything with roof, house, dwelling, hut, shelter,
-cabin, roof, tent, umbrella
+cabin : kiakia : cabin
 
 cable : maea : cord, rope, cable
 
@@ -57232,9 +57227,9 @@ my : au : my
 
 my : au : my, mine
 
-my : u : my
+#my : u : my
 
-my : u : tina-u: my mother; bai-u: my hand, my arm
+#my : u : tina-u: my mother; bai-u: my hand, my arm
 
 Myrippustis : mon : Priacanthus genus, Myrippustis adustus, Myrippustis murdjan, Myrippustis
 prilinus)
@@ -101215,17 +101210,17 @@ youngest : ti : Na Areau te Ti: the youngest Na Areau (the third), myth
 
 your : am : thy, your in the singular
 
-your : am : am bai: thine (thy thing); baim: thy hand, thy arm. <your>
+#your : am : am bai: thine (thy thing); baim: thy hand, thy arm. <your>
 
-your : ae/mi : your, in the plural
+#your : ae/mi : your, in the plural
 
-your : ami : your
+#your : ami : your
 
-your : m : pron. of second person singular: thy, thine. <your>
+#your : m : pron. of second person singular: thy, thine. <your>
 
-your : mi : your, plural
+#your : mi : your, plural
 
-your : mi : suf. your 
+#your : mi : suf. your 
 
 yourself : ngkoe : boni ngkoe: yourself ko tiku, ngkoe? you're staying?
 
