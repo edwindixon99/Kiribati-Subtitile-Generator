@@ -451,7 +451,7 @@ def translate_file(filename, film):
     w.write(string)
     w.close()
 
-translate_file("WALL E.srt", "WALL-E")
+translate_file("Waynes World 2-English.srt", "ww2")
 
 #if __name__ == '__main__':
     ##translate_file("Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt", "king")

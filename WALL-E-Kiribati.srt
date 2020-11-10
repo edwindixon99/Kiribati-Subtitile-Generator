@@ -16,7 +16,7 @@ uramate akekei, tokibau ni riringa ma tokibau ni takaneanea
 
 5
 00:01:06,010 --> 00:01:11,110
-wiwariki mi wai-mata ma tara ngaia ranebonebo barnaby
+wiwariki am wai-mata ma tara ngaia ranebonebo barnaby
 
 6
 00:01:11,720 --> 00:01:15,450
@@ -24,7 +24,7 @@ taninga ni kauongo barnaby
 
 7
 00:01:20,690 --> 00:01:25,390
-toka mi sunday, uaati akekei a taukirikiri, ni tokin aonaba uramate akekei
+toka am sunday, uaati akekei a taukirikiri, ni tokin aonaba uramate akekei
 
 8
 00:01:25,500 --> 00:01:29,800
@@ -44,7 +44,7 @@ rikea to wae ni kinouti ua-ra? uratakirara nika to waro
 
 12
 00:01:40,780 --> 00:01:45,310
-wene boati mi sunday uaati ti ua-ra? gonna wana rena toumeakina
+wene boati am sunday uaati ti ua-ra? gonna wana rena toumeakina
 
 13
 00:01:45,550 --> 00:01:49,920
@@ -88,7 +88,7 @@ huh
 
 23
 00:03:53,580 --> 00:03:56,070
-kabob'ai n wari a mi superstore
+kabob'ai n wari a am superstore
 
 24
 00:03:56,180 --> 00:04:00,810
@@ -96,7 +96,7 @@ ti got ni ko kai ma teuana. uareke tabun
 
 25
 00:05:00,610 --> 00:05:02,200
-taomoa uareke garbage i mi wia
+taomoa uareke garbage i am wia
 
 26
 00:05:02,310 --> 00:05:04,680
@@ -116,7 +116,7 @@ to jewel ni to bnl tikubae/raa to koaua?
 
 30
 00:05:17,800 --> 00:05:19,850
-spend mi five-year cruise i man
+spend am five-year cruise i man
 
 31
 00:05:19,960 --> 00:05:23,560
@@ -124,7 +124,7 @@ waited! boati 24 ningaaro to tairake i. ra bane automated moa
 
 32
 00:05:23,670 --> 00:05:25,400
-while mi kaben ma! autopilot
+while am kaben ma! autopilot
 
 33
 00:05:25,500 --> 00:05:28,630
@@ -148,23 +148,23 @@ kioina, i bnl, uki a to kaitira fun-tier,
 
 38
 00:06:46,520 --> 00:06:48,710
-tiaki monday i mi sunday
+tiaki monday i am sunday
 
 39
 00:06:48,820 --> 00:06:53,310
-tiaki. monday i mi sunday uaati.
+tiaki. monday i am sunday uaati.
 
 40
 00:06:55,390 --> 00:06:58,290
-wene boati. mi sunday uaati tai ko ri tuka. ma uramate
+wene boati. am sunday uaati tai ko ri tuka. ma uramate
 
 41
 00:06:59,200 --> 00:07:02,660
-uba, tuka to kawai ma uabai! mi tamnei took
+uba, tuka to kawai ma uabai! am tamnei took
 
 42
 00:07:04,340 --> 00:07:08,640
-tikiraoi te rain to rao mi bunanti mata nakon urung riaki
+tikiraoi te rain to rao am bunanti mata nakon urung riaki
 
 43
 00:07:08,970 --> 00:07:10,200
@@ -332,7 +332,7 @@ tai ko kaboria rou heaven tangorake
 
 84
 00:20:20,000 --> 00:20:23,460
-ma though i. wiwariki. u. wai-mata
+ma though i. wiwariki. au. wai-mata
 
 85
 00:20:23,570 --> 00:20:26,430
@@ -344,7 +344,7 @@ whoa
 
 87
 00:20:28,870 --> 00:20:32,470
-tai ko turunga rou nakon mi tuai
+tai ko turunga rou nakon am tuai
 
 88
 00:20:33,780 --> 00:20:37,110
@@ -496,11 +496,11 @@ ukora
 
 125
 00:24:52,200 --> 00:24:53,230
-tebe
+rebwe
 
 126
 00:24:54,000 --> 00:24:55,200
-ko tebe
+ko rebwe
 
 127
 00:25:05,220 --> 00:25:06,270
@@ -512,7 +512,7 @@ oops
 
 129
 00:25:35,250 --> 00:25:37,270
-monday i mi sunday
+monday i am sunday
 
 130
 00:25:38,720 --> 00:25:40,010
@@ -520,19 +520,19 @@ ooh
 
 131
 00:25:40,320 --> 00:25:44,050
-tiaki monday i mi sunday uaati
+tiaki monday i am sunday uaati
 
 132
 00:25:44,960 --> 00:25:49,390
-wene boati mi sunday uaati tai ko ri tuka ma uramate
+wene boati am sunday uaati tai ko ri tuka ma uramate
 
 133
 00:25:51,430 --> 00:25:53,190
-uba tuka to kawai ma uabai mi tamnei took
+uba tuka to kawai ma uabai am tamnei took
 
 134
 00:25:55,370 --> 00:25:59,300
-tikiraoi. te rain. to? rao? mi! bunanti? mata! nakon! -urung riaki?
+tikiraoi. te rain. to? rao? am! bunanti? mata! nakon! -urung riaki?
 
 135
 00:25:59,970 --> 00:26:02,060
@@ -544,15 +544,15 @@ ngai. ko. ri. nika. tua! nika. ko ukora.
 
 137
 00:26:11,680 --> 00:26:14,650
-e boou. tuka nakon. mi! waeribeu!
+e boou. tuka nakon. am! waeribeu!
 
 138
 00:26:14,850 --> 00:26:16,250
-ana! uramate! mi! bwetua. mi. patent! kau
+ana! uramate! am! bwetua. am. patent! kau
 
 139
 00:26:17,450 --> 00:26:19,820
-mi moromoro ma buckles ma taotaebo
+am moromoro ma buckles ma taotaebo
 
 140
 00:26:25,400 --> 00:26:26,560
@@ -776,7 +776,7 @@ eve
 
 195
 00:39:30,810 --> 00:39:32,180
-i've been i u uma ni. tingaro
+i've been i au kiakia ni. tingaro
 
 196
 00:39:32,280 --> 00:39:35,810
@@ -820,7 +820,7 @@ tokikan ko kai? nakon! uarea. kukurei.
 
 206
 00:40:23,230 --> 00:40:26,130
-mi? tairake! a! tutu! maneuna! nakon! ngaira.
+am? tairake! a! tutu! maneuna! nakon! ngaira.
 
 207
 00:40:27,540 --> 00:40:28,660
@@ -884,11 +884,11 @@ tiabo wall-e
 
 222
 00:41:12,650 --> 00:41:16,110
-"a" a. ni koaua mi unata wi-mam unata.
+"a" a. ni koaua am unata wi-mam unata.
 
 223
 00:41:16,250 --> 00:41:19,780
--"b" a, ni kabob'ai n wari mi tutu taberanikai? -tabona
+-"b" a, ni kabob'ai n wari am tutu taberanikai? -tabona
 
 224
 00:41:20,890 --> 00:41:22,290
@@ -1128,7 +1128,7 @@ ie
 
 283
 00:46:25,730 --> 00:46:29,250
-teuana uarea. -matatoka next. -mealtime nakon uamae/nea ni. -mi "free.
+teuana uarea. -matatoka next. -mealtime nakon uamae/nea ni. -am "free.
 
 284
 00:46:29,360 --> 00:46:33,990
@@ -1180,7 +1180,7 @@ ngkana, ngko arei seeing, teuaei
 
 296
 00:47:23,450 --> 00:47:27,010
-ngai kawai mi extraterrestrial vegetation evaluator
+ngai kawai am extraterrestrial vegetation evaluator
 
 297
 00:47:27,120 --> 00:47:30,460
@@ -1212,11 +1212,11 @@ tiri waki teuaei manual's taeka
 
 304
 00:48:00,490 --> 00:48:03,650
-nakon wene. to! wokewoke, i mi wari holo-detector
+nakon wene. to! wokewoke, i am wari holo-detector
 
 305
 00:48:03,760 --> 00:48:08,660
-ma to koaua winaine immediately roro mi taumae/toa nakon tokin aon aba
+ma to koaua winaine immediately roro am taumae/toa nakon tokin aon aba
 
 306
 00:48:08,760 --> 00:48:10,430
@@ -1228,7 +1228,7 @@ tiba ono nakon. to, mwi, ni microgravity
 
 308
 00:48:13,400 --> 00:48:15,960
-ko ma? mi, bou Mei uabai suffered uta.
+ko ma? am, bou Mei uabai suffered uta.
 
 309
 00:48:16,410 --> 00:48:17,500
@@ -1252,7 +1252,7 @@ ngkana ko, uabai any kabi, titirakina
 
 314
 00:48:27,820 --> 00:48:30,750
-uaraoi taboniwi mi makuri manual
+uaraoi taboniwi am makuri manual
 
 315
 00:48:30,850 --> 00:48:32,950
@@ -1548,7 +1548,7 @@ wall-e
 
 388
 00:54:59,440 --> 00:55:00,600
-awaka u,
+awaka au,
 
 389
 00:55:01,940 --> 00:55:03,000
@@ -1660,7 +1660,7 @@ cruising nikotatawa
 
 416
 00:58:01,220 --> 00:58:02,880
-ko ua-ra?, tiba, wanimae/rawaa nakon. wawaeakina? riaki. to uma
+ko ua-ra?, tiba, wanimae/rawaa nakon. wawaeakina? riaki. to kiakia
 
 417
 00:58:07,460 --> 00:58:08,430
@@ -1764,7 +1764,7 @@ mauri. i! atatai! ngai, guy. e a! uh. wall-e
 
 442
 01:00:55,930 --> 01:00:59,730
-. mauri. wall-e e a. mi buddy. john! ! mauri! wall-e.
+. mauri. wall-e e a. am buddy. john! ! mauri! wall-e.
 
 443
 01:01:05,570 --> 01:01:06,560
@@ -1932,7 +1932,7 @@ sunday uaati. tai ko. -ri tuka, ma uramate.
 
 484
 01:04:41,090 --> 01:04:43,150
-uba. tuka. to kawai ma uabai mi tamnei took!
+uba. tuka. to kawai ma uabai am tamnei took!
 
 485
 01:04:43,260 --> 01:04:44,380
@@ -1952,7 +1952,7 @@ ngai sunday, riringa! a, to teuana! torara ngai ko ri. nika tua. nika ko ukora
 
 489
 01:04:54,740 --> 01:04:56,760
-maian mi parasol.
+maian am parasol.
 
 490
 01:04:56,870 --> 01:05:00,640
@@ -2076,7 +2076,7 @@ atae, i tebona? ko kamai to, wokewoke
 
 520
 01:07:31,930 --> 01:07:35,380
-? auto, katutu. ni. u ua . ti. cannot nakonako unata
+? auto, katutu. ni. au ua . ti. cannot nakonako unata
 
 521
 01:07:35,500 --> 01:07:39,260
@@ -2108,7 +2108,7 @@ aye aye. -atae
 
 528
 01:07:58,020 --> 01:08:03,390
-kabob'ai, n, wari. a. mi. superstore, ti got ni ko. kai
+kabob'ai, n, wari. a. am. superstore, ti got ni ko. kai
 
 529
 01:08:03,490 --> 01:08:04,620
@@ -2256,7 +2256,7 @@ boati to koaua ko winaine tokabeti
 
 565
 01:09:45,690 --> 01:09:50,390
-? i uareke tuai tangiria ni tokabeti. i tangiria ni.   mweraoi  riai! waki, u wati
+? i uareke tuai tangiria ni tokabeti. i tangiria ni.   mweraoi  riai! waki, au wati
 
 566
 01:10:08,480 --> 01:10:11,010
@@ -2540,7 +2540,7 @@ kataitai. kataitai a teuaei. mena boati
 
 636
 01:17:43,160 --> 01:17:47,530
-aio. to kaben. ngai!  in. i? u uma n amarake.
+aio. to kaben. ngai!  in. i? au uma n amarake.
 
 637
 01:17:47,630 --> 01:17:51,130
@@ -2564,7 +2564,7 @@ tiku-tumauma.
 
 642
 01:18:02,280 --> 01:18:03,480
-awaka u
+awaka au
 
 643
 01:18:04,990 --> 01:18:06,110
@@ -2640,7 +2640,7 @@ wene katoto. -uki wene katoto uki
 
 661
 01:20:06,970 --> 01:20:10,030
-nei ma nei teuaei a. -mi kaben. witoka!
+nei ma nei teuaei a. -am kaben. witoka!
 
 662
 01:20:10,140 --> 01:20:13,770
@@ -2804,7 +2804,7 @@ ooh.
 
 702
 01:27:19,370 --> 01:27:23,640
-wene! boati. mi. sunday? uaati? tai! ko! ri, tuka, ma! uramate
+wene! boati. am. sunday? uaati? tai! ko! ri, tuka, ma! uramate
 
 703
 01:27:26,680 --> 01:27:27,910
@@ -2880,7 +2880,7 @@ wai-ananau,
 
 721
 01:30:44,140 --> 01:30:48,410
-did, ko. taku! ngai. mi! waewae? had. been. tourake!
+did, ko. taku! ngai. am! waewae? had. been. tourake!
 
 722
 01:30:50,020 --> 01:30:54,580
@@ -2956,11 +2956,11 @@ ko ua-ra? always nano-marawarawa ni? to unora
 
 740
 01:32:16,970 --> 01:32:19,900
-iroum, got to wia boati mi uriba
+iroum, got to wia boati am uriba
 
 741
 01:32:20,010 --> 01:32:22,840
-wiraoi ko kona nako mai nika u ukebiri
+wiraoi ko kona nako mai nika au ukebiri
 
 742
 01:32:22,940 --> 01:32:24,640
