@@ -90533,9 +90533,9 @@ predicate
 
 they : a : they
 
-they : aba : people, the crowd, they
+#they : aba : people, the crowd, they
 
-they : ngaia : they, them
+#they : ngaia : they, them
 
 thick : arinimata : ari, kauariari: bushy or abundant, thick eyebrows
 
@@ -92177,48 +92177,48 @@ carrying on a useless work
 tire : wanga : kawanga, kawangawanga, kawangaroroa, kamatewanga: to give trouble, bring ...,
 to upset ..., to vex, annoy, tire uselessly
 
-tired : botu : weary of doing, tired of doing
+#tired : botu : weary of doing, tired of doing
 
-tired : buuroro : tired of, ceasing to relish or enjoy
+#tired : buuroro : tired of, ceasing to relish or enjoy
 
-tired : buroro : to be disgusted with, to give up, to have enough of, to be tired of
+#tired : buroro : to be disgusted with, to give up, to have enough of, to be tired of
 
-tired : ka : tired, dim (said of eyes after looking too attentively or too long at an
-object, or from defective sight)
+#tired : ka : tired, dim (said of eyes after looking too attentively or too long at an
+#object, or from defective sight)
 
 tired : kua : tired, fatigued, knocked up
 
-tired : kua n rang : very tired, worn out with fatigue, exhausted
+very tired : rang n kua : very tired, worn out with fatigue, exhausted
 
-tired : maong : soaked, wet, perspiring, tired, exhausted
+#tired : maong : soaked, wet, perspiring, tired, exhausted
 
-tired : mata n taratara : to appear tired for want of sleep, to look with envy
+##tired : mata n taratara : to appear tired for want of sleep, to look with envy
 
-tired : mate : mate: dead, defunct, paralysed, stopped, extinct, tired, unconscious, lost,
-cancelled, taken, blocked (in games), known by heart, memorized, free,
-tranquil, etc
+##tired : mate : mate: dead, defunct, paralysed, stopped, extinct, tired, unconscious, lost,
+#cancelled, taken, blocked (in games), known by heart, memorized, free,
+#tranquil, etc
 
-tired : mori : bruised, dead tired, tired out, knocked out, extenuated
+#tired : mori : bruised, dead tired, tired out, knocked out, extenuated
 
-tired : moro : te moro ngai n taningaiko! I am tired waiting for you, what do you take me
-for?
+#tired : moro : te moro ngai n taningaiko! I am tired waiting for you, what do you take me
+#for?
 
-tired : nikuakua : tired
+#tired : nikuakua : tired
 
-tired : nimorimori : tired out, exhausted, knocked up
+#tired : nimorimori : tired out, exhausted, knocked up
 
-tired : ntakuakua : sup. of kua. very tired, worn out, exhausted
+#tired : ntakuakua : sup. of kua. very tired, worn out, exhausted
 
-tired : ntungaungau : tired, worn out, from excessive perspiration
+#tired : ntungaungau : tired, worn out, from excessive perspiration
 
-tired : ngio : ngiongo, ngiongio, ngionako, ningioningio: tired, sleep, drowsy
+#tired : ngio : ngiongo, ngiongio, ngionako, ningioningio: tired, sleep, drowsy
 
-tired : rarau : rarau nako: to let oneself go, to give way, to give up, to be flat out, tired,
-to fall from weakness, to faint
+#tired : rarau : rarau nako: to let oneself go, to give way, to give up, to be flat out, tired,
+#to fall from weakness, to faint
 
-tired : tabotua : to be bored with, tired of putting up with 
+#tired : tabotua : to be bored with, tired of putting up with 
 
-tired : wanga : weary, tired
+#tired : wanga : weary, tired
 
 tiredness : mori : te mori: a very ripe fruit (esp. breadfruit), tiredness, weariness
 
@@ -96804,42 +96804,42 @@ vertigo : ntongitong : kind of dizziness, giddiness, vertigo, swoon
 
 vertigo : tanoi : giddiness, vertigo
 
-very : abakaei : big, very big, immense
+#very : abakaei : big, very big, immense
 
-very : abebete : very light
+#very : abebete : very light
 
-very : kaei : abakei (abakin aei), anaukaei (anauna aei) with a sign to show size: this
-size, this length. used also without gesture to designate: very long, very
-big
+#very : kaei : abakei (abakin aei), anaukaei (anauna aei) with a sign to show size: this
+#size, this length. used also without gesture to designate: very long, very
+#big
 
-very : karuatai : e karuatai te riringa: the sun is very hot
+#very : karuatai : e karuatai te riringa: the sun is very hot
 
-very : kati : to certain words to show superlative (very, entirely)
+#very : kati : to certain words to show superlative (very, entirely)
 
-very : kiri : very, much
+#very : kiri : very, much
 
-very : m'am'aka : very industrious
+#very : m'am'aka : very industrious
 
-very : nonginqng : (adverbial intensive) very
+#very : nonginqng : (adverbial intensive) very
 
-very : nonginong : indicating the superlative: very, altogether
+#very : nonginong : indicating the superlative: very, altogether
 
-very : nonoaeba : very many
+#very : nonoaeba : very many
 
-very : rang : adv. te rangi ni ... ae rang ni, n rang: very, too much, excessively,
-extremely, foolishly
+#very : rang n : adv. te rangi ni ... ae rang ni, n rang: very, too much, excessively,
+#extremely, foolishly
 
-very : reirei : very ( used after maiu)
+#very : reirei : very ( used after maiu)
 
-very : roaroa : very
+#very : roaroa : very
 
-very : tangoingoi : very black, dark
+#very : tangoingoi : very black, dark
 
-very : tongitong : na adverbial suffix meaning very, following ro, maere
+#very : tongitong : na adverbial suffix meaning very, following ro, maere
 
-very : toto : adv (an intensive) very
+#very : toto : adv (an intensive) very
 
-very : tutu : <very>
+#very : tutu : <very>
 
 vessel : banakuaku : oil, small vessel for oil or binobino
 
