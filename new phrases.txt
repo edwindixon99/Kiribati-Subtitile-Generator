@@ -57,3 +57,6 @@ all night : ngke bong
 next morning : ngke ingabong
 
 wall-e : wall-e
+
+driving : kabuti
+

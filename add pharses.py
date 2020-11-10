@@ -235,12 +235,12 @@ def get_initial_eng_phrases(filename):
 
 def collect_nouns(filename, conjuction=False):
     phrases = get_initial_eng_phrases(filename)
-    print(phrases)
+    #print(phrases)
     Tokens = []
     for Sent in phrases:
         Tokens.append(nltk.word_tokenize(Sent)) 
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
-    print(Words_List)
+    #print(Words_List)
     Nouns = set()
     pronouns = set('i')
     conjuction_set = set()
