@@ -197,7 +197,7 @@ def get_initial_eng_phrases(filename):
            
             for sentence in line:
                 #print(sentence)
-                res = re.split(',|_|-|!|', sentence)
+                res = re.split('[?.,_-]', sentence)
                 in_dict = False
                 for phrase in res:
                     phrase = phrase.strip()
@@ -240,7 +240,7 @@ def collect_nouns(filename, conjuction=False):
     for Sent in phrases:
         Tokens.append(nltk.word_tokenize(Sent)) 
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
-    #print(Words_List)
+    print(Words_List)
     Nouns = set()
     pronouns = set('i')
     conjuction_set = set()
@@ -258,7 +258,7 @@ def collect_nouns(filename, conjuction=False):
             elif re.match('NUM', Word[1]):
                 num.add(Word[0].lower())
                 
-            elif Word[1] == 'NN':
+            elif Word[1] == 'NN' or Word[1] == 'NNS':
                 #print('ol')
                 Nouns.add(Word[0])
             
@@ -347,6 +347,7 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases):
             except KeyError:
                 pass             
             if not in_dict and subbed_word != '':
+                
                 phrases.append(subbed_word)
     phrase = ' '.join(phrase)
     #if r:
@@ -362,7 +363,7 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases):
     
 def get_eng_phrases(filename):
     conjuncted = collect_nouns(filename, True)
-    conjuncts = ',|_|-|!'
+    conjuncts = '[?!.,_-]'
     #print(conjuncted)
     if len(conjuncted) > 0:
         con = '|'.join(conjuncted)
@@ -436,6 +437,7 @@ def get_eng_phrases(filename):
                             except KeyError:
                                 pass                             
                             if not in_dict2:
+                                print(new_phrase)
                                 phrases.append(new_phrase)
                                 
     #print(len(phrases))

@@ -22,7 +22,7 @@ ta : ta
 
 classified : tabu kaotana
 
-eve : eve
+eve : Eve
 
 __NOUN!!!___ : __NOUN!!!___
 
@@ -66,9 +66,9 @@ price : Iraua boon aio?
 
 cost : 	Iraua boon aio?
 
-write it : Ko kona n korobokia
+write it : kona n korobokia
 
-write this : Ko kona n korobokia
+write this : kona n korobokia
 
 yes a little : E eng, ti teutana
 
@@ -80,9 +80,13 @@ police officer : bureitiman
 
 stop it : toki
 
+stop : toki
+
 leave me alone : katiukuai
 
 cheers : Marurung
+
+good morning : Ko kaman uuti?
 
 good morning : Ko kaman uuti?
 
@@ -166,9 +170,9 @@ what's your name : antai aram?
 
 what is your name : antai aram?
 
-who are you : antai aram?
+who are you : antai ngkoe
 
-who're you : antai aram?
+who're you : antai ngkoe
 
 my name is : arau
 
@@ -196,13 +200,13 @@ you are : *
 
 you're : *
 
-they are : *
+they are : * 
 
 they're : *
 
-nothing: *
+nothing: akea
 
-nothin': *
+nothin': akea
 
 alot : *
 
@@ -218,15 +222,21 @@ see ya : tiabo
 
 see ya later: tiabo te oke
 
-what's the matter with you : *
+what's the matter with you : tera un kanganga
 
-what is the matter with you : *
+what is the matter with you : tera un kanganga
 
-what is your problem : *
+problem : kanganga
 
-what's your problem : *
+what is our problem : tera am kanganga
 
-what are you talking about : *
+what are you talking about : tera ae kotakina
+
+what are we talking about : tera ae titaekina
+
+what are they talking about : tera ae etaekina
+
+what am i talking about : tera ae itaekina
 
 it's : e a
 
@@ -300,7 +310,7 @@ you to: ngkoe bwa kona
 
 going to: naako karaoa
 
-you know: ko ataia
+you know: ko ataia ti ataia e ataia i ataia
 
 this is: aio
 
@@ -340,9 +350,9 @@ fine: e raoiroi
 
 new york: new york
 
-come on : *
+come on : kawakoako
 
-i don't : i aki
+i don't : i aki e aki
 
 you got : iai iroum
 
@@ -42920,22 +42930,22 @@ henna : 'En/na : henna [shrub,dye]
 
 Hepatus : koinawa : Hepatus trios tagus
 
-her : a : him, her, it, a suffix pronoun following an active transitive verb, usually
+#her : a : him, her, it, a suffix pronoun following an active transitive verb, usually
 united to the root by i
 
-her : aena : his, her, its
+#her : aena : his, her, its
 
 her : ana : his, her (na when employed as a suff.). <its>
 
-her : ina : him, her (used after nako)
+#her : ina : him, her (used after nako)
 
-her : ina : nakoina: to him, to her, to it
+#her : ina : nakoina: to him, to her, to it
 
-her : n : his, her, its, always written as a suffix, much resembling of
+#her : n : his, her, its, always written as a suffix, much resembling of
 
-her : n : poss. adj. for his, her, its (n. euph.)
+#her : n : poss. adj. for his, her, its (n. euph.)
 
-her : na : possessive suffix, his, her, its
+#her : na : possessive suffix, his, her, its
 
 herb : maruka : a herb, salt wort
 
@@ -43332,15 +43342,15 @@ hire : bakao : hire, rent, interest
 
 hirsute : uakaka : hairy, hirsute, bristling, dishevelled
 
-his : aena : his, her, its
+#his : aena : his, her, its
 
 his : ana : his, her (na when employed as a suff.). <its>
 
-his : n : his, her, its, always written as a suffix, much resembling of
+#his : n : his, her, its, always written as a suffix, much resembling of
 
-his : n : poss. adj. for his, her, its (n. euph.)
+#his : n : poss. adj. for his, her, its (n. euph.)
 
-his : na : possessive suffix, his, her, its
+#his : na : possessive suffix, his, her, its
 
 hiss : kati : to cause to squirt out, to spout, to gush,to hiss
 
@@ -55558,13 +55568,9 @@ minister : minita : minister, pastor (Protestant)
 
 mint : mjn/ta : mint
 
-minute : mj/neti : minute
+#minute : teutana : minute
 
 minute : mineti : minute (time)
-
-minute : tingingi : infinitesimal, minute, tiny
-
-minute : uangingi : little, tiny, minute
 
 miracle : kakai : a miracle
 

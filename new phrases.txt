@@ -60,3 +60,45 @@ wall-e : wall-e
 
 driving : kabuti
 
+what is that : tera arei
+
+john : John
+
+__PRONOUN!!!___ know : __PRONOUN!!!___ ataia
+
+__NOUN!!!___ __NOUN!!!___ : __NOUN!!!___
+
+what the : tera 
+
+yoo : mauri
+
+mary : Mary
+
+__PRONOUN!!!___ go ahead : __PRONOUN!!!___ nako
+
+auto: __NOUN!!!___ : auto: __NOUN!!!___
+
+__PRONOUN!!!___ see : __PRONOUN!!!___ noria
+
+i am good : __PRONOUN!!!___ marurung
+
+where is __PRONOUN!!!___ : __PRONOUN!!!___ ngaa
+
+where are you : ko menaeaia
+
+where is the __NOUN!!!___ : e ngaa te __NOUN!!!___
+
+the __NOUN!!!___ : te __NOUN!!!___
+
+wait a minute : taninga teutana 
+
+wait a hour: taninga teutana te awa
+
+wait a second: taninga teutana 
+
+this is New Zealand : aei New Zealand 
+
+this is __NOUN!!!___ : aei __NOUN!!!___
+
+that is right : etia aei
+
