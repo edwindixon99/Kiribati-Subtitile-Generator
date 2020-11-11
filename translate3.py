@@ -183,7 +183,7 @@ def resub_nouns(num_A_words, changed):
         word = num_A_words[i]
         itis = False
         if word == pr:
-            changed['pronoun'][pr_count]
+            print(changed['pronoun'][pr_count])
             pr_count += 1
             itis = True
         elif word == noun:
@@ -297,32 +297,6 @@ def post_adjust(tup, word):
     return word    
     
     
-def remove_words(words):
-    try:
-        words.remove('<i>#')
-    except ValueError:
-        pass
-    try:
-        words.remove('<i>')
-    except ValueError:
-        pass
-    try:
-        words.remove('#</i>')
-    except ValueError:
-        pass      
-    try:
-        words.remove('</i>')
-    except ValueError:
-        pass 
-    try:
-        words.remove('#')
-    except ValueError:
-        pass      
-    #word = word.replace('<i>', '')
-    #word = word.replace('</i>', '')
-
-    return words
-
 def strip_word(word):
     word = word.replace('<i>', '')
     word = word.replace('</i>', '')
@@ -366,18 +340,20 @@ def translate_file_attempt(title3, filename, film):
     except:
         title3.set("Something went wrong!?! Maybe wrong filename")
         
-def contraction(word, words):
+def contraction(word, words, f_r_tup, f_r):
     try:
-        
         con = contractions[word].split()
+        con = post_adjust(f_r_tup, ' '.join(con)).split()
         for i in con:
+            tup, i = pre_adjust(i)
             words.append(i)
-        
-        return words
+            f_r.append(tup)
+        return words, f_r
         
     except KeyError:
         words.append(word)
-        return words
+        f_r.append(f_r_tup)
+        return words, f_r
     
 def translate_file(filename, film):
     words = collections.deque()
@@ -391,24 +367,17 @@ def translate_file(filename, film):
         #print(line)
         skips = 1
         i = 0
-        
+        index = 0
         for word in line:
-            #print(line)
-            #print(word, i)
+            
             word = strip_word(word)
             f_r_tup, word1 = pre_adjust(word)
             
-            words = contraction(word1, words)
-            #if type(word1) == list:
-                #print(words)
-                #words = words + word1
-                #print(words)
-            #else:
-                #words.append(word1)
-            f_r.append(f_r_tup)
-            words = remove_words(words)
+            words, f_r = contraction(word1, words, f_r_tup, f_r)
+            
         while 0 < len(words):
             if skips > 1:
+                print(words, skips)
                 line[i] = ''
                 skips -= 1
                 words.popleft()
@@ -417,6 +386,7 @@ def translate_file(filename, film):
                 num = len(words)
                 
                 skips, word = translate(words, num)
+                #print(f_r)
                 tup = f_r.popleft()
                 word = post_adjust(tup, word)
                 #print(word)
