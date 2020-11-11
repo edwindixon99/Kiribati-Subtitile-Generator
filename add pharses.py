@@ -157,13 +157,16 @@ def strip_word(word):
     #word = word.strip() 
     return word
 
-def get_dict(filename):
+def get_dict(filename, rear=False):
     diction = {}
     alpha = list(string.ascii_lowercase)
     f = open(filename, 'r')
     lines = f.readlines()
     for line in lines:
-        line = line.rstrip().split(':')
+        if rear:
+            line = line.rstrip().rsplit(':', 2)
+        else:
+            line = line.rstrip().split(':')
         if len(line) >= 2:
         
             
@@ -371,8 +374,12 @@ def get_eng_phrases(filename):
         conjuncts = conjuncts + '|' + con
     #print(conjuncted)       
     dict1 = get_dict('dictionary.txt')
-    dict2 = get_dict("new phrases.txt")  
-    dictbl = get_dict("bl phrases.txt")  
+    dict2 = get_dict("new phrases.txt", True)  
+    dictbl = get_dict("bl phrases.txt", True)  
+    #for phrase in dict2:
+        #print(phrase)
+    #for phrase in dictbl:
+        #print(phrase)    
     phrases = []
     f = open(filename, 'r')
     lines = f.read().lower().split('\n\n')
@@ -417,6 +424,7 @@ def get_eng_phrases(filename):
                     
                     if not in_dict and phrase != '' and len(phrase.split()) > 0:
                         new_phrase, phrases = remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases)
+                        #print(new_phrase)
                         if new_phrase == phrase:
                             phrases.append(phrase)
                         else:
@@ -428,6 +436,7 @@ def get_eng_phrases(filename):
                                 pass
                             try:
                                 dict2[new_phrase]
+                                #print(new_phrase)
                                 in_dict2 = True
                             except KeyError:
                                 pass 
@@ -437,7 +446,14 @@ def get_eng_phrases(filename):
                             except KeyError:
                                 pass                             
                             if not in_dict2:
-                                print(new_phrase)
+                                #print(new_phrase)
+                                #try:
+                                    #dict2['__PRONOUN!!!___ go ahead']
+                                    #print('is in')
+                                #except KeyError:
+                                    #pass                                    
+                                    #in_dict2 = True     
+                                #print(new_phrase)
                                 phrases.append(new_phrase)
                                 
     #print(len(phrases))

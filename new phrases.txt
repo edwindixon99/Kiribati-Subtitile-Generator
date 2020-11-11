@@ -78,6 +78,12 @@ __PRONOUN!!!___ go ahead : __PRONOUN!!!___ nako
 
 auto: __NOUN!!!___ : auto: __NOUN!!!___
 
+auto: __NOUN!!!___ : auto: __NOUN!!!___
+
+bot: __NOUN!!!___ : bot: __NOUN!!!___
+
+bot: __NOUN!!!___ : bot: __NOUN!!!___
+
 __PRONOUN!!!___ see : __PRONOUN!!!___ noria
 
 i am good : __PRONOUN!!!___ marurung
