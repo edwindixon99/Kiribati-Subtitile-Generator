@@ -30,7 +30,7 @@ classified : tabu kaotana
 
 eve : eve
 
-__NOUN!!!___ : __NOUN!!!___
+__NOUN!!!___ : te __NOUN!!!___
 
 "eve : "eve
 
@@ -66,7 +66,7 @@ john : John
 
 __PRONOUN!!!___ know : __PRONOUN!!!___ ataia
 
-__NOUN!!!___ __NOUN!!!___ : __NOUN!!!___
+__NOUN!!!___ __NOUN!!!___ : __NOUN!!!___ __NOUN!!!___
 
 what the : tera 
 
@@ -108,6 +108,38 @@ this is __NOUN!!!___ : aei __NOUN!!!___
 
 that is right : eti raoi
 
-rang n raoi
+very good : rang n raoi
 
-i rang n mararung
+i am very fine : i rang n mararung
+
+i am very good : i rang n mararung
+
+bridge : buriiti
+
+so let us hover over to the : tia butinako nakon te 
+
+driving range : tabo n oro booro
+
+hit a few : oroi tabeua
+
+into space : nako karawa
+
+virtual __NOUN!!!___ : __NOUN!!!___
+
+__PRONOUN!!!___ do not want to do that : __PRONOUN!!!___ rawa ni karaoia
+
+something : te baerei
+
+__PRONOUN!!!___ am in a __NOUN!!!___ : __PRONONUN!!!___ mena n te __NOUN!!!___
+
+__PRONOUN!!!___ cannot hear __PRONOUN!!!___ : __PRONOUN!!!___ aki ongo __PRONONUN!!!___ taeka
+
+there __PRONOUN!!!___ are : ao anne
+
+stewards : touati
+
+what is going on : tera ae riki
+
+__PRONOUN!!!___ is the new __PRONOUN!!!___ : katotong__PRONOUN!!!___
+
+__PRONOUN!!!___ look great : __PRONOUN!!!___ raoiroi
