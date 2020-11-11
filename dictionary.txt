@@ -1,3 +1,123 @@
+ta : ta
+
+classified : tabu kaotana
+
+eve : Eve
+
+__NOUN!!!___ : te __NOUN!!!___
+
+"eve : "Eve
+
+" : "
+
+e : e
+
+ah : aaaa
+
+__PRONOUN!!!___ pop : __PRONOUN!!!___ rebwe
+
+oops : ooo
+
+contaminant : boitin
+
+foreign __NOUN!!!___ : __NOUN!!!___ mai abatera
+
+__PRONOUN!!!___ have been in __PRONOUN!!!___ __NOUN!!!___ : __PRONOUN!!!___ mena n __PRONOUN!!!___ __NOUN!!!___ 
+
+all morning : nte ingabong aei
+
+all night : ngke bong
+
+next morning : ngke ingabong
+
+wall-e : wall-e
+
+driving : kabuti
+
+what is that : tera arei
+
+john : John
+
+__PRONOUN!!!___ know : __PRONOUN!!!___ ataia
+
+__NOUN!!!___ __NOUN!!!___ : __NOUN!!!___ __NOUN!!!___
+
+what the : tera 
+
+yoo : mauri
+
+mary : Mary
+
+__PRONOUN!!!___ go ahead : __PRONOUN!!!___ nako
+
+auto: __NOUN!!!___ : auto: __NOUN!!!___
+
+auto: __NOUN!!!___ : auto: __NOUN!!!___
+
+bot: __NOUN!!!___ : bot: __NOUN!!!___
+
+bot: __NOUN!!!___ : bot: __NOUN!!!___
+
+__PRONOUN!!!___ see : __PRONOUN!!!___ noria
+
+i am good : __PRONOUN!!!___ marurung
+
+where is __PRONOUN!!!___ : __PRONOUN!!!___ ngaa
+
+where are you : ko menaeaia
+
+where is the __NOUN!!!___ : e ngaa te __NOUN!!!___
+
+the __NOUN!!!___ : te __NOUN!!!___
+
+wait a minute : taninga teutana 
+
+wait a hour: taninga teuana te awa
+
+wait a second: taninga teutana 
+
+this is New Zealand : aei New Zealand 
+
+this is __NOUN!!!___ : aei __NOUN!!!___
+
+that is right : eti raoi
+
+very good : rang n raoi
+
+i am very fine : i rang n mararung
+
+i am very good : i rang n mararung
+
+bridge : buriiti
+
+so let us hover over to the : tia butinako nakon te 
+
+driving range : tabo n oro booro
+
+hit a few : oroi tabeua
+
+into space : nako karawa
+
+virtual __NOUN!!!___ : __NOUN!!!___
+
+__PRONOUN!!!___ do not want to do that : __PRONOUN!!!___ rawa ni karaoia
+
+something : te baerei
+
+__PRONOUN!!!___ am in a __NOUN!!!___ : __PRONONUN!!!___ mena n te __NOUN!!!___
+
+__PRONOUN!!!___ cannot hear __PRONOUN!!!___ : __PRONOUN!!!___ aki ongo __PRONONUN!!!___ taeka
+
+there __PRONOUN!!!___ are : ao anne
+
+stewards : touati
+
+what is going on : tera ae riki
+
+__PRONOUN!!!___ is the new __PRONOUN!!!___ : katotong__PRONOUN!!!___
+
+__PRONOUN!!!___ look great : __PRONOUN!!!___ raoiroi
+
 huh : huh
 
 wow : wow
