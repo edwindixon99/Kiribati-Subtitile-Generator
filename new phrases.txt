@@ -98,7 +98,7 @@ the __NOUN!!!___ : te __NOUN!!!___
 
 wait a minute : taninga teutana 
 
-wait a hour: taninga teutana te awa
+wait a hour: taninga teuana te awa
 
 wait a second: taninga teutana 
 
@@ -106,5 +106,8 @@ this is New Zealand : aei New Zealand
 
 this is __NOUN!!!___ : aei __NOUN!!!___
 
-that is right : etia aei
+that is right : eti raoi
 
+rang n raoi
+
+i rang n mararung

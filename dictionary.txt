@@ -120,6 +120,8 @@ where are you from : Kaain iia ngkoe?
 
 where you from : Kaain iia ngkoe?
 
+where did you come from : kaain ia ngkoe 
+
 i am from : Ngai boni kaain
 
 i'm from : Ngai boni kaain
@@ -41784,13 +41786,13 @@ happiness : kukurei : joy, happiness
 
 happy : aoka : content, happy, satisfied
 
-happy : kab'aia : fortunate, happy, highly favored
+#happy : kab'aia : fortunate, happy, highly favored
 
-happy : kabaia : kakabaia: happy, contented, satisfied, fortunate, blessed
+#happy : kabaia : kakabaia: happy, contented, satisfied, fortunate, blessed
 
-happy : katia : happy because favored
+#happy : katia : happy because favored
 
-happy : kimareirei : kakimareireia: to make happy, to give pleasure, to cause joy
+#happy : kimareirei : kakimareireia: to make happy, to give pleasure, to cause joy
 
 happy : kukurei : to be happy, to be glad, to rejoice
 
@@ -59921,11 +59923,11 @@ one hundred thousand : tekuri : one hundred thousand
 
 one thousand : tenga : one thousand
 
-one : tengana : one, in counting fathoms
+#one : tengana : one, in counting fathoms
 
-one : tengaun : ten, one hundred coconuts, really ten bunches of ten each
+#one : tengaun : ten, one hundred coconuts, really ten bunches of ten each
 
-one : tetoki : one hindred million, literally the end, the stop
+#one : tetoki : one hindred million, literally the end, the stop
 
 this one : teuaei : this one ... (masc.)
 
@@ -96826,8 +96828,8 @@ vertigo : tanoi : giddiness, vertigo
 
 #very : nonoaeba : very many
 
-#very : rang n : adv. te rangi ni ... ae rang ni, n rang: very, too much, excessively,
-#extremely, foolishly
+very : rang n : adv. te rangi ni ... ae rang ni, n rang: very, too much, excessively,
+extremely, foolishly
 
 #very : reirei : very ( used after maiu)
 
