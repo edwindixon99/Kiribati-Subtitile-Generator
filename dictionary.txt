@@ -90,7 +90,7 @@ i am very good : i rang n mararung
 
 bridge : buriiti
 
-so let us hover over to the : tia butinako nakon te 
+so let us hover over to the : tia butinako nakon te
 
 driving range : tabo n oro booro
 
@@ -90540,12 +90540,12 @@ Te in other islands
 
 the : ta : the <a, an>
 
-the : taian : Taian Apotoro: the Apostles, the apostolic college
+#the : taian : Taian Apotoro: the Apostles, the apostolic college
 
 the : te : the. a <an>. the indefinite article one can be used as te, but generally by
 teuana, temanna. both te and teuana are used together
 
-the : to : the, a <an>, before o, u, w
+#the : to : the, a <an>, before o, u, w
 
 thee : im : thee, you ( it follows nako)
 

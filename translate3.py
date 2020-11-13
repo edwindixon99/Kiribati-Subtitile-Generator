@@ -148,23 +148,27 @@ def sub_nouns(words, num):
     number = "__NUM!!!___"
     for List in Words_List:
         for Word in List:
-            #print(List)
+            print(List)
+            
+            print(n_words)
+            print(i)
             if re.match('PRP', Word[1]) or Word[0] == 'i':
                 #print('ok')
                 changed['pronoun'].append(Word[0])
-                #n_words[i] = pr
+                n_words[i] = pr
                          
             
             elif re.match('NUM', Word[1]):
                 changed['num'].append(Word[0])
-                #n_words[i] = num
+                n_words[i] = num
                 
             elif Word[1] == 'NN':
                 changed['noun'].append(Word[0])
-                #n_words[i] = noun
+                n_words[i] = noun
             #print(i)
             #print(n_words)
-            i += 1
+            if not (Word[1] == '``' or Word[1] == "''"):
+                i += 1
     
     return list(itertools.islice(n_words, 0, num)), changed
 
@@ -179,7 +183,7 @@ def resub_nouns(num_A_words, changed):
     
     num_A_words = diction[num_A_words]
     words = num_A_words.split()
-    for i in len(range(num_A_words)):
+    for i in range(len(num_A_words)):
         word = num_A_words[i]
         itis = False
         if word == pr:
@@ -190,7 +194,7 @@ def resub_nouns(num_A_words, changed):
             changed['noun'][noun_count]
             noun_count += 1            
             itis = True
-        elif word == num:
+        elif word == number:
             changed['num'][num_count]
             num_count += 1            
             itis = True
@@ -215,6 +219,8 @@ def translate(words, num):
         #print(words)
         num_words = ' '.join(sub_words)
         num_A_words = ' '.join(sub_A_words)
+        #print(num_words)
+        #print(num_A_words)
         try:
             if dictionp[num_words]:
                 try:
@@ -244,8 +250,10 @@ def translate(words, num):
         except KeyError:
             num -= 1 
         try:
+            print(num_A_words)
             if diction[num_A_words]:
                 num_A_words = resub_nouns(num_A_words, changed)
+                print('ok')
             return num, num_A_words
         except KeyError:
             num -= 1         
@@ -374,11 +382,21 @@ def translate_file(filename, film):
             f_r_tup, word1 = pre_adjust(word)
             
             words, f_r = contraction(word1, words, f_r_tup, f_r)
+        #print(list(words))
+        print(line)
+        print(words)
+        line = list(words)
+        print(line)
             
         while 0 < len(words):
             if skips > 1:
-                print(words, skips)
-                line[i] = ''
+                #print(words, skips)
+                if i >= len(line):
+                    #print(line[i])
+                    line.append('')
+                else:
+                    #print(line[i])
+                    line[i] = ''
                 skips -= 1
                 words.popleft()
                 f_r.popleft()
@@ -386,6 +404,7 @@ def translate_file(filename, film):
                 num = len(words)
                 
                 skips, word = translate(words, num)
+                #print(word)
                 #print(f_r)
                 tup = f_r.popleft()
                 word = post_adjust(tup, word)
