@@ -155,9 +155,9 @@ def sub_nouns(words, num):
     tok_count = 0
     for List in Words_List:
         for Word in List:
-            #print(List)
+            print(List)
             
-            print(n_words)
+            #print(n_words)
             #print(i)
             if re.match('PRP', Word[1]) or Word[0] == 'i':
                 #print('ok')
@@ -172,9 +172,9 @@ def sub_nouns(words, num):
             elif Word[1] == 'NN' or Word[1] == 'NNS':
                 changed['noun'].append(Word[0])
                 n_words[i] = noun
-            #print(i)
-            #print(n_words)
-            if not (Word[1] == '``' or Word[1] == "''" or Word[1] == ":" or "'" in Word[0]):
+            print(i)
+            print(n_words)
+            if not (Word[1] == '``' or Word[1] == "''" or Word[1] =='.' or Word[1] == ":" or Word[1] == "," or "'" in Word[0]):
                 i += 1
             try:
                 #print(List[tok_count+1])
@@ -182,6 +182,25 @@ def sub_nouns(words, num):
                     i -= 1
             except:
                 pass
+            try:
+                #print(List[tok_count+1])
+                if Word[0] == 'wan' and List[tok_count+1][0] == 'na':
+                    i -= 1
+            except:
+                pass
+            try:
+                #print(List[tok_count+1])
+                if Word[0] == 'got' and List[tok_count+1][0] == 'ta':
+                    i -= 1
+            except:
+                pass  
+            try:
+                #print(List[tok_count+1])
+                if Word[0] == 'gon' and List[tok_count+1][0] == 'na':
+                    i -= 1
+            except:
+                pass               
+            
             tok_count += 1
     return list(itertools.islice(n_words, 0, num)), changed
 
