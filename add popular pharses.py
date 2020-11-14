@@ -10,7 +10,7 @@ stop = stopwords.words('english')
 from nltk.corpus import wordnet
 from nltk.corpus import wordnet as wn
 
-filename = "Raging Bull-English.srt"
+filename = "total.txt"
 
 contractions = { 
 "aren't": "are not",
@@ -243,7 +243,7 @@ def collect_nouns(filename, conjuction=False):
     for Sent in phrases:
         Tokens.append(nltk.word_tokenize(Sent)) 
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
-    print(Words_List)
+    #print(Words_List)
     Nouns = set()
     pronouns = set('i')
     conjuction_set = set()
@@ -351,7 +351,7 @@ def remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases):
                 pass             
             if not in_dict and subbed_word != '':
                 
-                phrases.append(subbed_word)
+                phrases[subbed_word] += 1
     phrase = ' '.join(phrase)
     #if r:
         #print(phrase)
@@ -380,7 +380,7 @@ def get_eng_phrases(filename):
         #print(phrase)
     #for phrase in dictbl:
         #print(phrase)    
-    phrases = []
+    phrases = collections.defaultdict(int)
     f = open(filename, 'r')
     lines = f.read().lower().split('\n\n')
     for j in range(len(lines)):
@@ -426,7 +426,7 @@ def get_eng_phrases(filename):
                         new_phrase, phrases = remove_pronouns_and_nouns(phrase, dict1, dict2, dictbl, phrases)
                         #print(new_phrase)
                         if new_phrase == phrase:
-                            phrases.append(phrase)
+                            phrases[phrase] += 1
                         else:
                             in_dict2 = False
                             try:
@@ -454,13 +454,15 @@ def get_eng_phrases(filename):
                                     #pass                                    
                                     #in_dict2 = True     
                                 #print(new_phrase)
-                                phrases.append(new_phrase)
+                                phrases[new_phrase] += 1
                                 
     #print(len(phrases))
     set1 = set(phrases)
     #print(len(set1))
     #print(set1)
     f.close()  
+    phrases = sorted(phrases.items(), key=lambda x:x[1], reverse=True)
+    #print(phrases)
     return phrases
 
 
@@ -476,84 +478,12 @@ def print_new_eng_pharse2():
 
 
         
-def add_to_file():
-    if not len(note.get()) == 0:
-        text_file = open("new phrases.txt", "a")
-        text_file.write(e.get() + ' : ' + note.get() + "\n\n")
-        text_file.close()
-        get_new_eng_pharse()
-        
-        
-def add_to_blacklist():
-    #if not len(note.get()) == 0:
-    text_file = open("bl phrases.txt", "a")
-    text_file.write(e.get() + ' : ' + 'nothin' + "\n\n")
+def add_to_file(num):
+    phrases = get_eng_phrases(filename)
+    text_file = open("pop phrases.txt", "a")
+    for i in range(num):
+        text_file.write(str(phrases[i]) + "\n\n")
     text_file.close()
-    get_new_eng_pharse()    
-
-
-#filename = "Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt"
-
-#phrases = get_eng_phrases(filename)
-#get_new_eng_pharse(phrases)
-
-from tkinter import *
-from tkinter.ttk import *
-
-
-window = Tk()
-e = StringVar()
-e.set("")  
-
-note = StringVar()
-get_new_eng_pharse()
-frame = Frame(window,width=600,height=400)
-frame.pack(expand=YES)
-
-label = Label(frame, textvariable=e, width=100, wraplength=1000)
-label.config(font=("Arial", 60))
-label.pack()
-
-klabel = Label(frame, textvariable=note, width=100, wraplength=1000)
-klabel.config(font=("Arial", 60))
-klabel.pack()
-
-
-label2 = Label(frame, text='In Kiribati this means :', width=100)
-label2.config(font=("Arial", 20))
-label2.pack()
-entry2 = Entry(frame, text=note, width=100)
-entry2.pack()
-
-frame2 = Frame(window)
-frame2.pack(side='bottom')
-
-
-clear = Button(frame2, text="Correct", width=20, command=add_to_file)
-clear.pack(side='left')
-
-clear = Button(frame2, text="Blacklist", width=10, command=add_to_blacklist)
-clear.pack(side='right')
-
-    
-window.bind("<Return>", (lambda event: add_to_file()))
-    
-
-#new = Button(frame2, text="New Word", width=20, command=lambda: get_random_word(words, e, k, note))
-#new.pack(side='left')
-
-#clear2 = Button(frame2, text="Wrong", width=20, command=lambda: add_to_file(False, e, k, note))
-#clear2.pack(side='right')
-
-window.mainloop()
-
-
-
-
-
-
-#phrases = phrases = get_eng_phrases(filename)
-#nouns = collect_nouns(filename)
-#print(nouns)
-
-print_new_eng_pharse2()
+        #get_new_eng_pharse()
+        
+add_to_file(500)
