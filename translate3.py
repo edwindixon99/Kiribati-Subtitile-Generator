@@ -36,12 +36,12 @@ contractions = {
 "how'd'y": "how do you",
 "how'll": "how will",
 "how's": "how is",
-"I'd": "I would",
-"I'd've": "I would have",
-"I'll": "I will",
-"I'll've": "I will have",
-"I'm": "I am",
-"I've": "I have",
+"i'd": "i would",
+"i'd've": "i would have",
+"i'll": "i will",
+"i'll've": "i will have",
+"i'm": "i am",
+"i've": "i have",
 "isn't": "is not",
 "it'd": "it would",
 "it'd've": "it would have",
@@ -131,13 +131,19 @@ contractions = {
 }
 
 
+pronoun_subs = {"you":"your", "me":"my"}
+
 
 
 def sub_nouns(words, num):
     phrase = ' '.join(words)
     Tokens = []
     n_words = copy.deepcopy(words)
+    
     Tokens.append(nltk.word_tokenize(phrase)) 
+    
+    #Tokens = [list(n_words).remove('')]
+    #print(Tokens)
     Words_List = [nltk.pos_tag(Token) for Token in Tokens]
     
     changed = {'noun':[], 'pronoun':[], 'number':[]}
@@ -146,12 +152,13 @@ def sub_nouns(words, num):
     pr = "__PRONOUN!!!___"
     noun = "__NOUN!!!___"
     number = "__NUM!!!___"
+    tok_count = 0
     for List in Words_List:
         for Word in List:
-            print(List)
+            #print(List)
             
             print(n_words)
-            print(i)
+            #print(i)
             if re.match('PRP', Word[1]) or Word[0] == 'i':
                 #print('ok')
                 changed['pronoun'].append(Word[0])
@@ -162,18 +169,25 @@ def sub_nouns(words, num):
                 changed['num'].append(Word[0])
                 n_words[i] = num
                 
-            elif Word[1] == 'NN':
+            elif Word[1] == 'NN' or Word[1] == 'NNS':
                 changed['noun'].append(Word[0])
                 n_words[i] = noun
             #print(i)
             #print(n_words)
-            if not (Word[1] == '``' or Word[1] == "''"):
+            if not (Word[1] == '``' or Word[1] == "''" or Word[1] == ":" or "'" in Word[0]):
                 i += 1
-    
+            try:
+                #print(List[tok_count+1])
+                if Word[0] == 'can' and List[tok_count+1][0] == 'not':
+                    i -= 1
+            except:
+                pass
+            tok_count += 1
     return list(itertools.islice(n_words, 0, num)), changed
 
                 
 def resub_nouns(num_A_words, changed):
+    print()
     pr = "__PRONOUN!!!___"
     noun = "__NOUN!!!___"
     number = "__NUM!!!___"    
@@ -182,26 +196,39 @@ def resub_nouns(num_A_words, changed):
     num_count = 0
     
     num_A_words = diction[num_A_words]
+    print(num_A_words)
+    print(changed)
     words = num_A_words.split()
-    for i in range(len(num_A_words)):
-        word = num_A_words[i]
+    for i in range(len(words)):
+        word = words[i]
         itis = False
+        #print(word)
         if word == pr:
-            print(changed['pronoun'][pr_count])
+            word = changed['pronoun'][pr_count]
+            #if i > 0:
+                #try:
+                    #word = pronoun_subs[word]
+                #except KeyError:
+                    #pass
             pr_count += 1
             itis = True
         elif word == noun:
-            changed['noun'][noun_count]
+            word = changed['noun'][noun_count]
             noun_count += 1            
             itis = True
         elif word == number:
-            changed['num'][num_count]
+            word = changed['num'][num_count]
             num_count += 1            
             itis = True
         if itis:
-            new_word = translate(changed[word], 1)
-            num_A_words[i] = new_word
-    return ' '.join(num_A_words)
+            #print('ok')
+            #print(changed[word])
+            new_word = translate([word], 1)[1]
+            print(new_word)
+            print(words[i])
+            words[i] = new_word
+    print(' '.join(words))
+    return ' '.join(words)
             
             
 
@@ -210,76 +237,104 @@ def resub_nouns(num_A_words, changed):
  
 
 def translate(words, num):
-    words_alter, changed = sub_nouns(words, num)
-    words = list(itertools.islice(words, 0, num))
     
-    while num > 1:
-        sub_words = list(itertools.islice(words, 0, num))
-        sub_A_words = list(itertools.islice(words_alter, 0, num))
-        #print(words)
-        num_words = ' '.join(sub_words)
-        num_A_words = ' '.join(sub_A_words)
-        #print(num_words)
-        #print(num_A_words)
+    if len(words) == 1:        
+        word1 = words[0]
         try:
-            if dictionp[num_words]:
+            if dictionp[word1]:
                 try:
-                    if words[2] in ['it', 'he', 'she', 'that']:
-                        return num + 1, dictionp[num_words]
+                    if words[1] in ['it', 'he', 'she', 'that']:
+                        return num + 1, dictionp[word1]
                 except IndexError:
                     pass
-            return num, dictionp[num_words]
-        
+            return num, dictionp[word1]
         except KeyError:
-            pass
-        
+            pass    
         try:
-            if dictionp[num_A_words]:
-                try:
-                    if words[2] in ['it', 'he', 'she', 'that']:
-                        return num + 1, dictionp[num_A_words]
-                except IndexError:
-                    pass
-            return num, dictionp[num_A_words]
-        
-        except KeyError:
-            pass
-        #############################################################
-        try:
-            return num, diction[num_words]
-        except KeyError:
-            num -= 1 
-        try:
-            print(num_A_words)
-            if diction[num_A_words]:
-                num_A_words = resub_nouns(num_A_words, changed)
-                print('ok')
-            return num, num_A_words
-        except KeyError:
-            num -= 1         
             
-    word1 = words[0]
-    try:
-        if dictionp[word1]:
+            #print(diction[word1])
+            return 1, diction[word1]
+        except KeyError:
             try:
-                if words[1] in ['it', 'he', 'she', 'that']:
-                    return num + 1, dictionp[word1]
-            except IndexError:
+                wordsingle = remove_plural(word1)
+                return 1, diction[wordsingle]
+            except KeyError:        
                 pass
-        return num, dictionp[word1]
-    except KeyError:
-        pass    
-    try:
+        return 1, word1      
+    
+    else: 
+        words_alter, changed = sub_nouns(words, num)
+        words = list(itertools.islice(words, 0, num))
         
-        #print(diction[word1])
-        return 1, diction[word1]
-    except KeyError:
+        while num > 1:
+            sub_words = list(itertools.islice(words, 0, num))
+            sub_A_words = list(itertools.islice(words_alter, 0, num))
+            
+            num_words = ' '.join(sub_words)
+            num_A_words = ' '.join(sub_A_words)
+            print(num_words)
+            print(num_A_words)
+            try:
+                if dictionp[num_words]:
+                    try:
+                        if words[2] in ['it', 'he', 'she', 'that']:
+                            return num + 1, dictionp[num_words]
+                    except IndexError:
+                        pass
+                return num, dictionp[num_words]
+            
+            except KeyError:
+                pass
+            
+            try:
+                if dictionp[num_A_words]:
+                    try:
+                        if words[2] in ['it', 'he', 'she', 'that']:
+                            return num + 1, dictionp[num_A_words]
+                    except IndexError:
+                        pass
+                return num, dictionp[num_A_words]
+            
+            except KeyError:
+                pass
+            #############################################################
+            try:
+                return num, diction[num_words]
+            except KeyError:
+                pass
+            try:
+                
+                if diction[num_A_words]:
+                    #print(num_A_words)
+                    num_A_words = resub_nouns(num_A_words, changed)
+                    #print()
+                    print(num_A_words)
+                return num, num_A_words
+            except KeyError:
+                num -= 1         
+                
+        word1 = words[0]
         try:
-            wordsingle = remove_plural(word1)
-            return 1, diction[wordsingle]
-        except KeyError:        
-            pass
-    return 1, word1      
+            if dictionp[word1]:
+                try:
+                    if words[1] in ['it', 'he', 'she', 'that']:
+                        return num + 1, dictionp[word1]
+                except IndexError:
+                    pass
+            return num, dictionp[word1]
+        except KeyError:
+            pass    
+        try:
+            
+            #print(diction[word1])
+            return 1, diction[word1]
+        except KeyError:
+            try:
+                wordsingle = remove_plural(word1)
+                return 1, diction[wordsingle]
+            except KeyError:        
+                pass
+        return 1, word1      
 
 
 def pre_adjust(word):
@@ -370,7 +425,7 @@ def translate_file(filename, film):
     lines = f.read().lower().split('\n\n')
     for j in range(len(lines)):
         line1 = lines[j].split()
-        #print(line1)
+        print(line1[0])
         line = line1[4:]
         #print(line)
         skips = 1
@@ -383,10 +438,10 @@ def translate_file(filename, film):
             
             words, f_r = contraction(word1, words, f_r_tup, f_r)
         #print(list(words))
-        print(line)
-        print(words)
+        #print(line)
+        #print(words)
         line = list(words)
-        print(line)
+        #print(line)
             
         while 0 < len(words):
             if skips > 1:
@@ -404,7 +459,7 @@ def translate_file(filename, film):
                 num = len(words)
                 
                 skips, word = translate(words, num)
-                #print(word)
+                print(skips, word)
                 #print(f_r)
                 tup = f_r.popleft()
                 word = post_adjust(tup, word)

@@ -24,6 +24,10 @@ foreign __NOUN!!!___ : __NOUN!!!___ mai abatera
 
 __PRONOUN!!!___ have been in __PRONOUN!!!___ __NOUN!!!___ : __PRONOUN!!!___ mena n __PRONOUN!!!___ __NOUN!!!___ 
 
+__PRONOUN!!!___ am in a __NOUN!!!___ : __PRONOUN!!!___ mena n __NOUN!!!___
+
+__PRONOUN!!!___ are in a __NOUN!!!___ : __PRONOUN!!!___ mena n __NOUN!!!___ 
+
 all morning : nte ingabong aei
 
 all night : ngke bong
@@ -114,7 +118,7 @@ stewards : touati
 
 what is going on : tera ae riki
 
-__PRONOUN!!!___ is the new __PRONOUN!!!___ : katotong__PRONOUN!!!___
+__PRONOUN!!!___ is the new __PRONOUN!!!___ : katotong __PRONOUN!!!___
 
 __PRONOUN!!!___ look great : __PRONOUN!!!___ raoiroi
 
@@ -404,7 +408,7 @@ i'm going to : nangi nako
 
 i want to : i tangiria ni
 
-what do you: tera ae ko
+what do you: ko tera
 
 do you have: iai am
 
