@@ -1,0 +1,1100 @@
+('f', 799)
+
+('w', 332)
+
+('__PRONOUN!!!___ __NOUN!!!___', 291)
+
+('yeah', 266)
+
+('m', 260)
+
+('s', 240)
+
+('mr', 226)
+
+('__NOUN!!!___ __PRONOUN!!!___', 186)
+
+('\\n', 168)
+
+('h', 156)
+
+('fuck', 122)
+
+('__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 105)
+
+('a __NOUN!!!___', 102)
+
+('guy', 99)
+
+('ya', 97)
+
+('ry', 96)
+
+('__PRONOUN!!!___ am __NOUN!!!___', 96)
+
+('truman', 91)
+
+('l', 80)
+
+('anything', 79)
+
+('fucking', 78)
+
+('shit', 76)
+
+('ness', 75)
+
+('__PRONOUN!!!___ is __NOUN!!!___', 74)
+
+('that is __NOUN!!!___', 71)
+
+('__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+
+('__NOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+
+('d', 62)
+
+('k', 62)
+
+('soze', 59)
+
+('t', 58)
+
+('heard', 57)
+
+('capone', 56)
+
+('guys', 54)
+
+('knew', 54)
+
+('la', 54)
+
+('y', 53)
+
+('__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 53)
+
+('__PRONOUN!!!___ are __NOUN!!!___', 52)
+
+('ning', 52)
+
+('years', 52)
+
+('motta', 51)
+
+('mcmurphy', 50)
+
+('ali', 49)
+
+('c', 48)
+
+('do not __NOUN!!!___', 48)
+
+('keaton', 48)
+
+('what do __PRONOUN!!!___ __NOUN!!!___', 47)
+
+('__NOUN!!!___ the __NOUN!!!___', 46)
+
+('jake', 46)
+
+('f', 799)
+
+('w', 332)
+
+('__PRONOUN!!!___ __NOUN!!!___', 291)
+
+('yeah', 266)
+
+('m', 260)
+
+('s', 240)
+
+('mr', 226)
+
+('__NOUN!!!___ __PRONOUN!!!___', 186)
+
+('\\n', 168)
+
+('h', 156)
+
+('fuck', 122)
+
+('__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 105)
+
+('a __NOUN!!!___', 102)
+
+('guy', 99)
+
+('ya', 97)
+
+('ry', 96)
+
+('__PRONOUN!!!___ am __NOUN!!!___', 96)
+
+('truman', 91)
+
+('l', 80)
+
+('anything', 79)
+
+('fucking', 78)
+
+('shit', 76)
+
+('ness', 75)
+
+('__PRONOUN!!!___ is __NOUN!!!___', 74)
+
+('that is __NOUN!!!___', 71)
+
+('__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+
+('__NOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+
+('d', 62)
+
+('k', 62)
+
+('soze', 59)
+
+('t', 58)
+
+('heard', 57)
+
+('capone', 56)
+
+('guys', 54)
+
+('knew', 54)
+
+('la', 54)
+
+('y', 53)
+
+('__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 53)
+
+('__PRONOUN!!!___ are __NOUN!!!___', 52)
+
+('ning', 52)
+
+('years', 52)
+
+('motta', 51)
+
+('mcmurphy', 50)
+
+('ali', 49)
+
+('c', 48)
+
+('do not __NOUN!!!___', 48)
+
+('keaton', 48)
+
+('what do __PRONOUN!!!___ __NOUN!!!___', 47)
+
+('__NOUN!!!___ the __NOUN!!!___', 46)
+
+('jake', 46)
+
+('somebody', 44)
+
+('the __NOUN!!!___ __NOUN!!!___', 43)
+
+('while', 41)
+
+('__NOUN!!!___ up', 41)
+
+('mac', 41)
+
+('goddamn', 40)
+
+('everybody', 40)
+
+('no __NOUN!!!___', 39)
+
+('dr', 39)
+
+('b', 36)
+
+('knows', 36)
+
+('anybody', 36)
+
+('e __NOUN!!!___', 35)
+
+('today', 33)
+
+("'em", 33)
+
+('__PRONOUN!!!___ underst', 33)
+
+('keyser', 33)
+
+('comm', 32)
+
+('__NOUN!!!___ ahead', 32)
+
+('jones', 32)
+
+('nash', 32)
+
+('damn', 31)
+
+('__NOUN!!!___ us __NOUN!!!___', 30)
+
+('__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___', 29)
+
+('[laughlng]', 29)
+
+('billboards', 27)
+
+('department', 27)
+
+('__PRONOUN!!!___ is a __NOUN!!!___', 27)
+
+('__NOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 27)
+
+('blondie', 27)
+
+('bill', 26)
+
+('christ', 26)
+
+('dollars', 26)
+
+('__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 26)
+
+('indy', 26)
+
+('__NOUN!!!___ to __NOUN!!!___', 25)
+
+('__PRONOUN!!!___ got __PRONOUN!!!___', 25)
+
+('st', 24)
+
+('eliot', 24)
+
+('__NOUN!!!___ down', 24)
+
+('ld', 24)
+
+('der', 24)
+
+('carson', 24)
+
+('joey', 24)
+
+('harding', 24)
+
+('cheswick', 24)
+
+('charles', 24)
+
+('__PRONOUN!!!___ will __NOUN!!!___', 23)
+
+('minutes', 23)
+
+('tonight', 23)
+
+('robinson', 23)
+
+('martini', 23)
+
+('</i', 22)
+
+('__NOUN!!!___ of __NOUN!!!___', 22)
+
+('chicago', 22)
+
+('al', 22)
+
+('bookkeeper', 22)
+
+('mission', 22)
+
+('tommy', 22)
+
+('what __NOUN!!!___', 21)
+
+('bitch', 21)
+
+('hours', 21)
+
+('se', 21)
+
+('what is the __NOUN!!!___', 21)
+
+('mm', 21)
+
+('mrs', 20)
+
+('thinking', 20)
+
+('__PRONOUN!!!___ said', 20)
+
+('__PRONOUN!!!___ is all __NOUN!!!___', 20)
+
+('treasury', 20)
+
+('__NOUN!!!___ __PRONOUN!!!___ the __NOUN!!!___', 20)
+
+('anyone', 20)
+
+('fenster', 20)
+
+('er', 20)
+
+('watney', 20)
+
+('sol', 20)
+
+('marion', 20)
+
+('a __NOUN!!!___ __NOUN!!!___', 19)
+
+('tuco', 19)
+
+('__NOUN!!!___ ratched', 19)
+
+('mcmurphy: __NOUN!!!___', 19)
+
+('alicia', 19)
+
+('un', 18)
+
+('months', 18)
+
+('mmm', 18)
+
+('what is this', 18)
+
+('in __NOUN!!!___', 18)
+
+('000', 18)
+
+('are __PRONOUN!!!___ __NOUN!!!___', 18)
+
+('wallace', 18)
+
+('jews', 18)
+
+('mcmanus', 18)
+
+('bullshit', 18)
+
+('000 __NOUN!!!___', 17)
+
+('hayes', 17)
+
+('this __NOUN!!!___', 17)
+
+('__NOUN!!!___ at __PRONOUN!!!___', 17)
+
+('yours', 17)
+
+('outta', 17)
+
+('though', 17)
+
+('dad', 17)
+
+('um', 17)
+
+('just __NOUN!!!___', 17)
+
+('badge', 17)
+
+('intercept', 17)
+
+('ail', 17)
+
+('seconds', 16)
+
+('income', 16)
+
+('__PRONOUN!!!___ __NOUN!!!___ a __NOUN!!!___', 16)
+
+('malone', 16)
+
+('all __NOUN!!!___', 16)
+
+('phone', 16)
+
+('won', 16)
+
+('brought', 16)
+
+('fiji', 16)
+
+('vickie', 16)
+
+('medication', 16)
+
+('shh', 16)
+
+('mcbain', 16)
+
+('profess', 16)
+
+('that __NOUN!!!___', 15)
+
+('__PRONOUN!!!___ do', 15)
+
+('dixon', 15)
+
+('__NOUN!!!___ to __PRONOUN!!!___', 15)
+
+('what is __PRONOUN!!!___', 15)
+
+('__NOUN!!!___ in', 15)
+
+('wladek', 15)
+
+('vote', 15)
+
+('vincent', 15)
+
+('is __PRONOUN!!!___', 14)
+
+('__NOUN!!!___ that', 14)
+
+('kinda', 14)
+
+('questions', 14)
+
+('__NOUN!!!___ a __NOUN!!!___', 14)
+
+('what the __NOUN!!!___', 14)
+
+('__NOUN!!!___ to the __NOUN!!!___', 14)
+
+('__PRONOUN!!!___ cannot', 14)
+
+('do __PRONOUN!!!___ underst', 14)
+
+('happens', 14)
+
+('where is __NOUN!!!___', 14)
+
+('__NOUN!!!___ now', 14)
+
+('__NOUN!!!___ here', 14)
+
+('kobayashi', 14)
+
+('r', 14)
+
+('reeves', 14)
+
+('willoughby', 13)
+
+('in the __NOUN!!!___', 13)
+
+('anyway', 13)
+
+('an __NOUN!!!___', 13)
+
+('do not __PRONOUN!!!___', 13)
+
+('cigarettes', 13)
+
+('bef', 13)
+
+('holy', 13)
+
+('__NOUN!!!___ __PRONOUN!!!___ up', 13)
+
+('washington', 13)
+
+('ce', 13)
+
+('__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 13)
+
+('code', 13)
+
+('wonderful', 13)
+
+("what are __PRONOUN!!!___ doin'", 13)
+
+('\\ni', 13)
+
+('weeks', 13)
+
+('da', 13)
+
+('hm', 13)
+
+('will __PRONOUN!!!___', 12)
+
+('doc', 12)
+
+('charlie', 12)
+
+('__PRONOUN!!!___ know that', 12)
+
+('oscar', 12)
+
+('__PRONOUN!!!___ will be __NOUN!!!___', 12)
+
+('everyone', 12)
+
+('is that __PRONOUN!!!___', 12)
+
+('some __NOUN!!!___', 12)
+
+('__PRONOUN!!!___ got a __NOUN!!!___', 12)
+
+('ledger', 12)
+
+('pounds', 12)
+
+('ge', 12)
+
+('jimmy', 12)
+
+('not __NOUN!!!___', 12)
+
+('__NOUN!!!___ there', 12)
+
+('congratulations', 12)
+
+('__PRONOUN!!!___', 12)
+
+('__NOUN!!!___ the __NOUN!!!___ __NOUN!!!___', 12)
+
+('here __PRONOUN!!!___ __NOUN!!!___', 12)
+
+('bailiff', 12)
+
+('__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 12)
+
+('k __NOUN!!!___', 12)
+
+('cocksucker', 12)
+
+('dope', 12)
+
+('bum', 12)
+
+('hermes</i', 12)
+
+('mars', 12)
+
+('meters', 12)
+
+('salvy', 12)
+
+('angela', 11)
+
+('mation', 11)
+
+('camera', 11)
+
+('mildred', 11)
+
+('is not __PRONOUN!!!___', 11)
+
+('feeling', 11)
+
+('youse', 11)
+
+('just __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 11)
+
+('__PRONOUN!!!___ was __NOUN!!!___', 11)
+
+('__PRONOUN!!!___ is __NOUN!!!___ __NOUN!!!___', 11)
+
+('radio', 11)
+
+('__PRONOUN!!!___ do not __NOUN!!!___', 11)
+
+('what are __PRONOUN!!!___ doing', 11)
+
+('__NOUN!!!___ is __NOUN!!!___', 11)
+
+('mama', 11)
+
+('__NOUN!!!___ in the __NOUN!!!___', 11)
+
+('__NOUN!!!___ __NOUN!!!___ there', 11)
+
+('personally', 11)
+
+('to __NOUN!!!___', 11)
+
+('szpilman', 11)
+
+('p', 11)
+
+('there is no __NOUN!!!___', 11)
+
+('do __PRONOUN!!!___', 11)
+
+('ghetto', 11)
+
+('russians', 11)
+
+('hockney', 11)
+
+('redfoot', 11)
+
+('dog', 11)
+
+('marlon', 11)
+
+('heh', 11)
+
+('scanlon', 11)
+
+('parcher', 11)
+
+('laws', 10)
+
+('motherfucker', 10)
+
+('on the __NOUN!!!___', 10)
+
+('what did __PRONOUN!!!___ __NOUN!!!___', 10)
+
+('what about __PRONOUN!!!___', 10)
+
+('__PRONOUN!!!___ have __NOUN!!!___ __NOUN!!!___', 10)
+
+('__PRONOUN!!!___ can __NOUN!!!___', 10)
+
+('th', 10)
+
+('two __NOUN!!!___', 10)
+
+('miami', 10)
+
+('a __NOUN!!!___ of __NOUN!!!___', 10)
+
+('alright', 10)
+
+('\\nyou', 10)
+
+('papers', 10)
+
+('germans', 10)
+
+('meant', 10)
+
+('__NOUN!!!___ to __NOUN!!!___ __PRONOUN!!!___', 10)
+
+('hotel', 10)
+
+('biily', 10)
+
+('rosen', 10)
+
+('asshole', 9)
+
+('ry __NOUN!!!___', 9)
+
+('which __NOUN!!!___', 9)
+
+('momma', 9)
+
+('did __PRONOUN!!!___', 9)
+
+('ing', 9)
+
+('ner', 9)
+
+("'s", 9)
+
+('__PRONOUN!!!___ was a __NOUN!!!___', 9)
+
+('have a __NOUN!!!___', 9)
+
+('big __NOUN!!!___', 9)
+
+('__PRONOUN!!!___ am a __NOUN!!!___', 9)
+
+('there __PRONOUN!!!___ __NOUN!!!___', 9)
+
+('mister', 9)
+
+('at __NOUN!!!___', 9)
+
+('__PRONOUN!!!___ __NOUN!!!___ to __NOUN!!!___ __NOUN!!!___', 9)
+
+('would __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 9)
+
+('ty', 9)
+
+('list', 9)
+
+("__PRONOUN!!!___ are nothin'", 9)
+
+('believe __PRONOUN!!!___', 9)
+
+('aboard', 9)
+
+('__NOUN!!!___ of the __NOUN!!!___', 9)
+
+('rect', 9)
+
+('warsaw', 9)
+
+('defense', 9)
+
+('no __NOUN!!!___ __NOUN!!!___', 9)
+
+('open the do', 9)
+
+('__NOUN!!!___ __NOUN!!!___ here', 9)
+
+('__PRONOUN!!!___ are __NOUN!!!___ __NOUN!!!___', 9)
+
+('downtown', 9)
+
+('edie', 9)
+
+('verbal', 9)
+
+('__NOUN!!!___ __PRONOUN!!!___ a __NOUN!!!___', 9)
+
+('take __PRONOUN!!!___ __NOUN!!!___', 9)
+
+('immunity', 9)
+
+('five __NOUN!!!___', 9)
+
+('__NOUN!!!___ away', 9)
+
+('__PRONOUN!!!___ swear', 9)
+
+('aii', 9)
+
+('christof', 9)
+
+('2', 9)
+
+('mav', 9)
+
+('ares', 9)
+
+('__NOUN!!!___ on __PRONOUN!!!___', 9)
+
+('winner', 9)
+
+('middleweight', 9)
+
+('__PRONOUN!!!___ know what __NOUN!!!___ __NOUN!!!___', 9)
+
+('wheeler', 9)
+
+('sunday', 8)
+
+('thinks', 8)
+
+('actually', 8)
+
+('william', 8)
+
+('upstairs', 8)
+
+('e __NOUN!!!___ __NOUN!!!___', 8)
+
+('losing', 8)
+
+('by the __NOUN!!!___', 8)
+
+('taxi', 8)
+
+('daddy', 8)
+
+('bastards', 8)
+
+('what can __PRONOUN!!!___ do __NOUN!!!___', 8)
+
+('payments', 8)
+
+('the __NOUN!!!___ of the __NOUN!!!___', 8)
+
+('what is __PRONOUN!!!___ __NOUN!!!___', 8)
+
+('keys', 8)
+
+('another __NOUN!!!___', 8)
+
+('__PRONOUN!!!___ all __NOUN!!!___', 8)
+
+('cars', 8)
+
+('lives', 8)
+
+('__PRONOUN!!!___ are a __NOUN!!!___ __NOUN!!!___', 8)
+
+('wh', 8)
+
+('that is __PRONOUN!!!___ __NOUN!!!___', 8)
+
+('there is no __NOUN!!!___ __NOUN!!!___', 8)
+
+("'", 8)
+
+('__NOUN!!!___ of a __NOUN!!!___', 8)
+
+('there __PRONOUN!!!___ is', 8)
+
+('__PRONOUN!!!___ is __PRONOUN!!!___', 8)
+
+('doct', 8)
+
+('shots', 8)
+
+('flier', 8)
+
+('__NOUN!!!___ __PRONOUN!!!___ very much', 8)
+
+('all of __PRONOUN!!!___', 8)
+
+('__NOUN!!!___ on the __NOUN!!!___', 8)
+
+('jury', 8)
+
+('pianist', 8)
+
+('zlotys', 8)
+
+('__PRONOUN!!!___ are a __NOUN!!!___', 8)
+
+('jew', 8)
+
+('cigarette', 8)
+
+('__PRONOUN!!!___ am telling __PRONOUN!!!___', 8)
+
+('hiding', 8)
+
+('tant', 8)
+
+('__PRONOUN!!!___ does not __NOUN!!!___', 8)
+
+("__PRONOUN!!!___ fuckin' __NOUN!!!___", 8)
+
+('lineup', 8)
+
+('kint', 8)
+
+('__NOUN!!!___ about __PRONOUN!!!___', 8)
+
+('tells', 8)
+
+('coke', 8)
+
+('ld __NOUN!!!___', 8)
+
+('meryl', 8)
+
+('schedule', 8)
+
+('transmission', 8)
+
+('3', 8)
+
+('johanssen', 8)
+
+('bruce', 8)
+
+('baker', 8)
+
+('jackson', 8)
+
+('bull', 8)
+
+('referee', 8)
+
+('boo', 8)
+
+('janiro', 8)
+
+('bancini', 8)
+
+('iike', 8)
+
+('taber', 8)
+
+('peculiar', 8)
+
+('turkle', 8)
+
+('cheyenne', 8)
+
+('belloq', 8)
+
+('tanis', 8)
+
+('martin', 8)
+
+('welby', 7)
+
+('what __PRONOUN!!!___ __NOUN!!!___', 7)
+
+('can __PRONOUN!!!___ __NOUN!!!___', 7)
+
+('__PRONOUN!!!___ know __PRONOUN!!!___', 7)
+
+('__PRONOUN!!!___ is a __NOUN!!!___ __NOUN!!!___', 7)
+
+('tv', 7)
+
+('__PRONOUN!!!___ __NOUN!!!___ the __NOUN!!!___', 7)
+
+('jason', 7)
+
+('__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 7)
+
+('__NOUN!!!___ __NOUN!!!___ __NOUN!!!___ __NOUN!!!___', 7)
+
+('ds', 7)
+
+('kidding', 7)
+
+('just __NOUN!!!___ __PRONOUN!!!___', 7)
+
+('businessman', 7)
+
+('ry about __PRONOUN!!!___', 7)
+
+('__PRONOUN!!!___ will be all __NOUN!!!___', 7)
+
+('__PRONOUN!!!___ am so __NOUN!!!___', 7)
+
+('to __NOUN!!!___ __NOUN!!!___', 7)
+
+('sounds', 7)
+
+('what are __PRONOUN!!!___ doing here', 7)
+
+('__PRONOUN!!!___ have a __NOUN!!!___', 7)
+
+('tune', 7)
+
+('__PRONOUN!!!___ is __PRONOUN!!!___ __NOUN!!!___', 7)
+
+('__NOUN!!!___ __NOUN!!!___ of the __NOUN!!!___', 7)
+
+('codes', 7)
+
+('th __NOUN!!!___', 7)
+
+('piss', 7)
+
+('that is all', 7)
+
+('__PRONOUN!!!___ have no __NOUN!!!___', 7)
+
+('bust', 7)
+
+('__PRONOUN!!!___ are __PRONOUN!!!___ __NOUN!!!___', 7)
+
+('__NOUN!!!___ __NOUN!!!___ of here', 7)
+
+('__NOUN!!!___ __PRONOUN!!!___ so much', 7)
+
+('__PRONOUN!!!___ do not underst', 7)
+
+('__NOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 7)
+
+('likes', 7)
+
+('if __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 7)
+
+('__NOUN!!!___ on', 7)
+
+('__PRONOUN!!!___ is not __NOUN!!!___', 7)
+
+('why did __PRONOUN!!!___ do __PRONOUN!!!___', 7)
+
+('berlin', 7)
+
+('finneran', 7)
+
+('four __NOUN!!!___', 7)
+
+('__NOUN!!!___ __NOUN!!!___ the __NOUN!!!___', 7)
+
+('sergeant', 7)
+
+('prisoners', 7)
+
+('that is a __NOUN!!!___ __NOUN!!!___', 7)
+
+('__PRONOUN!!!___ is gone', 7)
+
+("fuckin' __NOUN!!!___", 7)
+
+('seahaven', 7)
+
+('sylvia', 7)
+
+('cam', 7)
+
+('television', 7)
+
+('1', 7)
+
+('degrees', 7)
+
+('telemetry', 7)
+
+('miles', 7)
+
+('__NOUN!!!___ __PRONOUN!!!___ loose', 7)
+
+('like a __NOUN!!!___', 7)
+
+('harder', 7)
+
+('to the __NOUN!!!___', 7)
+
+('washlngton: __NOUN!!!___', 7)
+
+('fredrickson', 7)
+
+('aah', 7)
+
+('ratched: __NOUN!!!___', 7)
+
+('tabes', 7)
+
+('[stuttering]', 7)
+
+('warren', 7)
+
+('cairo', 7)
+
+('headpiece', 7)
+
+('sallah', 7)
+
+('__NOUN!!!___ by <font col', 6)
+
+('desk', 6)
+
+('answers', 6)
+
+('__NOUN!!!___ us __NOUN!!!___ __NOUN!!!___', 6)
+
+('rights', 6)
+
+('__PRONOUN!!!___ got __NOUN!!!___', 6)
+
+('__PRONOUN!!!___ __NOUN!!!___ that __NOUN!!!___', 6)
+
+('those __NOUN!!!___', 6)
+
+("ain't __PRONOUN!!!___", 6)
+
+('books', 6)
+
+('if __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 6)
+
+('__PRONOUN!!!___ can __NOUN!!!___ __PRONOUN!!!___', 6)
+
