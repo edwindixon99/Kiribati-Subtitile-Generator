@@ -155,7 +155,7 @@ def sub_nouns(words, num):
     tok_count = 0
     for List in Words_List:
         for Word in List:
-            print(List)
+            #print(List)
             
             #print(n_words)
             #print(i)
@@ -172,8 +172,8 @@ def sub_nouns(words, num):
             elif Word[1] == 'NN' or Word[1] == 'NNS':
                 changed['noun'].append(Word[0])
                 n_words[i] = noun
-            print(i)
-            print(n_words)
+            #print(i)
+            #print(n_words)
             if not (Word[1] == '``' or Word[1] == "''" or Word[1] =='.' or Word[1] == ":" or Word[1] == "," or "'" in Word[0]):
                 i += 1
             try:
@@ -206,7 +206,7 @@ def sub_nouns(words, num):
 
                 
 def resub_nouns(num_A_words, changed):
-    print()
+    #print()
     pr = "__PRONOUN!!!___"
     noun = "__NOUN!!!___"
     number = "__NUM!!!___"    
@@ -215,8 +215,8 @@ def resub_nouns(num_A_words, changed):
     num_count = 0
     
     num_A_words = diction[num_A_words]
-    print(num_A_words)
-    print(changed)
+    #print(num_A_words)
+    #print(changed)
     words = num_A_words.split()
     for i in range(len(words)):
         word = words[i]
@@ -243,10 +243,10 @@ def resub_nouns(num_A_words, changed):
             #print('ok')
             #print(changed[word])
             new_word = translate([word], 1)[1]
-            print(new_word)
-            print(words[i])
+            #print(new_word)
+            #print(words[i])
             words[i] = new_word
-    print(' '.join(words))
+    #print(' '.join(words))
     return ' '.join(words)
             
             
@@ -291,8 +291,8 @@ def translate(words, num):
             
             num_words = ' '.join(sub_words)
             num_A_words = ' '.join(sub_A_words)
-            print(num_words)
-            print(num_A_words)
+            #print(num_words)
+            #print(num_A_words)
             try:
                 if dictionp[num_words]:
                     try:
@@ -327,7 +327,7 @@ def translate(words, num):
                     #print(num_A_words)
                     num_A_words = resub_nouns(num_A_words, changed)
                     #print()
-                    print(num_A_words)
+                    #print(num_A_words)
                 return num, num_A_words
             except KeyError:
                 num -= 1         
@@ -444,7 +444,7 @@ def translate_file(filename, film):
     lines = f.read().lower().split('\n\n')
     for j in range(len(lines)):
         line1 = lines[j].split()
-        print(line1[0])
+        #print(line1[0])
         line = line1[4:]
         #print(line)
         skips = 1
@@ -478,7 +478,7 @@ def translate_file(filename, film):
                 num = len(words)
                 
                 skips, word = translate(words, num)
-                print(skips, word)
+                #print(skips, word)
                 #print(f_r)
                 tup = f_r.popleft()
                 word = post_adjust(tup, word)
@@ -514,7 +514,7 @@ def translate_file(filename, film):
     w.write(string)
     w.close()
 
-translate_file("Raging Bull-English.srt", "Raging Bull-t3")
+translate_file("La.La.Land.2016.720p.BluRay.x264.[YTS.MX]-English.srt", "Rlalaaland")
 
 #if __name__ == '__main__':
     ##translate_file("Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt", "king")
