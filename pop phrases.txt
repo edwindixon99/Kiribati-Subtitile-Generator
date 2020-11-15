@@ -1,1100 +1,1000 @@
-('f', 799)
+aang
 
-('w', 332)
+avatar
 
-('__PRONOUN!!!___ __NOUN!!!___', 291)
+sokka
 
-('yeah', 266)
+katara
 
-('m', 260)
+__PRONOUN!!!___
 
-('s', 240)
+__PRONOUN!!!___ __NOUN!!!___
 
-('mr', 226)
+yeh
 
-('__NOUN!!!___ __PRONOUN!!!___', 186)
+years
 
-('\\n', 168)
+zuko
 
-('h', 156)
+ry
 
-('fuck', 122)
+appa
 
-('__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 105)
+s
 
-('a __NOUN!!!___', 102)
+f
 
-('guy', 99)
+guys
 
-('ya', 97)
+jin
 
-('ry', 96)
+everyone
 
-('__PRONOUN!!!___ am __NOUN!!!___', 96)
+__PRONOUN!!!___ am s
 
-('truman', 91)
+__PRONOUN!!!___ is __NOUN!!!___
 
-('l', 80)
+ld
 
-('anything', 79)
+waterbending
 
-('fucking', 78)
+no __NOUN!!!___
 
-('shit', 76)
+roku
 
-('ness', 75)
+airbender
 
-('__PRONOUN!!!___ is __NOUN!!!___', 74)
+zhao
 
-('that is __NOUN!!!___', 71)
+yip
 
-('__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+__NOUN!!!___ __PRONOUN!!!___
 
-('__NOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+knew
 
-('d', 62)
+a __NOUN!!!___
 
-('k', 62)
+anything
 
-('soze', 59)
+wei
 
-('t', 58)
+jeong
 
-('heard', 57)
+subtitle
 
-('capone', 56)
+rendy1287
 
-('guys', 54)
+gmail
 
-('knew', 54)
+dot
 
-('la', 54)
+__NOUN!!!___ by __NOUN!!!___ [at __NOUN!!!___ __NOUN!!!___ com]
 
-('y', 53)
+__PRONOUN!!!___ are __NOUN!!!___
 
-('__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 53)
+ya
 
-('__PRONOUN!!!___ are __NOUN!!!___', 52)
+momo
 
-('ning', 52)
+k
 
-('years', 52)
+wu
 
-('motta', 51)
+http://www
 
-('mcmurphy', 50)
+avatarspiritmedia
 
-('ali', 49)
+net/
 
-('c', 48)
+__NOUN!!!___ f
 
-('do not __NOUN!!!___', 48)
+__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___
 
-('keaton', 48)
+dad
 
-('what do __PRONOUN!!!___ __NOUN!!!___', 47)
+gran
 
-('__NOUN!!!___ the __NOUN!!!___', 46)
+guy
 
-('jake', 46)
+bison
 
-('f', 799)
+that is __NOUN!!!___
 
-('w', 332)
+transcript
 
-('__PRONOUN!!!___ __NOUN!!!___', 291)
+canyon
 
-('yeah', 266)
+e __NOUN!!!___
 
-('m', 260)
+y
 
-('s', 240)
+yeah
 
-('mr', 226)
+needs
 
-('__NOUN!!!___ __PRONOUN!!!___', 186)
+waterbender
 
-('\\n', 168)
+firebending
 
-('h', 156)
+anyone
 
-('fuck', 122)
+gan
 
-('__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 105)
+__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___
 
-('a __NOUN!!!___', 102)
+__PRONOUN!!!___ mean
 
-('guy', 99)
+th __NOUN!!!___
 
-('ya', 97)
+firebenders
 
-('ry', 96)
+__NOUN!!!___ to acastus f
 
-('__PRONOUN!!!___ am __NOUN!!!___', 96)
+haru
 
-('truman', 91)
+bending
 
-('l', 80)
+solstice
 
-('anything', 79)
+__NOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('fucking', 78)
+airbending
 
-('shit', 76)
+er
 
-('ness', 75)
+m
 
-('__PRONOUN!!!___ is __NOUN!!!___', 74)
+earthbending
 
-('that is __NOUN!!!___', 71)
+ugh
 
-('__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+while
 
-('__NOUN!!!___ __NOUN!!!___ __NOUN!!!___', 70)
+elements
 
-('d', 62)
+what is wrong
 
-('k', 62)
+nice __NOUN!!!___
 
-('soze', 59)
+gyatso
 
-('t', 58)
+lives
 
-('heard', 57)
+actually
 
-('capone', 56)
+earthbender
 
-('guys', 54)
+earthbenders
 
-('knew', 54)
+mission
 
-('la', 54)
+__NOUN!!!___ not w
 
-('y', 53)
+sages
 
-('__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 53)
+firebender
 
-('__PRONOUN!!!___ are __NOUN!!!___', 52)
+monks
 
-('ning', 52)
+anyway
 
-('years', 52)
+monk
 
-('motta', 51)
+good __NOUN!!!___
 
-('mcmurphy', 50)
+kyoshi
 
-('ali', 49)
+what are __PRONOUN!!!___ doing
 
-('c', 48)
+bef
 
-('do not __NOUN!!!___', 48)
+__NOUN!!!___ on __NOUN!!!___
 
-('keaton', 48)
+the __NOUN!!!___ l
 
-('what do __PRONOUN!!!___ __NOUN!!!___', 47)
+d
 
-('__NOUN!!!___ the __NOUN!!!___', 46)
+'em
 
-('jake', 46)
+young __NOUN!!!___
 
-('somebody', 44)
+the __NOUN!!!___ __NOUN!!!___
 
-('the __NOUN!!!___ __NOUN!!!___', 43)
+some __NOUN!!!___
 
-('while', 41)
+today
 
-('__NOUN!!!___ up', 41)
+pirates
 
-('mac', 41)
+bato
 
-('goddamn', 40)
+princess
 
-('everybody', 40)
+__NOUN!!!___ __NOUN!!!___ here
 
-('no __NOUN!!!___', 39)
+__PRONOUN!!!___ am not __NOUN!!!___
 
-('dr', 39)
+__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('b', 36)
+navy
 
-('knows', 36)
+__PRONOUN!!!___ am __NOUN!!!___
 
-('anybody', 36)
+airbenders
 
-('e __NOUN!!!___', 35)
+__PRONOUN!!!___ are a __NOUN!!!___
 
-('today', 33)
+__PRONOUN!!!___ are the __NOUN!!!___
 
-("'em", 33)
+are __PRONOUN!!!___ __NOUN!!!___
 
-('__PRONOUN!!!___ underst', 33)
+the w
 
-('keyser', 33)
+iroh
 
-('comm', 32)
+__NOUN!!!___ __PRONOUN!!!___ f
 
-('__NOUN!!!___ ahead', 32)
+__PRONOUN!!!___ __NOUN!!!___ not underst
 
-('jones', 32)
+buddy
 
-('nash', 32)
+lemur
 
-('damn', 31)
+cabbages
 
-('__NOUN!!!___ us __NOUN!!!___', 30)
+hours
 
-('__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___', 29)
+tile
 
-('[laughlng]', 29)
+everybody
 
-('billboards', 27)
+instincts
 
-('department', 27)
+finally
 
-('__PRONOUN!!!___ is a __NOUN!!!___', 27)
+uhh
 
-('__NOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 27)
+heh
 
-('blondie', 27)
+waterbenders
 
-('bill', 26)
+this __NOUN!!!___
 
-('christ', 26)
+__PRONOUN!!!___ will be __NOUN!!!___
 
-('dollars', 26)
+comm
 
-('__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 26)
+e __PRONOUN!!!___
 
-('indy', 26)
+little __NOUN!!!___
 
-('__NOUN!!!___ to __NOUN!!!___', 25)
+what happened
 
-('__PRONOUN!!!___ got __PRONOUN!!!___', 25)
+__NOUN!!!___ no
 
-('st', 24)
+__PRONOUN!!!___ got __PRONOUN!!!___
 
-('eliot', 24)
+um
 
-('__NOUN!!!___ down', 24)
+b
 
-('ld', 24)
+omashu
 
-('der', 24)
+bumi
 
-('carson', 24)
+faster
 
-('joey', 24)
+__PRONOUN!!!___ am the __NOUN!!!___
 
-('harding', 24)
+challenges
 
-('cheswick', 24)
+__PRONOUN!!!___ cannot
 
-('charles', 24)
+fate
 
-('__PRONOUN!!!___ will __NOUN!!!___', 23)
+flopsy
 
-('minutes', 23)
+duel
 
-('tonight', 23)
+tonight
 
-('robinson', 23)
+__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___
 
-('martini', 23)
+where is __NOUN!!!___
 
-('</i', 22)
+__NOUN!!!___ the __NOUN!!!___
 
-('__NOUN!!!___ of __NOUN!!!___', 22)
+a __NOUN!!!___ __NOUN!!!___
 
-('chicago', 22)
+__PRONOUN!!!___ is a __NOUN!!!___
 
-('al', 22)
+zhangs
 
-('bookkeeper', 22)
+jins
 
-('mission', 22)
+yue
 
-('tommy', 22)
+pakku
 
-('what __NOUN!!!___', 21)
+go __NOUN!!!___
 
-('bitch', 21)
+hiding
 
-('hours', 21)
+__PRONOUN!!!___ can __NOUN!!!___
 
-('se', 21)
+very __NOUN!!!___
 
-('what is the __NOUN!!!___', 21)
+__PRONOUN!!!___ f
 
-('mm', 21)
+in the __NOUN!!!___
 
-('mrs', 20)
+somehow
 
-('thinking', 20)
+__NOUN!!!___ us go
 
-('__PRONOUN!!!___ said', 20)
+__NOUN!!!___ here
 
-('__PRONOUN!!!___ is all __NOUN!!!___', 20)
+__NOUN!!!___ up
 
-('treasury', 20)
+follow __PRONOUN!!!___
 
-('__NOUN!!!___ __PRONOUN!!!___ the __NOUN!!!___', 20)
+awww
 
-('anyone', 20)
+there __PRONOUN!!!___ is
 
-('fenster', 20)
+feels
 
-('er', 20)
+guards
 
-('watney', 20)
+unagi
 
-('sol', 20)
+mmm
 
-('marion', 20)
+__PRONOUN!!!___ too
 
-('a __NOUN!!!___ __NOUN!!!___', 19)
+not bad
 
-('tuco', 19)
+ears
 
-('__NOUN!!!___ ratched', 19)
+se
 
-('mcmurphy: __NOUN!!!___', 19)
+feeling
 
-('alicia', 19)
+__PRONOUN!!!___ gr
 
-('un', 18)
+offense
 
-('months', 18)
+__PRONOUN!!!___ is the __NOUN!!!___
 
-('mmm', 18)
+duke
 
-('what is this', 18)
+reservoir
 
-('in __NOUN!!!___', 18)
+dam
 
-('000', 18)
+zhang
 
-('are __PRONOUN!!!___ __NOUN!!!___', 18)
+festival
 
-('wallace', 18)
+healing
 
-('jews', 18)
+mom
 
-('mcmanus', 18)
+yup
 
-('bullshit', 18)
+__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___
 
-('000 __NOUN!!!___', 17)
+penguin
 
-('hayes', 17)
+fluffy
 
-('this __NOUN!!!___', 17)
+__PRONOUN!!!___ did not
 
-('__NOUN!!!___ at __PRONOUN!!!___', 17)
+ing
 
-('yours', 17)
+bender
 
-('outta', 17)
+a hundred __NOUN!!!___
 
-('though', 17)
+__NOUN!!!___ in
 
-('dad', 17)
+__NOUN!!!___ not __PRONOUN!!!___
 
-('um', 17)
+got __PRONOUN!!!___
 
-('just __NOUN!!!___', 17)
+that __NOUN!!!___
 
-('badge', 17)
+how did __PRONOUN!!!___ __NOUN!!!___ that
 
-('intercept', 17)
+__NOUN!!!___ now
 
-('ail', 17)
+practicing
 
-('seconds', 16)
+the __NOUN!!!___ bef
 
-('income', 16)
+that is great
 
-('__PRONOUN!!!___ __NOUN!!!___ a __NOUN!!!___', 16)
+__NOUN!!!___ __NOUN!!!___ __PRONOUN!!!___
 
-('malone', 16)
+are __PRONOUN!!!___ kidding
 
-('all __NOUN!!!___', 16)
+aww
 
-('phone', 16)
+ry __NOUN!!!___
 
-('won', 16)
+n
 
-('brought', 16)
+__PRONOUN!!!___ underst
 
-('fiji', 16)
+an __NOUN!!!___
 
-('vickie', 16)
+yours
 
-('medication', 16)
+miles
 
-('shh', 16)
+outta
 
-('mcbain', 16)
+vents
 
-('profess', 16)
+minutes
 
-('that __NOUN!!!___', 15)
+ozai
 
-('__PRONOUN!!!___ do', 15)
+__NOUN!!!___ there
 
-('dixon', 15)
+ships
 
-('__NOUN!!!___ to __PRONOUN!!!___', 15)
+ning
 
-('what is __PRONOUN!!!___', 15)
+sounds
 
-('__NOUN!!!___ in', 15)
+ds
 
-('wladek', 15)
+__NOUN!!!___ with __PRONOUN!!!___
 
-('vote', 15)
+shh
 
-('vincent', 15)
+hei
 
-('is __PRONOUN!!!___', 14)
+bai
 
-('__NOUN!!!___ that', 14)
+dragon
 
-('kinda', 14)
+__PRONOUN!!!___ __NOUN!!!___ is __NOUN!!!___
 
-('questions', 14)
+ba
 
-('__NOUN!!!___ a __NOUN!!!___', 14)
+est
 
-('what the __NOUN!!!___', 14)
+blockade
 
-('__NOUN!!!___ to the __NOUN!!!___', 14)
+shyu
 
-('__PRONOUN!!!___ cannot', 14)
+hideout
 
-('do __PRONOUN!!!___ underst', 14)
+by the __NOUN!!!___
 
-('happens', 14)
+__NOUN!!!___ on __PRONOUN!!!___
 
-('where is __NOUN!!!___', 14)
+__PRONOUN!!!___ cannot __NOUN!!!___ __PRONOUN!!!___
 
-('__NOUN!!!___ now', 14)
+problems
 
-('__NOUN!!!___ here', 14)
+thieves
 
-('kobayashi', 14)
+redemption
 
-('r', 14)
+awful
 
-('reeves', 14)
+safety
 
-('willoughby', 13)
+bear
 
-('in the __NOUN!!!___', 13)
+tune
 
-('anyway', 13)
+thern __NOUN!!!___ __NOUN!!!___
 
-('an __NOUN!!!___', 13)
+four __NOUN!!!___
 
-('do not __PRONOUN!!!___', 13)
+eggs
 
-('cigarettes', 13)
+marrying
 
-('bef', 13)
+__NOUN!!!___ to acastus
 
-('holy', 13)
+p
 
-('__NOUN!!!___ __PRONOUN!!!___ up', 13)
+blah
 
-('washington', 13)
+__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___
 
-('ce', 13)
+settle down
 
-('__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 13)
+what is __PRONOUN!!!___
 
-('code', 13)
+sledding
 
-('wonderful', 13)
+are __PRONOUN!!!___ all __NOUN!!!___
 
-("what are __PRONOUN!!!___ doin'", 13)
+haha
 
-('\\ni', 13)
+__PRONOUN!!!___ will not __NOUN!!!___ __PRONOUN!!!___
 
-('weeks', 13)
+__NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('da', 13)
+not __NOUN!!!___
 
-('hm', 13)
+glider
 
-('will __PRONOUN!!!___', 12)
+basics
 
-('doc', 12)
+__PRONOUN!!!___ __NOUN!!!___ not have __NOUN!!!___ f
 
-('charlie', 12)
+what __NOUN!!!___
 
-('__PRONOUN!!!___ know that', 12)
+__PRONOUN!!!___ am an __NOUN!!!___
 
-('oscar', 12)
+attacks
 
-('__PRONOUN!!!___ will be __NOUN!!!___', 12)
+whatever
 
-('everyone', 12)
+t __NOUN!!!___
 
-('is that __PRONOUN!!!___', 12)
+__PRONOUN!!!___ did __PRONOUN!!!___
 
-('some __NOUN!!!___', 12)
+boomerang
 
-('__PRONOUN!!!___ got a __NOUN!!!___', 12)
+did __PRONOUN!!!___
 
-('ledger', 12)
+then __NOUN!!!___
 
-('pounds', 12)
+koi
 
-('ge', 12)
+hog
 
-('jimmy', 12)
+ite
 
-('not __NOUN!!!___', 12)
+the __NOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('__NOUN!!!___ there', 12)
+un
 
-('congratulations', 12)
+__NOUN!!!___ this out
 
-('__PRONOUN!!!___', 12)
+is in the __NOUN!!!___ __NOUN!!!___
 
-('__NOUN!!!___ the __NOUN!!!___ __NOUN!!!___', 12)
+questions
 
-('here __PRONOUN!!!___ __NOUN!!!___', 12)
+cycle
 
-('bailiff', 12)
+that is __NOUN!!!___ __NOUN!!!___
 
-('__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 12)
+there is no __NOUN!!!___
 
-('k __NOUN!!!___', 12)
+__PRONOUN!!!___ were __NOUN!!!___
 
-('cocksucker', 12)
+ones
 
-('dope', 12)
+s of __NOUN!!!___
 
-('bum', 12)
+a __NOUN!!!___ of __NOUN!!!___
 
-('hermes</i', 12)
+what is __PRONOUN!!!___ __NOUN!!!___
 
-('mars', 12)
+t
 
-('meters', 12)
+after all
 
-('salvy', 12)
+supplies
 
-('angela', 11)
+__PRONOUN!!!___ know what __PRONOUN!!!___ __NOUN!!!___
 
-('mation', 11)
+what __NOUN!!!___ __PRONOUN!!!___ want
 
-('camera', 11)
+'s
 
-('mildred', 11)
+nope
 
-('is not __PRONOUN!!!___', 11)
+__PRONOUN!!!___ will
 
-('feeling', 11)
+__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___ off
 
-('youse', 11)
+__NOUN!!!___ to the __NOUN!!!___
 
-('just __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 11)
+__NOUN!!!___ of __NOUN!!!___
 
-('__PRONOUN!!!___ was __NOUN!!!___', 11)
+how about __PRONOUN!!!___
 
-('__PRONOUN!!!___ is __NOUN!!!___ __NOUN!!!___', 11)
+presence
 
-('radio', 11)
+ooo
 
-('__PRONOUN!!!___ do not __NOUN!!!___', 11)
+hehe
 
-('what are __PRONOUN!!!___ doing', 11)
+seriously
 
-('__NOUN!!!___ is __NOUN!!!___', 11)
+great __NOUN!!!___
 
-('mama', 11)
+__NOUN!!!___ l
 
-('__NOUN!!!___ in the __NOUN!!!___', 11)
+__PRONOUN!!!___ is beautiful
 
-('__NOUN!!!___ __NOUN!!!___ there', 11)
+absolutely not
 
-('personally', 11)
+fireballs
 
-('to __NOUN!!!___', 11)
+pipsqueak
 
-('szpilman', 11)
+warden
 
-('p', 11)
+savagery
 
-('there is no __NOUN!!!___', 11)
+this is __PRONOUN!!!___ __NOUN!!!___
 
-('do __PRONOUN!!!___', 11)
+excuse __PRONOUN!!!___
 
-('ghetto', 11)
+ders
 
-('russians', 11)
+__NOUN!!!___ at the __NOUN!!!___
 
-('hockney', 11)
+__PRONOUN!!!___ have no __NOUN!!!___ f
 
-('redfoot', 11)
+the __NOUN!!!___ w
 
-('dog', 11)
+__NOUN!!!___ to __PRONOUN!!!___
 
-('marlon', 11)
+the __NOUN!!!___ of the __NOUN!!!___
 
-('heh', 11)
+__PRONOUN!!!___ am __NOUN!!!___ here
 
-('scanlon', 11)
+crescent
 
-('parcher', 11)
+the isl
 
-('laws', 10)
+ing __NOUN!!!___
 
-('motherfucker', 10)
+__NOUN!!!___ __NOUN!!!___ now
 
-('on the __NOUN!!!___', 10)
+__PRONOUN!!!___ made __PRONOUN!!!___
 
-('what did __PRONOUN!!!___ __NOUN!!!___', 10)
+blasts
 
-('what about __PRONOUN!!!___', 10)
+are __PRONOUN!!!___ ready
 
-('__PRONOUN!!!___ have __NOUN!!!___ __NOUN!!!___', 10)
+__PRONOUN!!!___ __NOUN!!!___ not __NOUN!!!___ __PRONOUN!!!___
 
-('__PRONOUN!!!___ can __NOUN!!!___', 10)
+discipline
 
-('th', 10)
+__NOUN!!!___ to __NOUN!!!___ __NOUN!!!___
 
-('two __NOUN!!!___', 10)
+pai
 
-('miami', 10)
+sho
 
-('a __NOUN!!!___ of __NOUN!!!___', 10)
+__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('alright', 10)
+nice w
 
-('\\nyou', 10)
+__NOUN!!!___ at this
 
-('papers', 10)
+fancy
 
-('germans', 10)
+__PRONOUN!!!___ am so s
 
-('meant', 10)
+what about __PRONOUN!!!___
 
-('__NOUN!!!___ to __NOUN!!!___ __PRONOUN!!!___', 10)
+__PRONOUN!!!___ hon
 
-('hotel', 10)
+th
 
-('biily', 10)
+peasant
 
-('rosen', 10)
+stinks
 
-('asshole', 9)
+h
 
-('ry __NOUN!!!___', 9)
+ed
 
-('which __NOUN!!!___', 9)
+smellerbee
 
-('momma', 9)
+blasting
 
-('did __PRONOUN!!!___', 9)
+e imp
 
-('ing', 9)
+unf
 
-('ner', 9)
+tarp
 
-("'s", 9)
+__NOUN!!!___ of the __NOUN!!!___
 
-('__PRONOUN!!!___ was a __NOUN!!!___', 9)
+harsh w
 
-('have a __NOUN!!!___', 9)
+__NOUN!!!___ will
 
-('big __NOUN!!!___', 9)
+is not __PRONOUN!!!___
 
-('__PRONOUN!!!___ am a __NOUN!!!___', 9)
+folks
 
-('there __PRONOUN!!!___ __NOUN!!!___', 9)
+likes
 
-('mister', 9)
+ritual
 
-('at __NOUN!!!___', 9)
+ies
 
-('__PRONOUN!!!___ __NOUN!!!___ to __NOUN!!!___ __NOUN!!!___', 9)
+__PRONOUN!!!___ will __NOUN!!!___ f
 
-('would __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 9)
+all clear
 
-('ty', 9)
+not f
 
-('list', 9)
+tattoos
 
-("__PRONOUN!!!___ are nothin'", 9)
+keep __NOUN!!!___
 
-('believe __PRONOUN!!!___', 9)
+__PRONOUN!!!___ was not
 
-('aboard', 9)
+what __NOUN!!!___ __PRONOUN!!!___ mean
 
-('__NOUN!!!___ of the __NOUN!!!___', 9)
+toys
 
-('rect', 9)
+mal
 
-('warsaw', 9)
+__PRONOUN!!!___ am not
 
-('defense', 9)
+that is nice
 
-('no __NOUN!!!___ __NOUN!!!___', 9)
+miyuki
 
-('open the do', 9)
+shape
 
-('__NOUN!!!___ __NOUN!!!___ here', 9)
+what __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ are doing
 
-('__PRONOUN!!!___ are __NOUN!!!___ __NOUN!!!___', 9)
+admiral
 
-('downtown', 9)
+meng
 
-('edie', 9)
+curd
 
-('verbal', 9)
+puffs
 
-('__NOUN!!!___ __PRONOUN!!!___ a __NOUN!!!___', 9)
+bunny
 
-('take __PRONOUN!!!___ __NOUN!!!___', 9)
+lava
 
-('immunity', 9)
+abbey
 
-('five __NOUN!!!___', 9)
+disguises
 
-('__NOUN!!!___ away', 9)
+wider
 
-('__PRONOUN!!!___ swear', 9)
+teo
 
-('aii', 9)
+the n
 
-('christof', 9)
+kana
 
-('2', 9)
+hahn
 
-('mav', 9)
+__PRONOUN!!!___ is not getting away from __PRONOUN!!!___ this __NOUN!!!___
 
-('ares', 9)
+__NOUN!!!___ out
 
-('__NOUN!!!___ on __PRONOUN!!!___', 9)
+__PRONOUN!!!___ have to __NOUN!!!___
 
-('winner', 9)
+lights
 
-('middleweight', 9)
+madness
 
-('__PRONOUN!!!___ know what __NOUN!!!___ __NOUN!!!___', 9)
+__PRONOUN!!!___ will see
 
-('wheeler', 9)
+gr
 
-('sunday', 8)
+__NOUN!!!___ does
 
-('thinks', 8)
+__PRONOUN!!!___ is f
 
-('actually', 8)
+currents
 
-('william', 8)
+__PRONOUN!!!___ is amazing
 
-('upstairs', 8)
+that was amazing
 
-('e __NOUN!!!___ __NOUN!!!___', 8)
+t of
 
-('losing', 8)
+no m
 
-('by the __NOUN!!!___', 8)
+becomes
 
-('taxi', 8)
+now __NOUN!!!___
 
-('daddy', 8)
+__PRONOUN!!!___ is imp
 
-('bastards', 8)
+__PRONOUN!!!___ got a __NOUN!!!___
 
-('what can __PRONOUN!!!___ do __NOUN!!!___', 8)
+this is not __NOUN!!!___
 
-('payments', 8)
+meantime
 
-('the __NOUN!!!___ of the __NOUN!!!___', 8)
+penguins
 
-('what is __PRONOUN!!!___ __NOUN!!!___', 8)
+a __NOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('keys', 8)
+twelve
 
-('another __NOUN!!!___', 8)
+__NOUN!!!___ about __PRONOUN!!!___
 
-('__PRONOUN!!!___ all __NOUN!!!___', 8)
+__PRONOUN!!!___ is the only __NOUN!!!___
 
-('cars', 8)
+__NOUN!!!___ us __NOUN!!!___ out of here
 
-('lives', 8)
+__NOUN!!!___ us __NOUN!!!___ __NOUN!!!___
 
-('__PRONOUN!!!___ are a __NOUN!!!___ __NOUN!!!___', 8)
+traps
 
-('wh', 8)
+the last __NOUN!!!___
 
-('that is __PRONOUN!!!___ __NOUN!!!___', 8)
+are not __PRONOUN!!!___
 
-('there is no __NOUN!!!___ __NOUN!!!___', 8)
+__PRONOUN!!!___ was an __NOUN!!!___
 
-("'", 8)
+__PRONOUN!!!___ is __PRONOUN!!!___ __NOUN!!!___
 
-('__NOUN!!!___ of a __NOUN!!!___', 8)
+the f
 
-('there __PRONOUN!!!___ is', 8)
+__PRONOUN!!!___ are __NOUN!!!___ a __NOUN!!!___
 
-('__PRONOUN!!!___ is __PRONOUN!!!___', 8)
+sometime
 
-('doct', 8)
+__NOUN!!!___ out of __PRONOUN!!!___ __NOUN!!!___
 
-('shots', 8)
+bidden
 
-('flier', 8)
+c'mon
 
-('__NOUN!!!___ __PRONOUN!!!___ very much', 8)
+where __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ are going
 
-('all of __PRONOUN!!!___', 8)
+__PRONOUN!!!___ __NOUN!!!___ so
 
-('__NOUN!!!___ on the __NOUN!!!___', 8)
+ohhh
 
-('jury', 8)
+__NOUN!!!___ no __NOUN!!!___
 
-('pianist', 8)
+spent
 
-('zlotys', 8)
+boyfriend
 
-('__PRONOUN!!!___ are a __NOUN!!!___', 8)
+__PRONOUN!!!___ little __NOUN!!!___
 
-('jew', 8)
+fathers
 
-('cigarette', 8)
+the __NOUN!!!___ has escaped
 
-('__PRONOUN!!!___ am telling __PRONOUN!!!___', 8)
+__NOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___
 
-('hiding', 8)
+big __NOUN!!!___
 
-('tant', 8)
+have __PRONOUN!!!___
 
-('__PRONOUN!!!___ does not __NOUN!!!___', 8)
+__NOUN!!!___ __PRONOUN!!!___ down
 
-("__PRONOUN!!!___ fuckin' __NOUN!!!___", 8)
+monkeys
 
-('lineup', 8)
+skills
 
-('kint', 8)
+places
 
-('__NOUN!!!___ about __PRONOUN!!!___', 8)
+aaahhh
 
-('tells', 8)
+__NOUN!!!___ __PRONOUN!!!___ off
 
-('coke', 8)
+prínce
 
-('ld __NOUN!!!___', 8)
+d's __NOUN!!!___
 
-('meryl', 8)
+__PRONOUN!!!___ have to go
 
-('schedule', 8)
+__PRONOUN!!!___ would be hon
 
-('transmission', 8)
+ginseng
 
-('3', 8)
+sake
 
-('johanssen', 8)
+who is that
 
-('bruce', 8)
+__PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ know
 
-('baker', 8)
+hmmm
 
-('jackson', 8)
+technique
 
-('bull', 8)
+__PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___ __NOUN!!!___ __NOUN!!!___
 
-('referee', 8)
+is __PRONOUN!!!___
 
-('boo', 8)
+this whole __NOUN!!!___ __NOUN!!!___
 
-('janiro', 8)
+sixteen
 
-('bancini', 8)
+is __NOUN!!!___
 
-('iike', 8)
+two __NOUN!!!___
 
-('taber', 8)
+__PRONOUN!!!___ failed
 
-('peculiar', 8)
+tant
 
-('turkle', 8)
+that is the __NOUN!!!___ __NOUN!!!___
 
-('cheyenne', 8)
+avatars
 
-('belloq', 8)
+__PRONOUN!!!___ is true
 
-('tanis', 8)
+dies
 
-('martin', 8)
+snap out of __PRONOUN!!!___
 
-('welby', 7)
+shhhh
 
-('what __PRONOUN!!!___ __NOUN!!!___', 7)
+__NOUN!!!___ not __NOUN!!!___ to __PRONOUN!!!___
 
-('can __PRONOUN!!!___ __NOUN!!!___', 7)
+impossible
 
-('__PRONOUN!!!___ know __PRONOUN!!!___', 7)
+at __NOUN!!!___
 
-('__PRONOUN!!!___ is a __NOUN!!!___ __NOUN!!!___', 7)
+have __PRONOUN!!!___ f
 
-('tv', 7)
+__PRONOUN!!!___ will never f
 
-('__PRONOUN!!!___ __NOUN!!!___ the __NOUN!!!___', 7)
+__NOUN!!!___ in __NOUN!!!___
 
-('jason', 7)
+give __PRONOUN!!!___ the __NOUN!!!___
 
-('__PRONOUN!!!___ will __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 7)
+bugging
 
-('__NOUN!!!___ __NOUN!!!___ __NOUN!!!___ __NOUN!!!___', 7)
+are not __PRONOUN!!!___ __NOUN!!!___
 
-('ds', 7)
+__PRONOUN!!!___ said
 
-('kidding', 7)
+__PRONOUN!!!___ am going to __NOUN!!!___ __PRONOUN!!!___
 
-('just __NOUN!!!___ __PRONOUN!!!___', 7)
+__PRONOUN!!!___ have gotta __NOUN!!!___ __PRONOUN!!!___
 
-('businessman', 7)
+__PRONOUN!!!___ could __NOUN!!!___ a __NOUN!!!___
 
-('ry about __PRONOUN!!!___', 7)
+centuries
 
-('__PRONOUN!!!___ will be all __NOUN!!!___', 7)
+that is __PRONOUN!!!___
 
-('__PRONOUN!!!___ am so __NOUN!!!___', 7)
+__NOUN!!!___ some __NOUN!!!___
 
-('to __NOUN!!!___ __NOUN!!!___', 7)
+this is tasty
 
-('sounds', 7)
+treatment
 
-('what are __PRONOUN!!!___ doing here', 7)
+__PRONOUN!!!___ am __NOUN!!!___ __PRONOUN!!!___ will be __NOUN!!!___
 
-('__PRONOUN!!!___ have a __NOUN!!!___', 7)
+exception
 
-('tune', 7)
+in __PRONOUN!!!___ __NOUN!!!___
 
-('__PRONOUN!!!___ is __PRONOUN!!!___ __NOUN!!!___', 7)
+__PRONOUN!!!___ is not __PRONOUN!!!___ __NOUN!!!___
 
-('__NOUN!!!___ __NOUN!!!___ of the __NOUN!!!___', 7)
+aangy
 
-('codes', 7)
+just a second
 
-('th __NOUN!!!___', 7)
+another __NOUN!!!___
 
-('piss', 7)
+__PRONOUN!!!___ mean all of __PRONOUN!!!___
 
-('that is all', 7)
+insignia
 
-('__PRONOUN!!!___ have no __NOUN!!!___', 7)
+have __NOUN!!!___
 
-('bust', 7)
+__PRONOUN!!!___ __NOUN!!!___ up
 
-('__PRONOUN!!!___ are __PRONOUN!!!___ __NOUN!!!___', 7)
+on __PRONOUN!!!___ __NOUN!!!___
 
-('__NOUN!!!___ __NOUN!!!___ of here', 7)
+es
 
-('__NOUN!!!___ __PRONOUN!!!___ so much', 7)
-
-('__PRONOUN!!!___ do not underst', 7)
-
-('__NOUN!!!___ __NOUN!!!___ __PRONOUN!!!___ __NOUN!!!___', 7)
-
-('likes', 7)
-
-('if __PRONOUN!!!___ __NOUN!!!___ __PRONOUN!!!___', 7)
-
-('__NOUN!!!___ on', 7)
-
-('__PRONOUN!!!___ is not __NOUN!!!___', 7)
-
-('why did __PRONOUN!!!___ do __PRONOUN!!!___', 7)
-
-('berlin', 7)
-
-('finneran', 7)
-
-('four __NOUN!!!___', 7)
-
-('__NOUN!!!___ __NOUN!!!___ the __NOUN!!!___', 7)
-
-('sergeant', 7)
-
-('prisoners', 7)
-
-('that is a __NOUN!!!___ __NOUN!!!___', 7)
-
-('__PRONOUN!!!___ is gone', 7)
-
-("fuckin' __NOUN!!!___", 7)
-
-('seahaven', 7)
-
-('sylvia', 7)
-
-('cam', 7)
-
-('television', 7)
-
-('1', 7)
-
-('degrees', 7)
-
-('telemetry', 7)
-
-('miles', 7)
-
-('__NOUN!!!___ __PRONOUN!!!___ loose', 7)
-
-('like a __NOUN!!!___', 7)
-
-('harder', 7)
-
-('to the __NOUN!!!___', 7)
-
-('washlngton: __NOUN!!!___', 7)
-
-('fredrickson', 7)
-
-('aah', 7)
-
-('ratched: __NOUN!!!___', 7)
-
-('tabes', 7)
-
-('[stuttering]', 7)
-
-('warren', 7)
-
-('cairo', 7)
-
-('headpiece', 7)
-
-('sallah', 7)
-
-('__NOUN!!!___ by <font col', 6)
-
-('desk', 6)
-
-('answers', 6)
-
-('__NOUN!!!___ us __NOUN!!!___ __NOUN!!!___', 6)
-
-('rights', 6)
-
-('__PRONOUN!!!___ got __NOUN!!!___', 6)
-
-('__PRONOUN!!!___ __NOUN!!!___ that __NOUN!!!___', 6)
-
-('those __NOUN!!!___', 6)
-
-("ain't __PRONOUN!!!___", 6)
-
-('books', 6)
-
-('if __PRONOUN!!!___ __NOUN!!!___ __NOUN!!!___', 6)
-
-('__PRONOUN!!!___ can __NOUN!!!___ __PRONOUN!!!___', 6)
+__PRONOUN!!!___ will __NOUN!!!___ __NOUN!!!___
 
