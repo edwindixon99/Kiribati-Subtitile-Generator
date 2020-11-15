@@ -514,7 +514,7 @@ def translate_file(filename, film):
     w.write(string)
     w.close()
 
-translate_file("La.La.Land.2016.720p.BluRay.x264.[YTS.MX]-English.srt", "Rlalaaland")
+translate_file("Full.Metal.Jacket.1987.720p.BluRay.x264.[YTS.MX]-English.srt", "metal jacket")
 
 #if __name__ == '__main__':
     ##translate_file("Twins.1988.1080p.BluRay.x264-[YTS.MX]-English.srt", "king")
