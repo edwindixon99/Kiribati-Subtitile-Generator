@@ -10,7 +10,7 @@ stop = stopwords.words('english')
 from nltk.corpus import wordnet
 from nltk.corpus import wordnet as wn
 
-filename = "output.txt"
+#filename = "output.txt"
 
 contractions = { 
 "aren't": "are not",
