@@ -190,6 +190,8 @@ have a good day : Tekeraoi am bong!
 
 i love you : i tangiriko
 
+i love the : i tangira
+
 i miss you : i rangi ni mitiniko
 
 #miss you : i rangi ni mitiniko : miss you very much
@@ -81912,13 +81914,15 @@ songs : kainikararao : a professional stick for a composer of songs
 
 songs : kurara : our songs
 
-soon : kai : easily, without difficulty, soon, readily
+soon : kiriaria
 
-soon : kaen : nearly, almost, soon
+#soon : kai : easily, without difficulty, soon, readily
 
-soon : kan : e a kan rokona, e a kan roko: it will soon arrive
+#soon : kaen : nearly, almost, soon
 
-soon : uana naba : ao ai uana naba: and so on, and so forthh <etc.>
+#soon : kan : e a kan rokona, e a kan roko: it will soon arrive
+
+#soon : uana naba : ao ai uana naba: and so on, and so forthh <etc.>
 
 soothe : wi-ni-kamarane : wiwikamaranea: to tease, to soothe by insinuating words, flattery, to flatter,
 to seduce
