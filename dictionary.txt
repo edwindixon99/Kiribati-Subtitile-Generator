@@ -31338,21 +31338,21 @@ fatal : kamaeraua : to soften, to give the fatal blow to
 
 fatal : matarara : fatal result of sorcery, evil spell, baneful day
 
-father : baba : papa (father)
+#father : baba : papa (father)
 
-father : iteranim'aane : father's relative
+#father : iteranim'aane : father's relative
 
-father : karona : to consider and treat a person as one's own father or mother
+#father : karona : to consider and treat a person as one's own father or mother
 
-father : nae/tina : to adopt as a son or daughter, to father, to mother
+#father : nae/tina : to adopt as a son or daughter, to father, to mother
 
 father : tama : a father
 
 father : tama : tamau, tamam ...: father, my father, your 
 
-father : tamana : to take as a father, to make a father of one
+#father : tamana : to take as a father, to make a father of one
 
-father : tamatama : filial, kind to a father
+#father : tamatama : filial, kind to a father
 
 fatherland : rikia : rikiau, rikiam, rikiana, etc. origin (family and place), native land, native
 place, fatherland
