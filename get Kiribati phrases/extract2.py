@@ -35,7 +35,11 @@ for i in alpha:
                 translist = translation.split(":")
                 if len(translist) == 2:
                     count += 1
-                    diction[translist[0]] = translist[1]
+                    #diction[eng_word] = kir_word 
+                    [kir_word, eng_word] = translist
+                    if eng_word != "":
+                
+                        final.append(eng_word + " : " + kir_word)
                     #print(translist)
             #if line.startswith("<FONT COLOR=darkred><B>"):
                 #count += 1
