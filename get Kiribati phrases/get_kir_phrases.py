@@ -89,6 +89,6 @@ for i in range(len(lines)):
 
 
 final = '\n\n'.join(final)
-w = open("dictionaryeng-kir3.txt", 'w')
+w = open("dictionaryeng-kir34t43.txt", 'w')
 w.write(final)
 w.close()

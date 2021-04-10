@@ -152,11 +152,7 @@ turning : te tabiro
 
 1. we will sit down to eat. 2. we will start a fight : ti na rairi buarera
 
-9 : ps. 137
-
-9 : rua-nga
-
-000 : rua-nga
+9000 : rua-nga
 
 900 : rua-bubua
 
