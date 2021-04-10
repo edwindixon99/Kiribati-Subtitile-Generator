@@ -1,6 +1,6 @@
 import re
 
-filename = "dictionarynumbidiom1.txt"
+filename = "dictionarynumb.txt"
 
 lines = open(filename, "r").readlines()
 
@@ -9,7 +9,7 @@ lines = open(filename, "r").readlines()
 final = []
 c = 0
 
-bl = ["", " ", "etc.", "etc", "..."]
+bl = ["", " ", "etc.", "etc", "...", "etc.)", "etc. (for things)"]
 for i in range(len(lines)):
     line = lines[i].rstrip().strip()
     #print(line)
@@ -20,8 +20,11 @@ for i in range(len(lines)):
         c += 1
         #kirs = line[0].split(",")
         #engs = line[1].split(",")
-        rese = re.split('[?!,]', line[1])
-        resk = re.split('[?!,]', line[0]) 
+        resk = re.split('[?!,]', line[1])
+        rese = re.split('[?!,]', line[0])
+        
+        #rese = re.split('[?!,]', line[1])
+        #resk = re.split('[?!,]', line[0])         
         print(rese)
         if (len(rese) > 1) and len(rese) == len(resk):
             for p in range(len(rese)):
@@ -86,6 +89,6 @@ for i in range(len(lines)):
 
 
 final = '\n\n'.join(final)
-w = open("dictionaryeng-kir.txt", 'w')
+w = open("dictionaryeng-kir3.txt", 'w')
 w.write(final)
 w.close()
