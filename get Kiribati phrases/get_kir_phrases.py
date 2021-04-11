@@ -34,17 +34,17 @@ for i in range(len(lines)):
                 if ef not in bl and kf not in bl:
                     final.append("{} : {}".format(ef, kf))                    
                 #final.append("{} : {}".format(rese[p].strip(), resk[p].strip()))
-        elif (len(rese) > 1 or len(resk) > 1) and abs(len(rese) - len(resk)) >2:
-            print()
+        #elif (len(rese) > 1 or len(resk) > 1) and abs(len(rese) - len(resk)) >2:
+            #print()
         elif len(rese) > 1 or len(resk) > 1:
             for k1 in resk:
                 for e1 in rese:
                     ef, kf = e1.strip(), k1.strip()
                     if ef not in bl and kf not in bl:
-                        #final.append("{} : {}".format(ef, kf)) 
-                        if not (len(rese) == 1 and ef.startswith("(")):
-                            print(rese)
-                            final.append("* {} : {}".format(ef, kf))                        
+                        final.append("* {} : {}".format(ef, kf)) 
+                        #if not (len(rese) == 1 and ef.startswith("(")):
+                            #print(rese)
+                            #final.append("* {} : {}".format(ef, kf))                        
                     #final.append("{} : {}".format(e1.strip(), k1.strip()))
         
         else:
