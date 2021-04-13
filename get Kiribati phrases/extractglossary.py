@@ -35,7 +35,7 @@ try:
             translist = translation.split("   ")
             print(translist)
             kir = translist[0].strip().strip(".")
-            final.append("{} : {}".format(translist[-1], kir))
+            final.append("{} : {}".format(translist[-1].strip("."), kir))
             
     print(count)
             
